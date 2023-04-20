@@ -3360,6 +3360,1058 @@
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOWQ3MDg1MTgtMmI4ZC00YjU3LWIyZGEtNmRkNzI0Y2QyN2ExXkEyXkFqcGdeQXVyNzgzODI1OTE@._V1_FMjpg_UX1000_.jpg"
 		}
     ],
+    "TeluguMovie":[
+		{
+			"id": 1,
+			"Video_Id": "OR3baA2yx7A",
+			"Movie_name": "Sir",
+			"Description": "A young man faces a difficult time as he struggles against the privatization of education.",
+			"Movieimg": "https://www.cinejosh.com/reviewsimg/big/sir-review_b_1702230652.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "W7kpeRWhuT0",
+			"Movie_name": "You Avakai Me Ice Cream",
+			"Description": "The plot revolves around two individuals in love. They both are professional chefs. They cross paths and things completely change. Will they be able to sort off the complexities and stay together?",
+			"Movieimg": "https://bingeddata.s3.amazonaws.com/uploads/2022/06/You-Avakai-Me-Ice-Cream-1.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "m6B7KGgC91U",
+			"Movie_name": "Desamuduru",
+			"Description": "After Bala, who works for a TV channel, gets into trouble with a thug, he is sent away for an out-of-town assignment. He meets and falls in love with a woman who is shortly kidnapped by a gangster.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/4/4a/Desamuduru_Poster.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "LVVrvbjjGbc",
+			"Movie_name": "O Manchi Roju Chusi Chepta",
+			"Description": "A tribal man, bound by tradition, arrives in the city to kidnap his betrothed. He incidentally also meets the girl's lover who, after realising his intentions, sets out to rescue her.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/o-manchi-roju-chusi-chepta-et00309567-30-03-2021-03-51-03.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "PVDZ-90ZYT8",
+			"Movie_name": "RAYAN",
+			"Description": "Mahendran borrows a huge amount of money for his daughter's operation. However, when a group of criminals steals his money, Mahendran seeks police inspector Tamilarasan's help.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZWUxNWRiMGYtYzlmYi00Y2U1LWJmNGQtNWNjYjkyOTZhMzc4XkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "_mJ_3KILHI4",
+			"Movie_name": "Kukka Dayamaa",
+			"Description": "The film narrates the tale of a ragpicker, who does petty thefts and leads a happy life with his friends.",
+			"Movieimg": "https://i.ytimg.com/vi/_mJ_3KILHI4/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "kZaiZzBQCfk",
+			"Movie_name": "Thala",
+			"Description": "The young Chief Minister of Tamil Nadu (Santhosh Prathap) is kidnapped and goes missing suddenly and the main suspect is Nanjilaar (Gautham Vasudev Menon) the deputy CM who owns the majority of MLAs.",
+			"Movieimg": "https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/01/Thegimpu-Movie-Review-Rating7.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "1PT4Qjj1hHI",
+			"Movie_name": "Thuruppugulan",
+			"Description": "The film opens with a kind-hearted street-rowdy who manages his problem and promises to help his stepsister arrives.",
+			"Movieimg": "https://i.ytimg.com/vi/1PT4Qjj1hHI/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "4UBeCxmihrg",
+			"Movie_name": "Samajavaragamana",
+			"Description": "Starring Sree Vishnu and Reba Monica John play the lead roles. The movie is written and directed by Ram Abbaraju. The movie also stars Naresh, Srikanth Iyengar, Vennala Kishore, and many others in prominent roles. The music is composed by Gopi Sundar.",
+			"Movieimg": "https://www.filmibeat.com/img/popcorn/movie_posters/samajavaragamana-20230214155332-21588.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "ladTQPzvj5Q",
+			"Movie_name": "Mismatch",
+			"Description": "Siddharth, a technician, and Mahalakshmi, a wrestler, fall in love with each other and wish to get married. However, their families oppose their union, landing them in a tough spot.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/8/8d/Mismatch_poster.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "EVexuKj-V6I",
+			"Movie_name": "Palasa1978",
+			"Description": "Guru Murthy, a rich landlord, and his brother abuse the lower castes. However, Mohan Rao and his brother decide to fight the tyranny of the landlords, sparking communal tension.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BN2JhNDMxN2EtM2ZlZS00MjE2LTg4ODUtMzcyYmYzZDZmOGJlXkEyXkFqcGdeQXVyMTA1NzgzNDYz._V1_.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "CJSzJpsrUns",
+			"Movie_name": "SHAKTHI",
+			"Description": "Shakthi (Sivakarthikeyan), a superhero fanatic since his childhood fails to fulfil Meera's (Kalyani Priyadarshan) proposal of getting an engineering college admission for an extremely talented girl in a legit way. When he discovers that it was Mahadev (Abhay Deol) who has corrupted the education system, Shakthi decides to transform into a superhero and fight Mahadev & his henchmen.",
+			"Movieimg": "https://m.media-amazon.com/images/I/81QH9q+vdML._RI_.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "6wO8QR3piIU",
+			"Movie_name": "Ramarao on Duty",
+			"Description": "Ramarao on Duty is a 2022 Indian Telugu-language mystery action drama film written and directed by Sarath Mandava. Produced by SLV Cinemas and RT Team Works, it stars Ravi Teja in titular role alongside Divyansha Kaushik, Rajisha Vijayan, Chaitanya Krishna, and Venu Thottempudi.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjgyNTBlOGYtZjgzMS00NDM1LWFhZTItMTNlNWZlOGI4YmVjXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "dyytEgzrOac",
+			"Movie_name": "Sarrainodu",
+			"Description": "An ex-military man beats up corrupt individuals who have escaped punishment from the law. However, he is caught in a dilemma when his lover promises to marry him only if he gives up his violent ways.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sarrainodu-et00038117-17-11-2020-02-06-39.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "JUyIjBCQmm0",
+			"Movie_name": "Rang De",
+			"Description": "Arjun, a spoilt young man, is jealous of his neighbour, Anu, as she gets doted on by everyone around him. He finds out that she wishes to move abroad for higher education and decides to ruin her plan.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTUxYjk4OGYtNTg0My00MzA2LTg2MjYtYTNlOWU3YjY2MWU0XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "VTntHIutzZI",
+			"Movie_name": "Dhruva",
+			"Description": "Dhruva, an IPS officer, discovers a strong network of organised crime. He then intends to take down the mastermind behind a huge racket and encounters numerous challenges on his way.",
+			"Movieimg": "https://images.jdmagicbox.com/comp/jd_social/news/2018aug09/image-244983-0q2cv25p62.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "c1IvSjevS0Q",
+			"Movie_name": "Godse",
+			"Description": "Terror and turmoil fill the air when many prominent leaders are held hostage by Godse. This triggers an investigation by a diligent police officer who sets off to probe Godse's motive.",
+			"Movieimg": "https://www.cinejosh.com/reviewsimg/big/godse-review_b_1706220241.jpg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "YzmjCwPiLbk",
+			"Movie_name": "Julayi",
+			"Description": "Ravi happens to cross paths with Bittu, a gangster, and helps the police foil his plan to rob a bank. Eventually, Bittu resolves to destroy Ravi and his family.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Julai_poster.jpg/220px-Julai_poster.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "IPXFsJ9YmZk",
+			"Movie_name": "Jersey",
+			"Description": "Arjun, a talented but failed cricketer, decides to return to cricket in his late thirties driven by the desire to represent the Indian cricket team and fulfil his son's wish for a jersey as a gift.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BY2ZjZTY1MTUtY2NkOS00Zjc0LWIyMjktNzIwNDQ4Mzk0MzFiXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "0ifQgu9ZeHo",
+			"Movie_name": "World Famous Lover",
+			"Description": "As Gautham, an aspiring writer, grieves his heartbreak by penning his thoughts in the form of love stories, he recognises the mistakes made by him in his relationship.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMGVlZDU0NzAtY2M3OC00YjQxLTkwYmUtNTgwNTdmYTViOWNjXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg"
+		},
+		{
+			"id": 21,
+			"Video_Id": "R16TGaEFyyg",
+			"Movie_name": "Maa Abbayi",
+			"Description": "A young man falls in love with a girl in his colony. However, things turn awry when he loses his family in a terrorist attack.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BY2RmYTRjZGMtMDcwNy00MGRjLWFmZDMtZTU5Y2ZmYTQyOTg5XkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 22,
+			"Video_Id": "LA6QIKFdoUw",
+			"Movie_name": "Nartanasala",
+			"Description": "Radha Krishna, who runs a self-defence class for women, falls in love with a girl. When his father fixes his marriage with another girl, he comes up with a lie to escape from the situation.",
+			"Movieimg": "https://static.toiimg.com/photo/msid-65605304/65605304.jpg"
+		},
+		{
+			"id": 23,
+			"Video_Id": "_nKFH-wbwtE",
+			"Movie_name": "IIT Krishnamurthy",
+			"Description": "Krishnamurthy, an IIT student from Mumbai, travels to Hyderabad to learn about his family. However, when he learns of his uncle's mysterious disappearance, he sets out to find him.",
+			"Movieimg": "https://m.media-amazon.com/images/I/712714LqQZL._RI_.jpg"
+		},
+		{
+			"id": 24,
+			"Video_Id": "vN5c0vcI3JQ",
+			"Movie_name": "Jadoogadu",
+			"Description": "Krishna, a villager who is determined to become wealthy, bumps into a moneylender, Anakonda, and joins a gang. However, after climbing the ranks, he realises that his gang leader plans to trap him.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTZlZWIwZWYtZGE2Yi00OGI3LThiYTYtOTVkZGUyMGM0Y2I4XkEyXkFqcGdeQXVyNTE0NDY5Njc@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 25,
+			"Video_Id": "Nv74dEsf4Mk",
+			"Movie_name": "Chakram",
+			"Description": "Chakram and Lakshmi are medical students who fall in love with each other. However, when Chakram gets diagnosed with cancer ahead of their wedding, he leaves her and moves to another city.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/3/31/Chakram_poster.jpg"
+		},
+		{
+			"id": 26,
+			"Video_Id": "5M7-TOEnzR4",
+			"Movie_name": "One Side Love Story",
+			"Description": "Revanth is a lower caste Christian settled in Hyderabad who runs a Zumba center. Mounika, an upper caste girl, also arrives in Hyderabad in search of a job and moves into a neighbouring house.",
+			"Movieimg": "https://i.ytimg.com/vi/5M7-TOEnzR4/hq720.jpg"
+		},
+		{
+			"id": 27,
+			"Video_Id": "LS6XiINMc2s",
+			"Movie_name": "Srimanthudu",
+			"Description": "Harsha is the idealistic scion of a self-made multimillionaire, Ravikanth. After a chance meeting with Charuseela leads him to a remote village, Harsha wishes to develop it with her help.",
+			"Movieimg": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/A1Su0gO-wWL._RI_.jpg"
+		},
+		{
+			"id": 28,
+			"Video_Id": "VG0yKubtGuE",
+			"Movie_name": "Malli Malli Idi Rani Roju",
+			"Description": "An unfortunate incident separates a state-level athlete from his lover, who then moves to Malaysia. Years later, she returns to India but certain misunderstandings threaten to keep them apart.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BODUwZTA5ZWQtMDJkNC00NzRhLTkxMjEtMGFlNzc5MzU1MzAxXkEyXkFqcGdeQXVyNTUzMTc1NjE@._V1_.jpg"
+		},
+		{
+			"id": 29,
+			"Video_Id": "1FYEzselnB8",
+			"Movie_name": "Vinaro Bhagyamu Vishnu Katha",
+			"Description": "Things take a turn as two lovely individuals cross paths, developing a strong bond and becoming integral for each other.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMGMxOGUzNjAtM2ZkZS00NjljLTg1NTItY2NlMWNhYTdkM2YwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
+		},
+		{
+			"id": 30,
+			"Video_Id": "nvE4RFWPqHE",
+			"Movie_name": "Saakshyam",
+			"Description": "When a criminal gang slaughters an entire family, the baby survives. He is taken in by a family and the forces of nature work together to bring him face to face with the gang again when he grows up.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTBkYzcyNWMtODcxMy00MjU1LWJjNWUtZTI3ZmViMGU3ZWVlXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg"
+		},
+		{
+			"id": 31,
+			"Video_Id": "h6kpJCxU8V8",
+			"Movie_name": "Takkari",
+			"Description": "A bright young man who wants to become a realtor, much to the chagrin of his father, gets entwined into gambling. He eventually falls in love with a girl who brings him back on the right path.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzBhYWY4MTctMTk3Yy00ODcwLWJhOTQtYTRlM2E2MWU4NWJhXkEyXkFqcGdeQXVyODA2ODM3NDQ@._V1_.jpg"
+		},
+		{
+			"id": 32,
+			"Video_Id": "2lIW-Ak6d5Q",
+			"Movie_name": "Yemaipothaney",
+			"Description": "Jyotish, a young and talented but jobless chap falls head over heels for Shubhani, a lovely girl who doesn't believe in love. Jyotish's life takes a roller coaster ride once Shubhani notices his interest towards her.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZDQ1MGJhOWMtZmQ4Zi00NzgwLWI3NzUtNWJlNGMxYTlhNjNmXkEyXkFqcGdeQXVyMTMzNzA4MTMx._V1_.jpg"
+		},
+		{
+			"id": 33,
+			"Video_Id": "r9HVK4tGorQ",
+			"Movie_name": "Pilla Zamindar",
+			"Description": "Praveen, the spoilt grandson of a landlord, sets out to complete his education in order to inherit his grandfather's wealth. In the process, he learns some valuable lessons about life.",
+			"Movieimg": "https://images.jdmagicbox.com/comp/jd_social/news/2018jul27/image-156764-v0puz5adak.jpg"
+		},
+		{
+			"id": 34,
+			"Video_Id": "wd0r6G2Fxlk",
+			"Movie_name": "Lovers Day",
+			"Description": "With some help from his friends, a teenager begins dating his classmate. However, an incident causes a rift between them and he falls in love with his best friend.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/lovers-day-et00095251-30-01-2019-04-20-21.jpg"
+		},
+		{
+			"id": 35,
+			"Video_Id": "74B6dY4Utrg",
+			"Movie_name": "Kathalo Rajakumari",
+			"Description": "Arjun, an egoistic superstar, discovers that he is unable to portray villainous roles which were once his forte. Soon, he comes up with an evil plan in order to regain his acting prowess.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/9/93/Kathalo_Rajakumari.jpg"
+		},
+		{
+			"id": 36,
+			"Video_Id": "sWg-wtCpApo",
+			"Movie_name": "Ishq",
+			"Description": "Fate brings two individuals together after their flight to Hyderabad is forced to land in Goa. Along the way, they forge a special bond that changes their lives forever.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYmZhMmNmZjItOGFlMS00OGE1LWI2ZGMtMDFmZGRlNGY1NWQ1XkEyXkFqcGdeQXVyNTUzMTc1NjE@._V1_.jpg"
+		},
+		{
+			"id": 37,
+			"Video_Id": "QcMPvcpAMEE",
+			"Movie_name": "Prince",
+			"Description": "Prince is a story of a thief who loses his memory one morning. A girl named Maya claims to be his girlfriend and tells him a story about his past which he believes. Later another woman named Maya claims to be his girlfriend who tells him another story.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWY1MjEzZWItNjZiOC00YzY4LWJiMjgtMTU4MDczYWExYzIwXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg"
+		},
+		{
+			"id": 38,
+			"Video_Id": "OhAJlWYyGdQ",
+			"Movie_name": "Gentleman",
+			"Description": "Catherine and Aishwarya, co-passengers on a plane journey, become friends and share their love stories. Catherine is shocked when she learns that the man she is dating resembles Aishwarya's fiance.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZDI0OTZmNjEtMGI0My00NTU1LWFhOWUtOThjN2FhYzIzMTI4XkEyXkFqcGdeQXVyNTAxODUwNDk@._V1_.jpg"
+		},
+		{
+			"id": 39,
+			"Video_Id": "PFJG8DuDe4o",
+			"Movie_name": "Maha Samudram",
+			"Description": "Arjun and Vijay's friendship takes a bitter turn after Vijay selfishly leaves him, leading Arjun to clean up the mess he created. Years later, the duo comes to face each other as enemies.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BY2Y2Y2ZiMjMtMjZiZS00N2E1LWE4N2ItZDA2NDMyZjlmNDkyXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 40,
+			"Video_Id": "1O__42lUaqA",
+			"Movie_name": "Gurthunda Seethakalam",
+			"Description": "Gurthunda Seethakalam is a 2022 Indian Telugu-language romantic drama film directed by Nagashekar. A remake of the 2020 Kannada film Love Mocktail, it stars Satyadev and Tamannaah. The plot follows a middle-aged software employee, who endures several heartbreaks in his quest to find his true love.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZmUyYzc1NmEtZjU1NS00YjVmLWJjN2UtYWM5MGE5YmY1NWUzXkEyXkFqcGdeQXVyMTMwODQxNzQ2._V1_.jpg"
+		},
+		{
+			"id": 41,
+			"Video_Id": "5psnI9CaZAE",
+			"Movie_name": "Aravinda Sametha Veera Raghava",
+			"Description": "A young man sets out to avenge his father's death but soon realises that violence is not the key to his salvation. His life changes when he meets a young woman, who helps him rediscover himself.",
+			"Movieimg": "https://images.jdmagicbox.com/comp/jd_social/news/2018aug14/image-423181-gmi3hstfn8.jpg"
+		},
+		{
+			"id": 42,
+			"Video_Id": "XWrcuzPwN1w",
+			"Movie_name": "Varudu Kaavalenu",
+			"Description": "Bhoomi, the owner of an eco-friendly start-up business in Hyderabad, is reluctant to get married. However, this begins to change when she meets Aakash, a successful architect.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYmNiN2Y1NmYtZDRiNi00NGNmLWE1NjQtNjFhYjFmOGVlMjM4XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg"
+		},
+		{
+			"id": 43,
+			"Video_Id": "aBafZcs4E2E",
+			"Movie_name": "Adbutham",
+			"Description": "Vasu, a thug, kidnaps a police officer's daughter, Mohana, at the request of a gangster, who is desperate to take revenge on the police officer. What happens when Vasu and Mohana fall in love?",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZWI5YmNjYzQtNjFmNS00YWJhLWE1NjEtZTBlOWNkYjE1MjYwXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 44,
+			"Video_Id": "nglaj8kH5tA",
+			"Movie_name": "S/o Satyamurthy",
+			"Description": "After the death of his billionaire father, a young man awakens to the harsh reality of his fortune. To complicate matters further, he falls in love with a hardened creditor's daughter.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/8/81/Son_of_Satyamurthy_poster.jpg"
+		},
+		{
+			"id": 45,
+			"Video_Id": "l2pTCiIl1Zw",
+			"Movie_name": "Nenu Sailaja",
+			"Description": "Hari, a young man, looks for true love in all the wrong places. However, when he crosses paths with Shailu, he falls in love with her and soon realises that she is his childhood crush.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjc5MTE0NGYtYTQ0NC00NDBkLWJmMTAtZWRhODExNzQ4MTQzXkEyXkFqcGdeQXVyMjk2NDE1MTg@._V1_.jpg"
+		},
+		{
+			"id": 46,
+			"Video_Id": "0kf73ELqlz4",
+			"Movie_name": "Padi Padi Leche Manasu",
+			"Description": "Surya, a rebellious youngster, falls for Vaishali but refuses to marry her due to his past experiences. She, however, is confident of her love and promises to meet him exactly after one year.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/d/dd/Padi_Padi_Leche_Manasu_poster.jpg"
+		},
+		{
+			"id": 47,
+			"Video_Id": "uoGCXFuDiQo",
+			"Movie_name": "Tholi Prema",
+			"Description": "Aditya, an outgoing young man, falls in love with Varsha, an introvert. Varsha has feelings for him but is reluctant to profess them and they both part ways only to meet again after a few years.",
+			"Movieimg": "https://images.jdmagicbox.com/comp/jd_social/news/2018aug13/image-369092-5ese76r00r.jpg"
+		},
+		{
+			"id": 48,
+			"Video_Id": "xorwXrMnh1Q",
+			"Movie_name": "Bheeshma",
+			"Description": "When Bheeshma gets involved with Chaitra, an employee of Bheeshma Organics, he develops an interest in organic farming. Trouble ensues when her company announces a new product that seems to be shady.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZTU2MDVlMjMtNGNkMC00ZmIzLTg4YjYtZTk0NmE5NjJhODZhXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 49,
+			"Video_Id": "YKyF8F06UUg",
+			"Movie_name": "Krishnarjuna Yudham",
+			"Description": "Krishna falls in love with Mahalakshmi whose brother is a henchman of a don. During a gang war, he entrusts the responsibility of children to Krishna and asks him to return them to their parents.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTY4ZmNjMDctZGNjZC00NzEzLTk4MTYtMmE1MDNmZTljYzNjXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg"
+		},
+		{
+			"id": 50,
+			"Video_Id": "saZQccBvh-M",
+			"Movie_name": "A Aa",
+			"Description": "Anasuya, the daughter of a rich woman, falls in love with Aanand. However, they face several obstacles while trying to convince their families about their relationship.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzFjZTVhODktNGE0Ni00MGZmLTk1M2QtZGQyZDU4Mzc1ZTYxXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
+		},
+		{
+			"id": 51,
+			"Video_Id": "Lww_1hCYZJE",
+			"Movie_name": "Ninnu Kori",
+			"Description": "Pallavi invites Uma, her ex-boyfriend, to stay at her home with her husband to convince him that she is happy in her marriage. Uma tries to create a rift between them, hoping to win Pallavi back.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZjM5MDMyZmMtNDJjNy00YTFhLWE5YjQtMDk4N2JjM2YxMDdjXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_.jpg"
+		},
+		{
+			"id": 52,
+			"Video_Id": "fJCuqrGmykA",
+			"Movie_name": "Athadey",
+			"Description": "An anthology of the chronicles of four people, representing earth, fire, wind and water elements of nature, who experience love, heartbreak and failure in their journey of life.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/athadey-et00077958-19-06-2018-12-44-19.jpg"
+		},
+		{
+			"id": 53,
+			"Video_Id": "iggaO4kJVgQ",
+			"Movie_name": "Krishna Vrinda Vihari",
+			"Description": "The son of a deeply religious and traditional family tells an elaborate lie to win their permission to marry a woman who cannot have children.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/b/b5/Krishna_Vrinda_Vihari.jpg"
+		},
+		{
+			"id": 54,
+			"Video_Id": "81IUbYOkXyo",
+			"Movie_name": "F2 Fun and Frustration",
+			"Description": "Venky and Varun, who plan on marrying rich wives, fall into the trap of their own making when they realise the brides they are wooing are not rich but greedy for money.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BY2FiNmYyZDktZDJmNC00YmQwLWI4YTEtZTU3NDZhMGNhYzc4XkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_.jpg"
+		},
+		{
+			"id": 55,
+			"Video_Id": "nt-xmNxb1sI",
+			"Movie_name": "Mr. Majnu",
+			"Description": "A charming flirt who has never been in a serious relationship with anyone finds himself in unfamiliar territory when he finally falls in love with a woman.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZTQ1N2U5NWItM2FlNy00ZWE2LWFhY2ItMGY1OWMwZTQ5NzAzXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg"
+		},
+		{
+			"id": 56,
+			"Video_Id": "h_kpfU31xFg",
+			"Movie_name": "Mahanubhavudu",
+			"Description": "A young man lives with obsessive-compulsive disorder and tries to keep himself and his surroundings clean at all times. However, he faces a dilemma when he falls in love with a beautiful woman.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZmE1MjMwM2MtOWJkNC00Yjc5LWIzMWYtM2U0MTYzNWNkZGIyXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 57,
+			"Video_Id": "PSU3xYRQq90",
+			"Movie_name": "Khiladi",
+			"Description": "Pooja, a criminologist, along with Arjun, a CBI official, tries to solve two interlinked cases of murder and money laundering. As they investigate the crimes, the conspiracy intensifies.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Khiladi_2022_poster.jpg/220px-Khiladi_2022_poster.jpg"
+		},
+		{
+			"id": 58,
+			"Video_Id": "xtbgq4WEfjg",
+			"Movie_name": "Vinaya Vidheya Rama",
+			"Description": "When a criminal mastermind poses a threat to his family's happiness, Ram, a young man, sets out to destroy his enemy and his evil kingdom.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMmU2ZjdmYzMtNDcwNy00OThhLWI2OWMtNDA3N2RiMTM2ODc5XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg"
+		},
+		{
+			"id": 59,
+			"Video_Id": "oCaYu3lk7ss",
+			"Movie_name": "Race Gurram",
+			"Description": "Two brothers, who are poles apart in nature, become enemies of a gangster who aspires to become a politician. The latter succeeds in his plans, but the brothers decide to end his reign at all costs.",
+			"Movieimg": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/470c8c4d75734ff1f3402adf9f502352492dcb34d3743fbe45ae73a326243e25._RI_V_TTW_.jpg"
+		},
+		{
+			"id": 60,
+			"Video_Id": "FPTyJuAS96M",
+			"Movie_name": "Sarkaru Vaari Paata",
+			"Description": "Upon loaning a huge sum to his fraudulent lover in Miami, Mahi is forced to retrieve the amount from her father, who is a politician in Vizag. However, Mahi's visit unravels a giant banking scandal.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sarkaru-vaari-paata-et00131962-10-05-2022-04-18-10.jpg"
+		},
+		{
+			"id": 61,
+			"Video_Id": "TNQBz80m8k4",
+			"Movie_name": "HIT: The Second Case",
+			"Description": "Laid back cop Krishna Dev investigates a gruesome murder case. As KD unravels the layers of the crime, the stakes rise unbelievably high and a threat comes unusually close.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNDA5ZTA5ZGQtM2FkMy00OTFhLTlmNzgtMjQzMjgxNmU3NjFiXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 62,
+			"Video_Id": "JS8DwF42U2Q",
+			"Movie_name": "Dhamaka",
+			"Description": "Trouble ensues when two lookalikes from varying backgrounds fall for the same girl. However, an unsuspecting connection between the duplicates further complicates their situation.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZTIzN2NhZjctMTIzMi00MGNhLThkMDQtZTM3YmYyZjY4M2M5XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg"
+		},
+		{
+			"id": 63,
+			"Video_Id": "YAjGwLHnawY",
+			"Movie_name": "V",
+			"Description": "A celebrated police officer's run of success is shockingly interrupted by V, a mysterious killer, who specifically challenges him to end his killing spree.",
+			"Movieimg": "https://southfans.com/wp-content/uploads/2020/03/v-telugu-movie.jpg"
+		},
+		{
+			"id": 64,
+			"Video_Id": "1jYyvqlCjiI",
+			"Movie_name": "Maha Samudram",
+			"Description": "Arjun and Vijay's friendship takes a bitter turn after Vijay selfishly leaves him, leading Arjun to clean up the mess he created. Years later, the duo comes to face each other as enemies.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BY2Y2Y2ZiMjMtMjZiZS00N2E1LWE4N2ItZDA2NDMyZjlmNDkyXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 65,
+			"Video_Id": "c706Sp_1b_Q",
+			"Movie_name": "Check",
+			"Description": "Aditya, a conman, is falsely accused of being a terrorist by his lover and sentenced to death. However, in prison, he learns chess and becomes a champion while fighting his wrongful conviction.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZjkxMjI4YzItM2NhNy00NzUyLWIyYTctYTVjYjUyYWI3NmRiXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg"
+		},
+		{
+			"id": 66,
+			"Video_Id": "59LtQTqeu2g",
+			"Movie_name": "Krack",
+			"Description": "When three notorious criminals lock horns with a hot-tempered police officer, Potharaju Shankar, little do they know that they will end up behind bars.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzM0MmZkNDctNWE0YS00ZGRmLTk1ZTAtZTUwNDQ1N2VjNmNkXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg"
+		},
+		{
+			"id": 67,
+			"Video_Id": "KqPpJFFW_sQ",
+			"Movie_name": "Arya 2",
+			"Description": "Two orphan childhood friends go down contrasting career paths after they are separated from one another. Later, fate pits them against each other when both fall in love with the same girl.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/8/82/Arya_2_Poster.jpg"
+		},
+		{
+			"id": 68,
+			"Video_Id": "S2OxtL4U0K0",
+			"Movie_name": "The Warrior",
+			"Description": "Upon challenging Guru, a dominant gangster, Sathya is forced to move out of his city. However, when he returns as a DSP, Sathya pledges to seek revenge.",
+			"Movieimg": "https://staticimg.spicyonion.com/images/profile/title/the-warriorr-telugu-movie/the-warriorr-telugu-movie-1.jpg"
+		},
+		{
+			"id": 69,
+			"Video_Id": "l1oYaZvcapc",
+			"Movie_name": "Spyder",
+			"Description": "Shiva, an intelligence officer, develops a phone software that helps him track those in need of help. He sets out to save the people of Hyderabad when he realises that a serial killer is on the loose.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzYxMTAyZWQtYWZlNy00OGJkLWEwYTItMjI3MTk2NDM3NzRlXkEyXkFqcGdeQXVyODk1MzE5NDA@._V1_.jpg"
+		},
+		{
+			"id": 70,
+			"Video_Id": "Qr5hQsuzyqk",
+			"Movie_name": "Karthikeya",
+			"Description": "Trapped in a web of conspiracies and betrayal, Karthikeya, a doctor, must retrieve a mythological treasure and clear his name.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZWI1ODNmYWQtYzdmMC00MzE1LTk5ZTUtODcxYzk3MGE3NDNhXkEyXkFqcGdeQXVyODA2ODM3NDQ@._V1_.jpg"
+		},
+		{
+			"id": 71,
+			"Video_Id": "RCGHz06uKx0",
+			"Movie_name": "Thimiru Pudichavan",
+			"Description": "Murugavel, a police officer, learns that his younger brother is a petty criminal working for a local gangster. When he tries to bring about a positive change in him, the brother tries to kill him.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/5/5f/Thimiru_Pudichavan.jpg"
+		},
+		{
+			"id": 72,
+			"Video_Id": "CrH7oDXE6Bs",
+			"Movie_name": "Gaddalakonda Ganesh",
+			"Description": "A film-maker aspires to make a gangster movie and selects the hardened Gaddalakonda Ganesh as his subject. Soon, he and his friend put their lives on the line to follow Gaddalakonda's life.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWNlZTRiYmYtMjBkMS00YTg0LWE0NjYtZTdkYzJjMzExNzZlXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
+		},
+		{
+			"id": 73,
+			"Video_Id": "79aL54oAu2E",
+			"Movie_name": "Enemy",
+			"Description": "Rajiv grows envious of his childhood friend, Chozhan, as he is better than him at most things. The frenemies grow apart only to meet under very different circumstances several years later.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BM2JlNzM1NDEtOWFmYS00NWJmLThkNmMtNjYzN2YwYmFiN2E3XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg"
+		},
+		{
+			"id": 74,
+			"Video_Id": "z9xMCv9b46I",
+			"Movie_name": "Tuck Jagadish",
+			"Description": "Bhudevipuram has a long history of families warring over ancestral property. However, when its headman's family falls into the same trap, his younger son decides to break the village's age-old legacy.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTI0YjIyZDctZWU1OC00NGUwLWEyYTAtYzI2ZWYzYzhjYmUxXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg"
+		},
+		{
+			"id": 75,
+			"Video_Id": "1-NJtew-avc",
+			"Movie_name": "Gangs Of Madras",
+			"Description": "Raiza loses her husband and her unborn baby in a police encounter. Overwhelmed by vengeance,she decided to teach a lesson to the gangsters who are responsible for the death of her husband.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZjZlZDEwMzItMjE0OS00Y2JjLWI1ZGMtZTE0MTMwNWU2MDQ4XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg"
+		},
+		{
+			"id": 76,
+			"Video_Id": "L1miwFwvYCI",
+			"Movie_name": "Roshagadu",
+			"Description": "Murugavel, a police officer, learns that his younger brother is a minor offender working for a local thug. When he tries to bring about a positive change in him, the brother tries to finish him.",
+			"Movieimg": "https://bingeddata.s3.amazonaws.com/uploads/2020/12/roshagadu.jpg"
+		},
+		{
+			"id": 77,
+			"Video_Id": "37M7qwJ9bd8",
+			"Movie_name": "Virata Parvam",
+			"Description": "Captivated by the poems of a renegade warrior on a lethal mission, a naïve yet defiant young woman follows her heart into the depths of a revolution.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BM2U5MzUxZDctOWExMi00OWY1LTg5MTgtODNkMTMyNWE0N2ZkXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg"
+		},
+		{
+			"id": 78,
+			"Video_Id": "iGw0fJj8o2E",
+			"Movie_name": "Seetimaarr",
+			"Description": "Karthik (Gopichand) is an assistant bank manager who coaches the women’s Kabaddi team in AP. With a lot of difficulties, he takes the team to Delhi for the national Kabaddi championship. The entire team gets abducted there. Who is behind this? How Karthik solves the mystery along with his competitor Jwala Reddy (Tamannaah) forms the rest of the story.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/b/b0/Seetimaarr_poster.jpg"
+		},
+		{
+			"id": 79,
+			"Video_Id": "4v4ReIUHBxM",
+			"Movie_name": "Eluka Majaka",
+			"Description": "Balu goes to a Ganesha temple on the day of his engagement and insults the deity. As a result, Lord Ganesha sends a mouse to teach him a lesson and troubles him to no end.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYjljNzNlYjUtMTRjMS00YWQ1LTk0ZmUtMjE2NmNiOGUxZjRiXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg"
+		},
+		{
+			"id": 80,
+			"Video_Id": "6C2j-z3qkIM",
+			"Movie_name": "Bombhaat",
+			"Description": "With luck never on his side, a young robotics engineer constantly battles his comedic misfortune. Things take a serious turn once he becomes entangled in an epic revenge story between his father and a mad scientist.",
+			"Movieimg": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8936c7feebcf5b92f62637a6e81a490620ad6a36597c8160e1574b46aacde5e8._RI_V_TTW_.jpg"
+		},
+		{
+			"id": 81,
+			"Video_Id": "gzPKm9COGAw",
+			"Movie_name": "24",
+			"Description": "A scientist invents a time-travelling watch, which his evil twin brother wants to get hold of. Years later, the scientist's son battles his uncle, who is still desperately in search of the watch.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOWU2MWVhYjQtNjBiMy00ZTEwLWE5NDctZTZiNjEwZTc3YWZhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg"
+		},
+		{
+			"id": 82,
+			"Video_Id": "o_X4hdCfVvU",
+			"Movie_name": "Inkokkadu",
+			"Description": "Following the attack on the Indian Embassy in Malaysia, Akhilan, an ex-agent, is assigned to track down the culprit. His investigations lead him to his old foe who has now developed a hazardous drug.",
+			"Movieimg": "https://moviegalleri.net/wp-content/gallery/inkokkadu-movie-release-posters/inkokkadu_movie_release_posters_vikram_nayanthara_nithya_menon_0590af1.jpg"
+		},
+		{
+			"id": 83,
+			"Video_Id": "2IDSplsTkYI",
+			"Movie_name": "Nishabdham",
+			"Description": "When a world-renowned cello player is discovered deceased in a haunted house, his followers and authorities investigate to determine if it was truly the work of a supernatural being.",
+			"Movieimg": "https://i2.cinestaan.com/image-bank/1500-1500/169001-170000/169729.jpg"
+		},
+		{
+			"id": 84,
+			"Video_Id": "_JwVu5K0v1Y",
+			"Movie_name": "Taxiwaala",
+			"Description": "A young man settles for the job of a cab driver after quitting several odd jobs. However, things take a turn when he faces spine-chilling incidents while driving and tries to solve the mystery.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/a/ad/Taxiwaala_poster.jpg"
+		},
+		{
+			"id": 85,
+			"Video_Id": "Msg8e7txFTk",
+			"Movie_name": "Andhagaara",
+			"Description": "The story starts with Raghu who happens to receive a large amount of black money from his father's friend GKP to safeguard it from income tax raids happening around the city.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/b/b6/Andagadu_DVD_cover.jpg"
+		},
+		{
+			"id": 86,
+			"Video_Id": "ZhuP5e7TLyU",
+			"Movie_name": "IPC 376",
+			"Description": "A police officer looks into an informer who can predict future murders in a mysterious way. Soon, she unearths a sinister murder mystery that leads to a shocking truth.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZmY4NzUwMWItNWE2Zi00NTU3LTkwNjItNmNkZGQyZGUwMWU5XkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_.jpg"
+		},
+		{
+			"id": 87,
+			"Video_Id": "yziwOCvsqd0",
+			"Movie_name": "Paisaa",
+			"Description": "Noor loves Prakash but decides to marry a Sheikh since Prakash likes Sweety. But, Prakash kidnaps Noor and escapes in a car, not knowing that the car holds a corrupt politicians bag full of money.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTAxYzM4MGUtZDExMS00YTI2LThkNDAtMDdmYmZiZmM4OWE4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg"
+		},
+		{
+			"id": 88,
+			"Video_Id": "x6gNlunLcLc",
+			"Movie_name": "Anthaku Minchi",
+			"Description": "Raju, a young man, realises that he can earn quick money if he is able to prove the existence of supernatural beings. He suspects his sister's house to be haunted and investigates it.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNGU3NGYyNTctODkxNS00MzQxLWFhMzctZTFhMjUwZWQzZmZjXkEyXkFqcGdeQXVyMTAwNDA4NDky._V1_.jpg"
+		},
+		{
+			"id": 89,
+			"Video_Id": "VYgIvalD1ds",
+			"Movie_name": "Dorikithe Dongalu",
+			"Description": "Nandan, son of a police officer, and Madhavi, daughter of a wronged scientist, join forces to uproot anti-social elements.",
+			"Movieimg": "https://i.ytimg.com/vi/VYgIvalD1ds/maxresdefault.jpg"
+		},
+		{
+			"id": 90,
+			"Video_Id": "jWS70fVoHOI",
+			"Movie_name": "Rendu Rellu Naluge",
+			"Description": "The lives of two guys become intertwined by a series of tumultuous events, putting them on a new path.",
+			"Movieimg": "https://staticimg.spicyonion.com/images/profile/title/rendu-rellu-naluge-telugu-movie/rendu-rellu-naluge-telugu-movie.jpg"
+		},
+		{
+			"id": 91,
+			"Video_Id": "25TU2SgxbGk",
+			"Movie_name": "Tupaki Ramudu",
+			"Description": "Ramudu is an uneducated orphan who has spent most of his life in a village. He falls in love with Anitha, an educated and rich woman, and wants to be with her against all odds.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNDM0NzlhZmUtMjk5Yi00MmI1LTkzNmItZmM1ODI2NDg0OTdiXkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_.jpg"
+		},
+		{
+			"id": 92,
+			"Video_Id": "bBe4YcbXm-U",
+			"Movie_name": "2 Friends",
+			"Description": "Nani and Mitravinda are best friends who would do anything for each other. When Nani realises that the woman he loves, Avanthika, is engaged to someone else, Mitravinda helps him win her over.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZTZlOGQxMzctYTFkMS00NjkzLWI0MGMtM2ZmOWFjNDQ0MGVlXkEyXkFqcGdeQXVyMTAwNDA4NDky._V1_.jpg"
+		},
+		{
+			"id": 93,
+			"Video_Id": "Z_IJ3yB21GA",
+			"Movie_name": "Kartha Karma Kriya",
+			"Description": "Siddhu, a mobile repair technician, falls for Mythri, a woman seeking to unravel the mystery behind her sister's death. Siddhu vows to help her and soon finds disturbing clues.",
+			"Movieimg": "https://www.thetelugufilmnagar.com/wp-content/uploads/2019/03/KKK.jpg"
+		},
+		{
+			"id": 94,
+			"Video_Id": "ksZY06i-TAE",
+			"Movie_name": "Pilla Rakshasi",
+			"Description": "When Annmaria decides to take revenge on her teacher, she approaches Gireesh, a thug, who later also assists her in her personal problems.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pilla-rakshasi-et00048559-24-03-2017-15-36-23.jpg"
+		},
+		{
+			"id": 95,
+			"Video_Id": "3MQunEOmpu0",
+			"Movie_name": "Saranam Gacchami",
+			"Description": "A young man who is a journalistic scholar researches caste-based reservations in great detail. He strives to implement long-lasting solutions for the upliftment of the downtrodden.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BODZlYjYyM2QtZjMyNy00YzVjLThkM2MtOGViNzAyNWVhYjA2XkEyXkFqcGdeQXVyNzExNjE3NDg@._V1_.jpg"
+		},
+		{
+			"id": 96,
+			"Video_Id": "c7Azo-rxgk0",
+			"Movie_name": "Aame Athadaithe",
+			"Description": "Aame Athadaithe latest Telugu movie ft. Haneesh and Chirasree. Directed by K Suryanarayana and Produced by M Maruthi Prasad, Nettem Radha Krishna under the banner of Sri Kanakadurga Entertainments.",
+			"Movieimg": "https://i.ytimg.com/vi/QCaJGacobG4/maxresdefault.jpg"
+		},
+		{
+			"id": 97,
+			"Video_Id": "AYUbuOC1sPQ",
+			"Movie_name": "Jinda Gang",
+			"Description": "Six youngsters from the Jindaa gang, which indulge in a robbery in their small town. When one of them passes on his boards finally and gets into college, he sees the love and a new life. This peeves his friends who feel they aren't his priority anymore. Meanwhile, a tough cop is out to crack the whip on this gang.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNDNiMDU4YTgtY2VlOS00ZDUyLThhYzktZjAyZTg3NDUwN2VkXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg"
+		},
+		{
+			"id": 98,
+			"Video_Id": "cBJcQEiKWuk",
+			"Movie_name": "Pidugu",
+			"Description": "",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/te/4/44/Pidugu_Movie_Poster.jpg"
+		},
+		{
+			"id": 99,
+			"Video_Id": "-eq81PVVsX4",
+			"Movie_name": "Kadambari",
+			"Description": "This is a biopic of Kadambari Devi, the sister-in-law of Rabindranath Tagore, and daughter-in-law of Debendranath Tagore. Rabindranath's elder brother Jyotirindranath Tagore married Kadambari.",
+			"Movieimg": "https://i.ytimg.com/vi/bze9I2CfOXQ/maxresdefault.jpg"
+		},
+		{
+			"id": 100,
+			"Video_Id": "O2qeBujPM-g",
+			"Movie_name": "Panthulu Gari Ammayi",
+			"Description": "Panthulu Gari Ammayi Movie ft, Sai Kumar, Krishna Ajay Rao, Shravya, Bullet Prakash, Sadu Kokila. Music composed by Anup Seelin. Directed by Sahaan H S and Produced by Vara Prasad.",
+			"Movieimg": "https://telugustop.com/wp-content/story-uploads/Panthulu-Gari-Ammayi-Posters-Panthulu-Gari-Ammayi-Movie-Designs.jpg"
+		},
+		{
+			"id": 101,
+			"Video_Id": "1w8FMc8px_o",
+			"Movie_name": "Sivagami",
+			"Description": "After moving into a palatial new home, a young couple is plagued by supernatural occurrences; they unearth the story of the house's previous inhabitants, including a little girl called Naani who remains as the spirit guardian of the house.",
+			"Movieimg": "https://nettv4u.com/uploads/s/i/v/a/g/a/sivagami-movie-review.jpg"
+		},
+		{
+			"id": 102,
+			"Video_Id": "hV_t95XmzxY",
+			"Movie_name": "Happy Birthday",
+			"Description": "Chaos ensues when a group of individuals gather for a party at an upscale hotel and clumsily navigate the consequences of a newly passed arms law.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTg5N2I1MmUtMjY2MS00MDk2LWI0ZTctNzNhNDg4ZGQzNDNlXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg"
+		},
+		{
+			"id": 103,
+			"Video_Id": "0KHPkZjH18I",
+			"Movie_name": "Thuhire Meri Jaan",
+			"Description": "A recent graduate is on a quest to find love, but when he eventually finds someone, he learns that he's going to need to try his best to win her over.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZDJkNDM2NDktYThmYy00N2Q4LTllOWUtYmQwMDFkM2UzYzQ4XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg"
+		},
+		{
+			"id": 104,
+			"Video_Id": "0KOWY-l5nAs",
+			"Movie_name": "Prema Entha Madhuram Priyuraalu Antha Katinam",
+			"Description": "Jai, a young man who is interested in a woman called Mythili, meets Mythili's friend Sara; at first, Jai pays little attention to Sara then eventually meets and impresses Mythili he may not have really gotten everything he wants, though.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZTVhZWMzYTAtNGZkNS00Y2IwLThmYzYtMGQxN2NkNzM1ZTVkXkEyXkFqcGdeQXVyNTI1MTk3NDI@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 105,
+			"Video_Id": "I4UPINQBXRU",
+			"Movie_name": "Kothaga Maa Prayanam",
+			"Description": "Playboy Karthik doesn't believe in marriage or true love, but suggests to Keerthi, a new colleague at his office, that they should move in together; Keerthi accepts, on the condition that Karthik gives up his old playboy ways.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzZiNzY2N2UtZDIwZC00NTJjLThhNTItZTQ3NzE1Y2NiMmE5XkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_.jpg"
+		},
+		{
+			"id": 106,
+			"Video_Id": "EZv1pSQq7LQ",
+			"Movie_name": "Enthavaralaina",
+			"Description": "Enthavaralaina latest Telugu Movie ft. Advaith, Jahida Syam, Alok Jain. Directed by Guru Chendepalli and Produced by G Sita Reddy, Music Composed by Sukku.",
+			"Movieimg": "https://i.ytimg.com/vi/EZv1pSQq7LQ/maxresdefault.jpg"
+		},
+		{
+			"id": 107,
+			"Video_Id": "zqMAOCi5hEo",
+			"Movie_name": "Police Power",
+			"Description": "Ajay (Mahesh Babu) is a dynamic young cop with the Mumbai Police. He is daring and dashing and goes after the Mumbai Mafia in a big way. The Mafia is headed by Nayak Bhay (Sonu Sood) and his brothers.",
+			"Movieimg": "https://i.ytimg.com/vi/zqMAOCi5hEo/maxresdefault.jpg"
+		},
+		{
+			"id": 108,
+			"Video_Id": "RL93Lz-h2gc",
+			"Movie_name": "Aatagallu",
+			"Description": "Siddharth is a top director accused of brutally murdering his wife Anjali. However, the public prosecutor of the case suspects that Siddharth is innocent, and has been framed for murder.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYmRlZWEyZTYtMGVjYS00OTg2LWFkNjktY2U4YTk1NDgyY2IxXkEyXkFqcGdeQXVyOTM0MTMyOTU@._V1_.jpg"
+		},
+		{
+			"id": 109,
+			"Video_Id": "TX5BeFoj1qc",
+			"Movie_name": "The Priest",
+			"Description": "Father Carmen, a priest, joins hands with the police to investigate a series of mysterious suicides. However, he soon stumbles upon a disturbing fact that has serious consequences.",
+			"Movieimg": "https://m.media-amazon.com/images/I/71gTcJ2P7qL._RI_.jpg"
+		},
+		{
+			"id": 110,
+			"Video_Id": "vtlcxJLDXEI",
+			"Movie_name": "CBI 5",
+			"Description": "A series of murders is happening in the city. With the police failing to solve the case, a team of CBI Officers under CBI officer Sethurama Iyer take up the investigation to resolve the mystery.",
+			"Movieimg": "https://assets.gadgets360cdn.com/pricee/assets/product/202204/CBI-5-The-Brain-poster_1650563207.jpg"
+		},
+		{
+			"id": 111,
+			"Video_Id": "A6a2fG22I9I",
+			"Movie_name": "Dharane",
+			"Description": "This film is directed by Guhan Sambantham, starring Aari and Sandra Amy in the lead roles.",
+			"Movieimg": "https://i.ytimg.com/vi/A6a2fG22I9I/maxresdefault.jpg"
+		},
+		{
+			"id": 112,
+			"Video_Id": "0bEZ1NhcCOc",
+			"Movie_name": "Arundhati",
+			"Description": "During a visit to her native place, Arundhati learns that she looks like her great-grandmother, Jejamma. Soon, Jejamma's battles become her own as she fights a black magician who wants to kill her.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Arundhati.jpg/220px-Arundhati.jpg"
+		},
+		{
+			"id": 113,
+			"Video_Id": "eerykkmOoz0",
+			"Movie_name": "U-TURN",
+			"Description": "Rachana, an intern at a leading newspaper, investigates accidents occurring on a flyover with the help of a crime reporter. However, she gets accused of murdering a frequent motorist on the flyover.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/4/44/U_Turn_%282018%29.jpg"
+		},
+		{
+			"id": 114,
+			"Video_Id": "YUqPrQXYROM",
+			"Movie_name": "Yagavarayinum Naa Kaakka",
+			"Description": "On New Year's Eve, Saaga, a mischievous young man, and his friends get into a quarrel with a man and his girlfriend. However, they do not know that she is the daughter of a ruthless gangster.",
+			"Movieimg": "https://m.media-amazon.com/images/I/71DUp9MzZZL._RI_.jpg"
+		},
+		{
+			"id": 115,
+			"Video_Id": "K3y6PitPdhM",
+			"Movie_name": "Raagala 24 Gantallo",
+			"Description": "Vidya, an orphan, falls in love and marries Rahul, a fashion photographer. However, their happy married life ends abruptly when he is found murdered and she becomes a prime suspect.",
+			"Movieimg": "https://m.media-amazon.com/images/I/71M-qgy5RqL._RI_.jpg"
+		},
+		{
+			"id": 116,
+			"Video_Id": "8AGc_mXIjsc",
+			"Movie_name": "47 days",
+			"Description": "Satya, a suspended police officer, conducts a private investigation on a case that is related to his wife's mysterious death.",
+			"Movieimg": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-173222/portrait/1920x770_194278588.jpg"
+		},
+		{
+			"id": 117,
+			"Video_Id": "TkicfRD3LmI",
+			"Movie_name": "369",
+			"Description": "A man takes matters into his own hands after police can't solve a mysterious incident involving his girlfriend.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTY5OWU1ZmYtYTk3MS00NzQ4LTgxOTEtZGQzYTRkOGU0NWExXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
+		},
+		{
+			"id": 118,
+			"Video_Id": "DooNnd0JMEs",
+			"Movie_name": "16 - Every Detail Counts",
+			"Description": "A couple finishes under mysterious circumstances and Inspector Deepak is assigned the case. However, he loses his leg in a confrontation during the investigation, which leads to the end of his career.",
+			"Movieimg": "https://m.media-amazon.com/images/I/71cK+wo9VzL._RI_.jpg"
+		},
+		{
+			"id": 119,
+			"Video_Id": "5Vz9HbAvEuo",
+			"Movie_name": "Crime 23",
+			"Description": "ACP Vetrimaaran is an upright and dedicated policeman posted in Chennai. While working on a simple missing case of a woman, he stumbles upon a large crime racket involving medical professionals.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Kuttram_23.jpg/220px-Kuttram_23.jpg"
+		},
+		{
+			"id": 120,
+			"Video_Id": "4PKWaIWvK8Y",
+			"Movie_name": "Forensic",
+			"Description": "When a psychotic murderer sets out on a killing spree, Samuel, a medico-legal advisor, uses his forensic skills to unravel the truth behind the heinous deeds.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Forensic_film_poster.jpg/220px-Forensic_film_poster.jpg"
+		},
+		{
+			"id": 121,
+			"Video_Id": "GVsUydwzd0A",
+			"Movie_name": "Introvert Love Story",
+			"Description": "They say once in a lifetime we meet someone who changes everything - Ajay’s life has been a roller coaster ride till he met that one person. How things changed in Ajay’s life when he met Divya? Get ready to witness the love story of an Introvert guy. Will he be able to overcome his problems with the help of Divya? Let’s wait and watch it on your mobile phones.",
+			"Movieimg": "https://i.ytimg.com/vi/GVsUydwzd0A/maxresdefault.jpg"
+		},
+		{
+			"id": 122,
+			"Video_Id": "HBEBTm-6O2E",
+			"Movie_name": "Dulquer Salmaan Vihara Yatra",
+			"Description": "Kasi (Dulquer Salmaan) and Suni (Sunny Wayne) go for a ride from Kerala to Nagaland in search of Kasi's girlfriend (Surja Bala Hijam). En route, they encounter different people who change their lives forever. What happens to their lives thereafter form rest of the story.",
+			"Movieimg": "https://i.ytimg.com/vi/HBEBTm-6O2E/maxresdefault.jpg"
+		},
+		{
+			"id": 123,
+			"Video_Id": "_kWK8Q3spxA",
+			"Movie_name": "Magadheera",
+			"Description": "Raghuveer murders Indira's father and blames Harsha. When Harsha sets out to his clear his name, he recalls his previous life from 400 years ago and his connection to them.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/c/ce/Magadheera_Poster.jpg"
+		},
+		{
+			"id": 124,
+			"Video_Id": "aBhZBIoZSEM",
+			"Movie_name": "Inspector Gabbar",
+			"Description": "Venkatarathnam Naidu (Pawan Kalyan) is the son of Suhasini and the stepson of Naidu (Nagineedu). He loves Gabbar character from Sholay and so he decides to call himself ‘Gabbar ’.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzcxZGRkNDItZjQwNS00MjFhLTg1ZTktMWEzZTViZmE4MmU4XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg"
+		},
+		{
+			"id": 125,
+			"Video_Id": "MrBl3dhbAKU",
+			"Movie_name": "Nagakanya",
+			"Description": "Vikram(Jai) , whose horoscope dangers the person he marries. Vikram marries Divya(Catherine Tresa). Malar (Raai Lakshmi) became Nagarani, a shapeshifting snake by Devi is also a shapeshifting snake, who gave curse to Malar because she killed Devi's husband Devan (Manas).",
+			"Movieimg": "https://m.media-amazon.com/images/I/71HNU-jL9VL._RI_.jpg"
+		},
+		{
+			"id": 126,
+			"Video_Id": "HhJhcW1wI7s",
+			"Movie_name": "Thalli Pogathey",
+			"Description": "When Karthik refuses to elope with his lover, Pallavi, she decides to marry Arun and emigrates to France. However, madly in love, Karthik follows her to France a year later to win her heart back.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWY0MzNiZTktNzBiZi00NzFjLWExMTEtZDRkYTdjYWRiZDAwXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg"
+		},
+		{
+			"id": 127,
+			"Video_Id": "Mqr6fXUqIRw",
+			"Movie_name": "Yuddham Sharanam",
+			"Description": "When his parents' corpses are found in a river under mysterious circumstances, Arjun sets out to investigate their deaths. On finding certain disturbing truths, he vows revenge on their killers.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWI3ZDVlMWYtZTEzNC00ODI2LWE0NzYtYWRkZjY5YjVlOWU4XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_.jpg"
+		},
+		{
+			"id": 128,
+			"Video_Id": "arnH3k6xmn4",
+			"Movie_name": "DJ Durgada Jagannatha",
+			"Description": "DJ, a rebellious man and a cook, gets trained to become an undercover officer and is assigned to take down a corrupt politician. Unexpectedly, he falls in love with the politician's daughter.",
+			"Movieimg": "https://www.filmibeat.com/img/popcorn/movie_posters/dj---duvvada-jagannadham-20170220110857-15298.jpg"
+		},
+		{
+			"id": 129,
+			"Video_Id": "qf-8SScIvGg",
+			"Movie_name": "Jana Gana Mana",
+			"Description": "A professor's death causes uproar across the nation and sends a policeman on a meticulous probe about the murder. However, the case soon puts the officer in trouble.",
+			"Movieimg": "https://static.moviecrow.com/gallery/20220426/196613-jana.jpg"
+		},
+		{
+			"id": 130,
+			"Video_Id": "DHAoaW51hh8",
+			"Movie_name": "Superhit Hero",
+			"Description": "Somaraju is a leading businessman in Vishakhapatnam. Mysamma is a close member of Somaraju who handles his deals in Hyderabad. Mahalakshmi is Somaraju's daughter, and he dearly loves her.",
+			"Movieimg": "https://i.ytimg.com/vi/DHAoaW51hh8/maxresdefault.jpg"
+		},
+		{
+			"id": 131,
+			"Video_Id": "3WUKuxLCbcM",
+			"Movie_name": "Taskara",
+			"Description": "Taskara is a fictional vigilante hacker superhero who appears in Indian comic books published by Fenil Comics. Created by graphic novelist Kiriti Rambhatla the character is the alias of Dr. Arjun Kumar, an influential Indian born economist who works at the IMF before turning into an underground hacker.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Taskara_Theatrical_Poster.png/220px-Taskara_Theatrical_Poster.png"
+		},
+		{
+			"id": 132,
+			"Video_Id": "Eo2ISADzB5o",
+			"Movie_name": "Kappirithuruthu",
+			"Description": "Kaappiri Thuruth is a travel of journey of our tradition and music that touches up with the stories of love, celebrations and fighting in our history.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Kappiri_Thuruthu_poster.jpg/220px-Kappiri_Thuruthu_poster.jpg"
+		},
+		{
+			"id": 133,
+			"Video_Id": "Eo9WdJGjq4E",
+			"Movie_name": "Derick Abraham: Murder Case",
+			"Description": "Derick Abraham is a successful police officer who is the final word in every investigation. He handles even the toughest of cases that deal with tough criminals.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTU4ZWZkYzYtNDY1Yy00YWZkLTk4ODQtOTI5N2MzMzMxMTIwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 134,
+			"Video_Id": "djYbWm5ygto",
+			"Movie_name": "Metro",
+			"Description": "Arivu is a writer for a press and the eldest son of a retired police head constable and his wife. He has a brother named Mathiyazhagan aka Mathi, who is a first-year engineering student.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/metro-et00053742-20-02-2017-08-07-15.jpg"
+		},
+		{
+			"id": 135,
+			"Video_Id": "wFjVQ6LTXtk",
+			"Movie_name": "Mukunda",
+			"Description": "Mugundan and Arjun are close friends, with the latter being in love with a powerful bureaucrat's niece. Whenever the bureaucrat endeavours to exterminate Arjun, Mugundan protects him with all his might.",
+			"Movieimg": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-2698/portrait/002698cover1841164850.jpg"
+		},
+		{
+			"id": 136,
+			"Video_Id": "2JjhaxDOLlM",
+			"Movie_name": "Shakti",
+			"Description": "A secret agent accidentally finds a diamond and informs the owner, who reveals the secret of the diamond and the young man's past. Soon, the agent also gets to know of his father's killer's whereabouts, and he sets out to exact revenge.",
+			"Movieimg": "https://i.ytimg.com/vi/2JjhaxDOLlM/maxresdefault.jpg"
+		},
+		{
+			"id": 137,
+			"Video_Id": "gK4LhgMzCwk",
+			"Movie_name": "Jinka Karate",
+			"Description": "Five friends meet a mystic in a forest who grants their wish — a newspaper from the future. They decide to get rich by using their knowledge of the future.",
+			"Movieimg": "https://i.ytimg.com/vi/gK4LhgMzCwk/maxresdefault.jpg"
+		},
+		{
+			"id": 138,
+			"Video_Id": "7PHR4xEQbS4",
+			"Movie_name": "23 Planned Murder",
+			"Description": "Ann and Freddy marry against the wishes of their parents and lead a happy life. However, their lives take a turn when Freddy gets involved in solving a case after reading a book gifted to Ann.",
+			"Movieimg": "https://i.ytimg.com/vi/7PHR4xEQbS4/maxresdefault.jpg"
+		},
+		{
+			"id": 139,
+			"Video_Id": "lnyl_p4dEsc",
+			"Movie_name": "Serial Killer",
+			"Description": "A billionaire Radha Ravi, hospital owner is killed, placed in his costly car and rolled down fourteen storeys. The arrogant son Guru Somadundaram arrives from the US and straightaway is established as an evil who obviously engineered his dad's death. Enter the diabetic cop Prakash Raj who immediately marks Guru and starts his investigation.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMmEzYjFhNWUtMTMxYS00NWY1LWIxODUtNDFmYTIwNzUzNGZiXkEyXkFqcGdeQXVyMTA0NTgwNjcz._V1_.jpg"
+		},
+		{
+			"id": 140,
+			"Video_Id": "OCN_7oYfGIk",
+			"Movie_name": "Demonetization",
+			"Description": "Nityananda Shenoy, a gangster from Kasaragod, decides to exact revenge on an ex-minister who swindled him right before demonetisation. Meanwhile, Muthuvel and his mother struggle to survive in Kochi.",
+			"Movieimg": "https://i.ytimg.com/vi/OCN_7oYfGIk/maxresdefault.jpg"
+		},
+		{
+			"id": 141,
+			"Video_Id": "F_3onEsgc8c",
+			"Movie_name": "Detective Satyabhama",
+			"Description": "",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOWE4MTQ5MDgtNzZhMy00NDdlLWFlNTYtZWM1ZDVjZDFmN2E4XkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_.jpg"
+		},
+		{
+			"id": 142,
+			"Video_Id": "z7Jn0APLkFY",
+			"Movie_name": "Praise The Lord",
+			"Description": "An immensely rich farmer lives a peacefully with his family in Pala and has no idea about the hectic metro life. He gets introduced to it when he hides a love-stricken couple in his house.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZGYwOTVhMjUtNGZlZC00Mzg4LWI1ODUtOTYyMzM4YTdmZWEwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 143,
+			"Video_Id": "V2e3Yo3EOpU",
+			"Movie_name": "Shenbahakottai",
+			"Description": "King Udayapandyan ruled some provinces of Tamil Nadu, 600 years ago. He fell in love with a huntress named Mathangi \"Ramya Krishnan\", married her and built her a bungalow near huntress forest.",
+			"Movieimg": "https://images.jdmagicbox.com/comp/jd_social/news/2018aug12/image-339923-86qlms6qoc.jpg"
+		},
+		{
+			"id": 144,
+			"Video_Id": "7z54hT_pY68",
+			"Movie_name": "Theevram",
+			"Description": "The movie opens with a crime where a young man is beaten to death with a club in front of his fiance. Then comes an investigation officer Alexander, and an assistant Ramachandran.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZmQwZmQzMWItZWZlYy00NWUyLWEwNWYtNGIyNzAwYzIxNTgwXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg"
+		},
+		{
+			"id": 145,
+			"Video_Id": "w7JCC_9wFLk",
+			"Movie_name": "Robot 2.0",
+			"Description": "When cell phones start to fly out of the hands of the inhabitants of Chennai, Doctor Vaseegaran and his android assistant, Nila, are called to the rescue; together, they face the supernatural powers of Pakshi Rajan.",
+			"Movieimg": "https://cdn.celpox.com/bby_uploads/media/d9b3adf210e77b14b723a6274d4447df.jpg"
+		},
+		{
+			"id": 146,
+			"Video_Id": "zhZnesOgCD8",
+			"Movie_name": "Anjaniputhra",
+			"Description": "Viraj, an heir to a textile business, learns that Bhairava, a gangster, seeks to illegally acquire his family's land. A bitter enmity erupts between the two, causing bloodshed.",
+			"Movieimg": "https://images.ottplay.com/posters/Anjaniputra_2017_movie_poster_1.jpg"
+		},
+		{
+			"id": 147,
+			"Video_Id": "FvA7ejQRKa8",
+			"Movie_name": "Octopus",
+			"Description": "Sunny's life hangs in the balance when his car skids off the road and dangles over the edge of a cliff while he is on the way to meet his wife who goes into labour.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTNjNmI3MzItN2Q3NS00OThiLTgxYmQtZjM5M2IyMTkwMTRlXkEyXkFqcGdeQXVyNDI5Njk2Mzc@._V1_.jpg"
+		},
+		{
+			"id": 148,
+			"Video_Id": "s8y3i9Ju12c",
+			"Movie_name": "Dynamite",
+			"Description": "When Sivaji goes on a date with a woman and she gets kidnapped, he tries to convince the police about it but they do not trust him; he decides to go out of his way to find her.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZmEwNDcwZTMtMGU3ZS00ZDE5LWExM2ItYTAzYjNhODYyN2MyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTIwMzA1NTU@._V1_.jpg"
+		},
+		{
+			"id": 149,
+			"Video_Id": "xV_VY4_HCk4",
+			"Movie_name": "Ulta",
+			"Description": "A utopian town managed by women discounts the festering resentment of their menfolk, whose devious plans unleash chaos and infighting in their little paradise.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjdjY2ZlNjYtMThjZC00ZWU0LWIyY2MtYWJmMTMwM2FlMjZjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
+		},
+		{
+			"id": 150,
+			"Video_Id": "dEgHpowbAyQ",
+			"Movie_name": "Vaashi",
+			"Description": "Ebin and Madhu, two ambitious lawyers, face their own dilemmas outside the courtroom when they find themselves defending opposing sides in an important case that affects them deeply.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjViMjBmNzctYzlhNC00YTMxLThhN2EtZmM1MGRhZWI0ZTBkXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
+		}
+	],
 	"GujaratiMovie":[
 		{
 			"id": 1,
@@ -11857,6 +12909,58 @@
 			"Movieimg":"https://i.ytimg.com/vi/krnfJl--gm0/maxresdefault.jpg",
 			"Description": "Contract killer John Alexander (Steven Seagal, Under Siege) has a chance to save an innocent girl from a powerful mob boss, but protecting her means betraying the government agency that hired him and putting his own life at risk.",
 			"Language": "English"
+		}
+	],
+	"TeluguMovieSlider":[
+		{
+			"id": 1,
+			"Video_Id": "Qumm9iKpRe8",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Rudhurudu",
+			"Movieimg":"https://i.ytimg.com/vi/Qumm9iKpRe8/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Telugu"
+		},
+		{
+			"id": 2,
+			"Video_Id": "NNVx4vm8bxU",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "PS2",
+			"Movieimg":"https://i.ytimg.com/vi/NNVx4vm8bxU/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Telugu"
+		},
+		{
+			"id": 3,
+			"Video_Id": "BC9s_Zof_Xk",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Virupaksha",
+			"Movieimg":"https://i.ytimg.com/vi/BC9s_Zof_Xk/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Telugu"
+		},
+		{
+			"id": 4,
+			"Video_Id": "qLGZbo_YjqE",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Ravanasura",
+			"Movieimg":"https://i.ytimg.com/vi/qLGZbo_YjqE/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Telugu"
+		},
+		{
+			"id": 5,
+			"Video_Id": "8ZscPPpEWPo",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Shaakuntalam",
+			"Movieimg":"https://i.ytimg.com/vi/8ZscPPpEWPo/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Telugu"
 		}
 	],
 	"Feature Game":[
