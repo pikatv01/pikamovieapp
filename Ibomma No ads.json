@@ -12911,6 +12911,58 @@
 			"Language": "English"
 		}
 	],
+	"GujaratiMovieSlider":[
+		{
+			"id": 1,
+			"Video_Id": "j_F3xCitEZk",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Vash",
+			"Movieimg":"https://i.ytimg.com/vi/j_F3xCitEZk/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		},
+		{
+			"id": 2,
+			"Video_Id": "1nOOvovCwXw",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Nava Pappa",
+			"Movieimg":"https://i.ytimg.com/vi/1nOOvovCwXw/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		},
+		{
+			"id": 3,
+			"Video_Id": "EKdhfBIIrhU",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Bushirt T-shirt",
+			"Movieimg":"https://i.ytimg.com/vi/EKdhfBIIrhU/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		},
+		{
+			"id": 4,
+			"Video_Id": "6VfQEHBJc0o",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Shubh Yatra",
+			"Movieimg":"https://i.ytimg.com/vi/6VfQEHBJc0o/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		},
+		{
+			"id": 5,
+			"Video_Id": "ox7cTWmkxCA",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Kutch Express",
+			"Movieimg":"https://i.ytimg.com/vi/ox7cTWmkxCA/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		}
+	],
 	"TeluguMovieSlider":[
 		{
 			"id": 1,
