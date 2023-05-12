@@ -1320,1469 +1320,1511 @@
 	"SouthMovie":[
 		{
 			"id": 1,
+			"Video_Id": "46YN_Jf2-wA",
+			"Movie_name": "Ismart Shankar",
+			"Description": "Shankar, a contract slayer, manages to escape after finishing a politician. Later, he helps the police find a slayer when an officer's memory is transferred to him.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZWQ1NDE3NGYtZDVkZC00MzI2LWJlOWEtZDZkZTQ3OWNlMDk5XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "9EYo3nfiCNw",
+			"Movie_name": "Badala",
+			"Description": "A young man aspires to follow in his father's footsteps and become a police officer. However, when his sister is killed, he takes matters into his own hands to catch the culprits.",
+			"Movieimg": "https://i.ytimg.com/vi/9EYo3nfiCNw/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "tkg1VxrfpPk",
+			"Movie_name": "Kingdom",
+			"Description": "Tragedy, betrayal and a mysterious discovery fuel a woman's vengeance for the loss of her tribe and family in this special episode of \"Kingdom.\"",
+			"Movieimg": "https://i.ytimg.com/vi/HPFTrobVnZU/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "sYFE0j_VCUA",
+			"Movie_name": "IPS 2",
+			"Description": "When an IPS officer is killed by a criminal gang, her father meets his late daughter's lookalike and then trains her to be just like his daughter in order to avenge her death",
+			"Movieimg": "https://i.ytimg.com/vi/CXXzIv3z_kA/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "9LgTiTuLZmM",
+			"Movie_name": "Thambi",
+			"Description": "Parvathy is hesitant to accept her brother, Saravanan, who returns home after 15 years. Soon, she discovers that not everything is as it seems and uncovers a well-planned conspiracy.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYmJiNjBjMjAtNWQyZi00N2NmLWExNjktMTM5MmI2YWRlMjYyXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "DsNe3duh6ZY",
+			"Movie_name": "Simha",
+			"Description": "Srimannarayana, a college professor who cannot tolerate injustice, meets Janaki when he saves her from goons. Soon his grandmother makes some revelations that take him back to his village.",
+			"Movieimg": "https://i.ytimg.com/vi/DsNe3duh6ZY/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
 			"Video_Id": "1us6fjzHuEc",
 			"Movie_name": "EEGA 2",
 			"Description": "Eega marked the maiden collaboration between Rajamouli and Nani. It also co-starred Samantha Ruth Prabhu and Kichcha Sudeep in key roles.",
 			"Movieimg": "https://i.ytimg.com/vi/1us6fjzHuEc/maxresdefault.jpg"
 		},
 		{
-			"id": 2,
+			"id": 8,
 			"Video_Id": "v6f66NY6MpU",
 			"Movie_name": "Gumnaam",
 			"Description": "A sub-inspector sets out in pursuit of a mysterious serial killer who targets teen girls and murders them brutally.",
 			"Movieimg": "https://naukrisandhan.com/wp-content/uploads/2022/09/Rakshasudu.jpg"
 		},
 		{
-			"id": 3,
+			"id": 9,
 			"Video_Id": "AhaY2mwDX5g",
 			"Movie_name": "Vijay The Master",
 			"Description": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster who uses the school children for criminal activities.",
 			"Movieimg": "https://deadline.com/wp-content/uploads/2021/01/Master-Poster-21.jpg"
 		},
 		{
-			"id": 4,
+			"id": 10,
 			"Video_Id": "D2fGtAzEC-Y",
 			"Movie_name": "Rishtey A Grand Celebration",
 			"Description": "A young woman, who dreams of marrying a prince, falls in love with a charming man from another village. However, an old family rivalry resurfaces and becomes an obstacle in their relationship.",
 			"Movieimg": "https://i.ytimg.com/vi/D2fGtAzEC-Y/maxresdefault.jpg"
 		},
 		{
-			"id": 5,
+			"id": 11,
 			"Video_Id": "llRxiXSJ0_o",
 			"Movie_name": "Karma",
 			"Description": "After several years Damayanthi returns to exact her revenge on the people who brutally murdered her entire family for getting the inheritance.",
 			"Movieimg": "https://i.ytimg.com/vi/llRxiXSJ0_o/maxresdefault.jpg"
 		},
 		{
-			"id": 6,
+			"id": 12,
 			"Video_Id": "YertBfoBB0c",
 			"Movie_name": "Guru",
 			"Description": "The story of a former boxer who quits boxing following a fallout with the authorities over the underlying politics but goes on to coach a fisherwoman to fulfill his dream through her.",
 			"Movieimg": "https://i.ytimg.com/vi/xIttVbZQYJI/maxresdefault.jpg"
 		},
 		{
-			"id": 7,
+			"id": 13,
 			"Video_Id": "F4c8oOJmM1s",
 			"Movie_name": "IT Man",
 			"Description": "An IT professional gets sucked into a dangerous game.",
 			"Movieimg": "https://i.ytimg.com/vi/F4c8oOJmM1s/maxresdefault.jpg"
 		},
 		{
-			"id": 8,
+			"id": 14,
 			"Video_Id": "oAvNsimUqBM",
 			"Movie_name": "Madhagaja",
 			"Description": "The wife of one of two rival dons sends her son away to a safe land in order to protect him from their conflict. However, much to her disappointment, her child returns to the world of violence.",
 			"Movieimg": "https://i.ytimg.com/vi/oAvNsimUqBM/maxresdefault.jpg"
 		},
 		{
-			"id": 9,
+			"id": 15,
 			"Video_Id": "5yeIsG_TpSY",
 			"Movie_name": "Joker",
 			"Description": "Samuel (Shaam) is a police officer investigating the crimes of serial child abuse and murder. He receives a phone call from a child abuser who calls himself \"Joker\". Samuel tracks his location, goes to his place, and is killed by the Joker.",
 			"Movieimg": "https://i.ytimg.com/vi/5yeIsG_TpSY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_Y-kccRNpKNx5YwrSAh9MSJ3V7Q"
 		},
 		{
-			"id": 10,
+			"id": 16,
 			"Video_Id": "ycK3A5annNU",
 			"Movie_name": "Lakshya",
 			"Description": "Pardhu is an archer who wants to represent India at the World Championships. How does he bounce back and achieve what he wants after losing track?",
 			"Movieimg": "https://i.ytimg.com/vi/WhMYMAU0YPQ/maxresdefault.jpg"
 		},
 		{
-			"id": 11,
+			"id": 17,
 			"Video_Id": "8-1biVKMzDw",
 			"Movie_name": "Kantara",
 			"Description": "Kantara is a 2022 Indian Kannada-language action thriller film written and directed by Rishab Shetty, and produced by Vijay Kiragandur, under Hombale Films.",
 			"Movieimg": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/Kantara_x.jpeg"
 		},
 		{
-			"id": 12,
+			"id": 18,
 			"Video_Id": "gKizDojsdvs",
 			"Movie_name": "KGF",
 			"Description": "Rocky, a young man, seeks power and wealth in order to fulfil a promise to his dying mother. His quest takes him to Mumbai, where he gets involved with the notorious gold mafia.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d81f84be6790a5fb37adc0538145c16acc37a1183d4dd829b2f8b48f3b5a3f5a._RI_V_TTW_.jpg"
 		},
 		{
-			"id": 13,
+			"id": 19,
 			"Video_Id": "esZeBdhTfD0",
 			"Movie_name": "KGF Chapter 2",
 			"Description": "Rocky successfully rises as the leader and saviour of the people of the Kolar Gold Fields. But, in his goal to fulfil his mother's wishes, Rocky must tackle Adheera, Inayat Khalil and Ramika Sen.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f5a21f64af7359f7aaa7c29dee8a12a97630e707cdbf71e0ae6b063322fb8575._RI_V_TTW_.jpg"
 		},
 		{
-			"id": 14,
+			"id": 20,
 			"Video_Id": "MJmmaghOH5s",
 			"Movie_name": "Bahubali The Beginning",
 			"Description": "Baahubali: The Beginning is a 2015 Indian epic action film directed by S.S Rajamouli and produced by Shobu Yarlagadda and Prasad Devineni under Arka Media Works.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYWVlMjVhZWYtNWViNC00ODFkLTk1MmItYjU1MDY5ZDdhMTU3XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg"
 		},
 		{
-			"id": 15,
+			"id": 21,
 			"Video_Id": "RwEH3d89cU0",
 			"Movie_name": "Bahubali 2 The Conclusion",
 			"Description": "After learning that his father was brutally killed by Bhallaladeva, Mahendra Baahubali raises an army to defeat him and release his mother from the former's captivity.",
 			"Movieimg": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/711eHgGtnFL._SL1209_.jpg"
 		},
 		{
-			"id": 16,
+			"id": 22,
 			"Video_Id": "oqcXT3tkZD0",
 			"Movie_name": "Macharla Chunaav Kshetra",
 			"Description": "Rajan (Samuthirakani) is a ruthless politician who wins the election for many terms unanimously in the Macharla constituency. Siddu (Nithiin) goes to Macharla to find his girlfriend Swathi (Krithi Shetty) and learns that she is struggling because of Rajan.",
 			"Movieimg": "https://i.ytimg.com/vi/oqcXT3tkZD0/maxresdefault.jpg"
 		},
 		{
-			"id": 17,
+			"id": 23,
 			"Video_Id": "6UeLU0uWGbU",
 			"Movie_name": "Red",
 			"Description": "Two lookalikes get embroiled in a murder investigation and become the prime suspects. However, as new facts come to light, the case gets complicated.",
 			"Movieimg": "https://i.ytimg.com/vi/6UeLU0uWGbU/maxresdefault.jpg"
 		},
 		{
-			"id": 18,
+			"id": 24,
 			"Video_Id": "M7NpouWiqpg",
 			"Movie_name": "Aankhen",
 			"Description": "Rambabu, a cable operator, lives with his beloved wife Jyothi and two daughters. One day, his family inadvertently gets involved in a grave crime and he must go to great lengths to protect them.",
 			"Movieimg": "https://i.ytimg.com/vi/M7NpouWiqpg/maxresdefault.jpg"
 		},
 		{
-			"id": 19,
+			"id": 25,
 			"Video_Id": "jXfJCMcpzlE",
 			"Movie_name": "Godfather",
 			"Description": "The Chief Minister's passing wreaks havoc across the state and in his political party. However, a mysterious contender for the post rises to eradicate wrongdoers.",
 			"Movieimg": "https://justtricksandtips.com/wp-content/uploads/2022/07/IMG_20220720_222230.jpg"
 		},
 		{
-			"id": 20,
+			"id": 26,
 			"Video_Id": "RLkaFV7C8q0",
 			"Movie_name": "FORENSIC",
 			"Description": "A Special Protection Group officer has to identify the threat to the prime minister, who he is protecting, and also the nation.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BM2ZkOTZmNTYtMWFmZi00MmY1LTkxZjgtNWViNjE3ZmU0YWJhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 21,
+			"id": 27,
 			"Video_Id": "jkOhv9VoBu4",
 			"Movie_name": "Krishnarjuna Yuddham",
 			"Description": "Krishna And Arjun Are Both Playboys, Hailing From Different Parts Of The World. While Krishna Woos The Indian Village Belles, Arjun Is A Prague Based Rockstar And Heartthrob Of Indian Origin.",
 			"Movieimg": "https://i.ytimg.com/vi/jkOhv9VoBu4/maxresdefault.jpg"
 		},
 		{
-			"id": 22,
+			"id": 28,
 			"Video_Id": "5gvMxnD-ZB0",
 			"Movie_name": "Sita Ram",
 			"Description": "A young Ram is left in a monastery by his uncle with a promise that Sita will come for him and take care of him. Years later, he is ecstatic when he meets Sita. Sita is also being chased by a local MLA (Sonu Sood), with whom she has signed an agreement and has defaulted on the same.",
 			"Movieimg": "https://i.ytimg.com/vi/5gvMxnD-ZB0/maxresdefault.jpg"
 		},
 		{
-			"id": 23,
+			"id": 29,
 			"Video_Id": "KFaWYY8nKeM",
 			"Movie_name": "ASURA 2",
 			"Description": "The life of a high-tech robber with exceptional skills of evading the law changes when a private detective tries to get a hold of him.",
 			"Movieimg": "https://i.ytimg.com/vi/KFaWYY8nKeM/maxresdefault.jpg"
 		},
 		{
-			"id": 24,
+			"id": 30,
 			"Video_Id": "0gYdv7SfeOo",
 			"Movie_name": "Supreme Khiladi",
 			"Description": "A charitable trust faces threats from a powerful mafia leader who has set his eyes on its land. He plans to kill the legal heir to grab the wealth, but a brave taxi driver becomes an impediment.",
 			"Movieimg": "https://i.ytimg.com/vi/0gYdv7SfeOo/maxresdefault.jpg"
 		},
 		{
-			"id": 25,
+			"id": 31,
 			"Video_Id": "JDzXR_mV_fI",
 			"Movie_name": "A AA 2",
 			"Description": "Mohan Ranga falls in love with Megha who is an NRI residing in the United States. However, due to certain circumstances, they fall apart. Will they be able to reciprocate their Love & will destiny unite them is the rest of the story.",
 			"Movieimg": "https://i.ytimg.com/vi/JDzXR_mV_fI/maxresdefault.jpg"
 		},
 		{
-			"id": 26,
+			"id": 32,
 			"Video_Id": "1-Au1PmzkI0",
 			"Movie_name": "No. 1 Dilwala",
 			"Description": "This story is about two very good friend Abhi and Vasu. They were inseparable from their childhood. But when beautiful Maha enters in Abhi's life their friendship gets damaged because of some confusion. Now they have to resolve these issues to save the friendship.",
 			"Movieimg": "https://i.ytimg.com/vi/1-Au1PmzkI0/maxresdefault.jpg"
 		},
 		{
-			"id": 27,
+			"id": 33,
 			"Video_Id": "sXAwqoJ-WUA",
 			"Movie_name": "LIE",
 			"Description": "Sathyam and Chaitra meet unexpectedly and decide to only lie to each other. Soon, after they fall in love, Sathyam encounters Padmanabham, a criminal on the run from the Indian police.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWJkMzQ1ZTEtMTQ2Yi00NTEwLTk1YjItYzhiMjk5MjYwOWE1XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg"
 		},
 		{
-			"id": 28,
+			"id": 34,
 			"Video_Id": "v9QpKYed3f4",
 			"Movie_name": "Puli",
 			"Description": "The movie story deals with Maru Dheeran a meek child brought up in an enslaved village coming under the oppressive rule of the blue-eyed monstrous 'Vedalam' group who burden the people with enormous taxes and kill on whim.",
 			"Movieimg": "https://i.ytimg.com/vi/ne0yK0Yfcqc/maxresdefault.jpg"
 		},
 		{
-			"id": 29,
+			"id": 35,
 			"Video_Id": "lIIvFgwREsI",
 			"Movie_name": "Majili",
 			"Description": "Poorna (Naga Chaitanya) is a young guy from Vizag who falls in love with Anju (Divyansha Kaushik), a rich naval officer’s daughter. As time passes by, Poorna’s local politics create a rift in their love story & they break apart.",
 			"Movieimg": "https://i.ytimg.com/vi/lIIvFgwREsI/maxresdefault.jpg"
 		},
 		{
-			"id": 30,
+			"id": 36,
 			"Video_Id": "kgj6kc_hpFE",
 			"Movie_name": "Premam",
 			"Description": "Down on luck and depressed by constant failures in personal and professional life, Vijay is desperately in search of that single stroke of fortune that could turn his life around. But what if the power to rewrite his destiny lies within?",
 			"Movieimg": "https://i.ytimg.com/vi/eF5YRGkUaok/maxresdefault.jpg"
 		},
 		{
-			"id": 31,
+			"id": 37,
 			"Video_Id": "oz8a4W1Gp4M",
 			"Movie_name": "Brand Babu",
 			"Description": "Diamond Babu, the son of a wealthy brand-obsessed man, is just like his father. He wants to marry the daughter of the home minister but unknowingly woos her maid, Radha.",
 			"Movieimg": "https://i.ytimg.com/vi/oz8a4W1Gp4M/maxresdefault.jpg"
 		},
 		{
-			"id": 32,
+			"id": 38,
 			"Video_Id": "NenlQz-FkLY",
 			"Movie_name": "Sivaji The Boss",
 			"Description": "A software engineer comes to India to serve the nation and invest in nation's welfare. A few corrupt officials and politicians try to stop him but he overcomes all obstacles.",
 			"Movieimg": "https://i.ytimg.com/vi/n-FFfO8OhwA/maxresdefault.jpg"
 		},
 		{
-			"id": 33,
+			"id": 39,
 			"Video_Id": "ix__eQazRy8",
 			"Movie_name": "Dangerous Khiladi 3",
 			"Description": "Police-Ravi is a student aspiring to become a police officer,becomes hunted when he helps his friend out of trouble.The hunted becomes the Hunter to secure his future.",
 			"Movieimg": "https://i.ytimg.com/vi/ix__eQazRy8/maxresdefault.jpg"
 		},
 		{
-			"id": 34,
+			"id": 40,
 			"Video_Id": "GqGsBYHa7Zk",
 			"Movie_name": "Romeo Juliet",
 			"Description": "The movie story deals with Aishwarya she falls in love with Karthik assuming he is rich, but once she realises he is just a gym instructor, she leaves him and wants to get together with a rich man Arjun. ",
 			"Movieimg": "https://i.ytimg.com/vi/GqGsBYHa7Zk/maxresdefault.jpg"
 		},
 		{
-			"id": 35,
+			"id": 41,
 			"Video_Id": "Aix_cBFP7jM",
 			"Movie_name": "Jaanu",
 			"Description": "The film revolves around the reunion of former students from a 2004 batch class fifteen years after their graduation.",
 			"Movieimg": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81wcQ7KQSYL._RI_.jpg"
 		},
 		{
-			"id": 36,
+			"id": 42,
 			"Video_Id": "5Y87gFvzEO4",
 			"Movie_name": "VASCO THE REBEL",
 			"Description": "Vasco da Gama son of a cop is a street smart ruffian who chooses crime to earn a fortune and fulfill his grandma Mary’s dream after watching his parents death.",
 			"Movieimg": "https://lh3.googleusercontent.com/-Tu6Gmdb9_E0/YnfOVOewG8I/AAAAAAAABT4/wY_YRycs_islc8HgZ3qUv9MQWldg4QPlgCNcBGAsYHQ/s1600/1652018651064497-0.png"
 		},
 		{
-			"id": 37,
+			"id": 43,
 			"Video_Id": "7_-fTlskezg",
 			"Movie_name": "Vikram Vedha",
 			"Description": "Vikram, a no-nonsense police officer, accompanied by Simon, his partner, is on the hunt to capture Vedha, a smuggler and a murderer. Vedha tries to change Vikram's life, which leads to a conflict.",
 			"Movieimg": "https://i.ytimg.com/vi/7_-fTlskezg/maxresdefault.jpg"
 		},
 		{
-			"id": 38,
+			"id": 44,
 			"Video_Id": "RFA3ruwfLYI",
 			"Movie_name": "The Warriorr",
 			"Description": "The Warriorr is a 2022 Indian action film directed by N. Lingusamy and produced by Srinivasa Silver Screen. It is shot simultaneously in Telugu and Tamil languages. The film stars Ram Pothineni, Aadhi Pinisetty, Krithi Shetty, Akshara Gowda, and Nadhiya. The film score is composed by Devi Sri Prasad.",
 			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/b/bd/The_Warrior_%28Indian_Film%29.jpg"
 		},
 		{
-			"id": 39,
+			"id": 45,
 			"Video_Id": "oAvNsimUqBM",
 			"Movie_name": "Madhagaja",
 			"Description": "Madhagaja is a 2021 Indian Kannada-language action drama film directed by S. Mahesh Kumar and produced by Umapathy Srinivas under the banner of Umapathy Films. The film features Sriimurali, Ashika Ranganath and Jagapathi Babu in the lead roles. The film released in theatres on 3 December 2021.",
 			"Movieimg": "https://i.ytimg.com/vi/oAvNsimUqBM/maxresdefault.jpg"
 		},
 		{
-			"id": 40,
+			"id": 46,
 			"Video_Id": "410On7aRFn8",
 			"Movie_name": "Arrambam",
 			"Description": "Arrambam is a 2013 Indian Tamil-language action thriller film[2] directed by Vishnuvardhan. Produced by A. Raghuram and co-written by Subha, the film stars Ajith Kumar, Arya, Nayanthara and Taapsee Pannu.",
 			"Movieimg": "https://images004-a.erosnow.com/movie/4/1008244/img145210/6174483/1008244_6174483_35.jpg"
 		},
 		{
-			"id": 41,
+			"id": 47,
 			"Video_Id": "jXN9Ot2bwa8",
 			"Movie_name": "Bhagmati Returns",
 			"Description": "In the film, Priyamani plays a never seen before character while donning a dual role.  The actress looks charming and adds glamour and class to the film. However, there is more to her character than just glamour.",
 			"Movieimg": "https://i.ytimg.com/vi/jXN9Ot2bwa8/maxresdefault.jpg"
 		},
 		{
-			"id": 42,
+			"id": 48,
 			"Video_Id": "1bPsMG3dKCI",
 			"Movie_name": "Kayal",
 			"Description": "The story revolves around two friends who work hard, and spend their money travelling around the country. On one such trip, they accidentally help a pair of lovers elope, without realising it.",
 			"Movieimg": "https://i.ytimg.com/vi/1bPsMG3dKCI/maxresdefault.jpg"
 		},
 		{
-			"id": 43,
+			"id": 49,
 			"Video_Id": "3JLMovLpf6E",
 			"Movie_name": "Garuda",
 			"Description": "Superhero Shahenshah Is About A Common Man, Who Vows To Clean Evil Things In The Society. Veer (Vijay) Is A Milk Vendor In A Village Called Pavunoor, Who Has A Sister Kaveri.",
 			"Movieimg": "https://i.ytimg.com/vi/H5g7Nm-Nkeg/maxresdefault.jpg"
 		},
 		{
-			"id": 44,
+			"id": 50,
 			"Video_Id": "UGeOdbPMdQA",
 			"Movie_name": "Sabse Bada Rupaiya",
 			"Description": "A local gangster Tedha Singh is recruited for a by RAW, whose main aim is to catch Bob Morley, a dreaded international mafia leader. In the midst of flirting with a bar dance.",
 			"Movieimg": "https://i.ytimg.com/vi/UGeOdbPMdQA/maxresdefault.jpg"
 		},
 		{
-			"id": 45,
+			"id": 51,
 			"Video_Id": "3lCCsu0eULk",
 			"Movie_name": "RRR",
 			"Description": "RRR is a 2022 Indian Telugu-language epic action drama film directed by S. S. Rajamouli who wrote the film with V. Vijayendra Prasad. It is produced by D. V. V. Danayya of DVV Entertainment.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
 		},
 		{
-			"id": 46,
+			"id": 52,
 			"Video_Id": "CRTsuj__C4w",
 			"Movie_name": "Ek Aur Bol Bachchan",
 			"Description": "After losing his job and his ancestral property, Rahman and his sister move to a small town. Circumstances force him to perpetually lie about his true identity.",
 			"Movieimg": "https://i.ytimg.com/vi/CRTsuj__C4w/maxresdefault.jpg"
 		},
 		{
-			"id": 47,
+			"id": 53,
 			"Video_Id": "EDE10UUnAzM",
 			"Movie_name": "Rider",
 			"Description": "Rider is a 2021 Indian Kannada-language romantic-action film directed by Vijay Kumar Konda and produced by Sunil Gowda. The movie stars Nikhil Gowda Anusha Rai, Kashmira Pardeshi, Dattanna, Achyuth Kumar and Chikkanna in supporting roles.",
 			"Movieimg": "https://i.ytimg.com/vi/EDE10UUnAzM/maxresdefault.jpg"
 		},
 		{
-			"id": 48,
+			"id": 54,
 			"Video_Id": "drdIstXhIsc",
 			"Movie_name": "Son Of Satyamurthy 2 ",
 			"Description": "The movie story deals with Narayana Murthy a honest government employee. His son Surya loves him such a way that he is ready to die or kill anyone.",
 			"Movieimg": "https://static.digit.in/OTT/images/tr:n-ott_home_crousel/son-of-satyamurthy-2-5f770551efaa74a3746b6725.jpg"
 		},
 		{
-			"id": 49,
+			"id": 55,
 			"Video_Id": "hHId7w5X3aQ",
 			"Movie_name": "Jack And Daniel",
 			"Description": "Jackson Mathew is a businessman by day and a thief, who steals from the corrupt, by night. However, the Kerala police appoint Daniel, an incorruptible policeman, to capture him.",
 			"Movieimg": "https://flxt.tmsimg.com/assets/p17667231_p_v8_aa.jpg"
 		},
 		{
-			"id": 50,
+			"id": 56,
 			"Video_Id": "zihfLLjYYRM",
 			"Movie_name": "Bhairava",
 			"Description": "A loan recovery officer, Bhairava, finds a girl who wants to expose a local gangster and starts liking her. However, when he listens to her story, Bhairava decides to help her in her endeavours.",
 			"Movieimg": "https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/512/512/0/26/71/b75c13a0562e11e983dc89a77e3cdd3f_1557475317662_p_medium.jpg"
 		},
 		{
-			"id": 51,
+			"id": 57,
 			"Video_Id": "hhr8IWP9XCc",
 			"Movie_name": "RAW KHILADI 2",
 			"Description": "The story starts off with a police informer calling up Bharadwaj (Ravi Kishan) with information on criminal Padmanabham (Arjun Sarja) saying that Padmanabham is at a bar wearing a suit.",
 			"Movieimg": "https://i.ytimg.com/vi/hhr8IWP9XCc/maxresdefault.jpg"
 		},
 		{
-			"id": 52,
+			"id": 58,
 			"Video_Id": "bj3YBUNWXVI",
 			"Movie_name": "ZOMBIE REDDY",
 			"Description": "Mario, a game developer, and his friends, get caught up in the rivalry between two families and a mysterious zombie attack in Rayalaseema where they go to attend a friend's wedding.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTg4NTRjZjUtZWMyYS00YTk2LThjN2ItYTBkNThiMDY5NDRkXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 53,
+			"id": 59,
 			"Video_Id": "jsKPRH0Pw4I",
 			"Movie_name": "Aranmanai 3",
 			"Description": "Aranmanai 3 is an 2021 Indian Tamil-language comedy horror film written directed by Sundar C. The film stars an ensemble star cast including Sundar C, Arya, Raashi Khanna and Andrea Jeremiah, with Sakshi Agarwal",
 			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/5/51/Aranmanai_3.jpg"
 		},
 		{
-			"id": 54,
+			"id": 60,
 			"Video_Id": "Ay8x-0R62_w",
 			"Movie_name": "Googly",
 			"Description": "Sharath and Swathi meet in Bangalore and fall in love but due to misunderstandings, they drift apart. However, few years later, destiny brings them face to face at a friend's wedding.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTQ5NzQ5MDk3NF5BMl5BanBnXkFtZTgwMzIyMDU4MzE@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 55,
+			"id": 61,
 			"Video_Id": "zR52MgYhm_Q",
 			"Movie_name": "Mr. Majnu",
 			"Description": "Vikram Krishna a.k.a Vicky is a handsome boy who flirts with everyone and has never been in a serious relationship. Nikitha a.k.a Nikki is a girl who dreams of having a husband like Lord Shri Rama who will love her and take care of her.",
 			"Movieimg": "https://i2.cinestaan.com/image-bank/1500-1500/142001-143000/142499.jpg"
 		},
 		{
-			"id": 56,
+			"id": 62,
 			"Video_Id": "aCqzGt3veiU",
 			"Movie_name": "DJ (Duvvada Jagannadham)",
 			"Description": "Several years ago in Vijayawada, a kid named Duvvada Jagannadham, is inspired by the teachings of his grandfather that only the good deeds has to be visible and the person who does that doesn't have to come in light.",
 			"Movieimg": "https://m.media-amazon.com/images/I/61l2+COtKKL.jpg"
 		},
 		{
-			"id": 57,
+			"id": 63,
 			"Video_Id": "I3o-UeFZFKo",
 			"Movie_name": "Fidaa",
 			"Description": "Varun is a non-resident Indian who lives in Texas, United States with his elder brother Raju and adopted, younger brother Bujji. He is a medical student aiming to become a neurosurgeon. Varun comes to India along with his younger brother for Raju's marriage to Renuka, whose family hails from Banswada in Telangana.",
 			"Movieimg": "https://m.media-amazon.com/images/I/81voyGsKWHL._RI_.jpg"
 		},
 		{
-			"id": 58,
+			"id": 64,
 			"Video_Id": "SbSTTfnEMZM",
 			"Movie_name": "Miss India",
 			"Description": "Manasa Samyuktha, a woman with big goals from a middle class family, moves to the USA. She dreams of starting up her own tea business. On the way to becoming a successful businesswoman.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMDNjZjYwYjgtMTkyOC00ZjljLWFmZjQtN2EzMjMyYWQzNjRkXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 59,
+			"id": 65,
 			"Video_Id": "PXd8Uio4TSs",
 			"Movie_name": "Dwaraka",
 			"Description": "The story is about a thief Erra Srinu who turns into a fake Baba due to circumstances, how is his image exploited, his love story with Vasudha and his fight with a rationalist Chaitanya and how he comes clean forms the rest of the story.",
 			"Movieimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJgJOEFJb5oOyyuLTA1CphlONQB-5boKoir68YN2IzDdz_lu19EmJ-aZAAjnOY0v_cds&usqp=CAU"
 		},
 		{
-			"id": 60,
+			"id": 66,
 			"Video_Id": "JAdvqR-lHIU",
 			"Movie_name": "The Return of Rebel",
 			"Description": "Rishi (Prabhas) is the happy-go-lucky son of Bhupathi (Krishnam Raju), a powerful dictator of the village, who is liked by the villagers. Rishi is influenced by his father's ideals and grows up just like him.",
 			"Movieimg": "https://cps-static.rovicorp.com/2/Open/APAC_2674/Program/26204526/_derived_jpg_q90_310x470_m0/5.jpg"
 		},
 		{
-			"id": 61,
+			"id": 67,
 			"Video_Id": "87Ai7pdYegY",
 			"Movie_name": "Main Hoon Lucky The Racer",
 			"Description": "Ram Prasad and Lakshman Lucky Prasad are brothers and polar opposites. While the former is an honorable Assistant Commissioner of Police, the latter is a happy guy who is constantly at odds with his brother.",
 			"Movieimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu4_t5oqhVVmu_zFDDl7pgvMYKi0sF-8QUP7DMj0prLV__4BmL1TDS007JKLAiaNAsPA4&usqp=CAU"
 		},
 		{
-			"id": 62,
+			"id": 68,
 			"Video_Id": "vkuiI430d_0",
 			"Movie_name": "The Super Khiladi 3",
 			"Description": "Hari, a young man, looks for true love in all the wrong places. However, when he crosses paths with Shailu, he falls in love with her and soon realises that she is his childhood crush.",
 			"Movieimg": "https://static.digit.in/OTT/images/tr:n-ott_home_crousel/the-super-khiladi-3-5f770556efaa74a3746b696b.jpg"
 		},
 		{
-			"id": 63,
+			"id": 69,
 			"Video_Id": "7s9lsmnYLUw",
 			"Movie_name": "Dangerous Khiladi 2",
 			"Description": "A corrupt minister's daughter finds a diary containing details about a couple's relationship. When it ends abruptly, she tracks down the man who wrote it and gets involved in a massive conspiracy.",
 			"Movieimg": "https://static.toiimg.com/thumb/msid-68834237,width-219,height-317,imgsize-80260/68834237.jpg"
 		},
 		{
-			"id": 64,
+			"id": 70,
 			"Video_Id": "1odS6ynbWNo",
 			"Movie_name": "World Famous Lover",
 			"Description": "The film begins with Gautham in a prison saying that he too has a story to tell. The film cuts to Yamini and Gautham's story. They are in a live-in relationship. Gautham is pursuing his dream of becoming a writer.",
 			"Movieimg": "https://fs1.extraimage.org/2021/01/31/Vijay-Devarakonda-s-World-Famous-Lover-movie-Trailer-3rd-Poster-and-Still4e2e0289104f9f30.jpg"
 		},
 		{
-			"id": 65,
+			"id": 71,
 			"Video_Id": "Pf2hwLxU0zQ",
 			"Movie_name": "MCA Middle Class Abbayi",
 			"Description": "Nani, a middle-class youth with a photographic memory, stays at his uncle's house in Hyderabad. He has issues with his once dear brother's house because he dislikes his sister-in-law Jyothi, an RTO officer.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/716iaimOcGL._RI_.jpg"
 		},
 		{
-			"id": 66,
+			"id": 72,
 			"Video_Id": "0DGeKo6NBms",
 			"Movie_name": "Raj Mahal 3",
 			"Description": "The film is a love story with elements of horror. The protagonist is a man who shows off his bravery and also manages to scare ghosts.",
 			"Movieimg": "https://i.ytimg.com/vi/1iZ9NeNSsrE/maxresdefault.jpg"
 		},
 		{
-			"id": 67,
+			"id": 73,
 			"Video_Id": "TfQfai0qsCw",
 			"Movie_name": "Dil Dhadak Dhadak",
 			"Description": "Surya, a rebellious youngster, falls for Vaishali but refuses to marry her due to his past experiences. She, however, is confident of her love and promises to meet him exactly after one year.",
 			"Movieimg": "https://static.digit.in/OTT/images/tr:n-ott_home_crousel/dil-dhadak-dhadak-604dfb8c91cd6611a300920b.jpg"
 		},
 		{
-			"id": 68,
+			"id": 74,
 			"Video_Id": "i9I59bvJnNk",
 			"Movie_name": "Kanchana 3",
 			"Description": "An NRI wants to sell his ancestral home, but later hears rumours of it being haunted. Unwilling to sell the property at a throwaway price, he asks a team of four guys to spend a night in the house and prove that it isn't a ghost den.",
 			"Movieimg": "https://i.ytimg.com/vi/uE0zdVbrmiE/maxresdefault.jpg"
 		},
 		{
-			"id": 69,
+			"id": 75,
 			"Video_Id": "9khRLPbJ5fw",
 			"Movie_name": "Tik Tik Tik",
 			"Description": "To detonate the huge asteroid which is 7days away from earth with the help of nuclear missile set in space station, team of 6 members travel to space. The hurdles and consequences they faced in this operation will lead them to succeed in their mission is the rest of the story.",
 			"Movieimg": "https://fs1.extraimage.org/2020/12/13/Tik-Tik-Tik-2020-Bengali-Dubbed-Full-Movie-720p-BluRay-700MB-x264-MKV.jpg"
 		},
 		{
-			"id": 70,
+			"id": 76,
 			"Video_Id": "MZNU-ktisgY",
 			"Movie_name": "Kanchana The Wonder Car",
 			"Description": "The movie story deals with Parijatam is an independent woman who starts a cab service by buying an old car. The twist in the tale arises when she finds out that her car is possessed by an evil spirit. Things become even worse as problems keep erupting one after the other. Left with no choice, ",
 			"Movieimg": "https://i.ytimg.com/vi/MZNU-ktisgY/maxresdefault.jpg"
 		},
 		{
-			"id": 71,
+			"id": 77,
 			"Video_Id": "qky1I3a2e0Q",
 			"Movie_name": "Jersey",
 			"Description": "Arjun, a talented but failed cricketer, decides to return to cricket in his late thirties driven by the desire to represent the Indian cricket team and fulfil his son's wish for a jersey as a gift.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzBhZWQxOGUtZWVmMi00ZmZhLWJjZDYtMGUxY2I4ZDdlOGEyXkEyXkFqcGdeQXVyODMyODMxNDY@._V1_.jpg"
 		},
 		{
-			"id": 72,
+			"id": 78,
 			"Video_Id": "UVwSRReCaVk",
 			"Movie_name": "Kennedy Club 2021",
 			"Description": "Savarimuthu, an ex-soldier, falls sick while training the women's kabaddi team of his village. Soon, a former student named Muruganandham is chosen to take his place.",
 			"Movieimg": "https://i0.wp.com/www.netflixplans.com/wp-content/uploads/2021/05/kennedy-club-movie.png?fit=741%2C416&ssl=1"
 		},
 		{
-			"id": 73,
+			"id": 79,
 			"Video_Id": "U9ROv4lQeJ0",
 			"Movie_name": "Super Khiladi 4",
 			"Description": "A young cool going guy babu with an attitude of being himself accidentally falls in love with Keerthi, whose father hates babu for his attitude. when finally Keerthi decides to woo babu and profess love ,there is a stunning twist in which Keerthi 's one side lover Siddharth enters who already wins heart ",
 			"Movieimg": "https://static.digit.in/OTT/v2/images/tr:n-ott_home_crousel/super-khiladi-4-2148.jpg"
 		},
 		{
-			"id": 74,
+			"id": 80,
 			"Video_Id": "-2WqvmUSjqo",
 			"Movie_name": "Satyadev The Fearless Cop",
 			"Description": "he life of a young boy, Sathyadev, takes a destined route when his father becomes an incidental casualty in a scene of crime. The I.P.S. route takes away from him, a loving wife-to-be and renders a child motherless.",
 			"Movieimg": "https://qqcdnpictest.mxplay.com/pic/e24bdf4a5b6b0a40698d37afde3e4aff/en/16x9/1920x1080/ddf425a81608a54e5429c2a19a9d307f_1920x1080.jpg"
 		},
 		{
-			"id": 75,
+			"id": 81,
 			"Video_Id": "IFHtcvG5DNI",
 			"Movie_name": "Dev",
 			"Description": "The movie story deals with Dev, a youngster from a well-to-do family, is an adventure seeker. When his friend playfully tries to set him up with Meghna, a businesswoman who has no time for love, Dev has to embark on an adventure of another kind.",
 			"Movieimg": "https://passmaga.com/wp-content/uploads/Dev-2019-New-Released-Hindi-Dubbed-Full-Movie-Karthi.jpg"
 		},
 		{
-			"id": 76,
+			"id": 82,
 			"Video_Id": "zzhfvt5vZHI",
 			"Movie_name": "Dear Comrade",
 			"Description": "The movie story deals with Bobby, a hot-headed student union leader, he falls in love with Lily, a state-level cricketer. But soon his anger issues become a roadblock on his way to unite with Lily.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/71qiF3xKsNL._RI_.jpg"
 		},
 		{
-			"id": 77,
+			"id": 83,
 			"Video_Id": "1iNMsTMJz54",
 			"Movie_name": "Heart Attack 3",
 			"Description": "The storyline is light-hearted and revolves around Vikram Kumar alias Lucky who is in love with a television anchor Gowri. Gowri gives Lucky the cold shoulder, and helping her keep Lucky at an arm’s length is her dog Zoo Zoo.",
 			"Movieimg": "https://i.ytimg.com/vi/ZJglyASp1ng/maxresdefault.jpg"
 		},
 		{
-			"id": 78,
+			"id": 84,
 			"Video_Id": "VQ8Gz6l6OTc",
 			"Movie_name": "Thadaka 2",
 			"Description": "Chaitu and Anu Reddy fall in love but are faced with the problem of convincing Anu's mother Shailaja Reddy, a domineering woman who is determined to find a doctor as her son-in-law.",
 			"Movieimg": "https://i.ytimg.com/vi/VQ8Gz6l6OTc/maxresdefault.jpg"
 		},
 		{
-			"id": 79,
+			"id": 85,
 			"Video_Id": "IRGFbLrzE7w",
 			"Movie_name": "Ek Jwalamukhi",
 			"Description": "Bala Govind is a program director in MAA TV. His fights for justice regularly get him into trouble. During one of these incidents, he saves a person from goons while severely thrashing Murugesan,  the son of the notorious smuggler Tambi Durai.",
 			"Movieimg": "https://i.ytimg.com/vi/oFlKD70q1S8/maxresdefault.jpg"
 		},
 		{
-			"id": 80,
+			"id": 86,
 			"Video_Id": "_RmbRfYVKVM",
 			"Movie_name": "Dhammu",
 			"Description": "Rama Chandra gets involved in a blood feud between two royal families while trying to win over his lady-love, Sathya. He realizes that the lives of the villagers depend on his choices.",
 			"Movieimg": "https://megashortfilms.com/wp-content/uploads/2021/07/dhammu-dammu-hindi-dubbed-full-m.jpg"
 		},
 		{
-			"id": 81,
+			"id": 87,
 			"Video_Id": "fCE_IwP742Q",
 			"Movie_name": "Chirutha",
 			"Description": "The consequences that follow after the love between hero and heroine, when they accidentally fall in love on an island.",
 			"Movieimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQRf1ndfZHNHH7zjKIr84BAzw8F-OVq5w5LwuV7-MnKXAhE6PPyPiTIaPt-mrm_P-ysno&usqp=CAU"
 		},
 		{
-			"id": 82,
+			"id": 88,
 			"Video_Id": "lwMQH-o0VSE",
 			"Movie_name": "Sabse Badhkar Hum",
 			"Description": "The movie story deals with Hanumantha Rao and Vishwanath both are old college buddies. Their young children, Prabha and Nandini respectively, are also friends.",
 			"Movieimg": "https://qqcdnpictest.mxplay.com/pic/e1f07fe80db9ef47e0b2ad3b25aa6a25/en/16x9/640x360/test_pic1640330177334.jpg"
 		},
 		{
-			"id": 83,
+			"id": 89,
 			"Video_Id": "HQn8C8nefw8",
 			"Movie_name": "Policewala Gunda 2",
 			"Description": "The movie story deals with Sivan a well-respected don in the area of Madurai. After his driver was killed in an altercation with a few enemies, including a rowdy cop, he takes the driver's son Shakthi as his own. Shakthi grows up with a vengeful hatred towards the Police uniform and any other ",
 			"Movieimg": "https://i.ytimg.com/vi/DKg80Bi28VY/maxresdefault.jpg"
 		},
 		{
-			"id": 84,
+			"id": 90,
 			"Video_Id": "VCOLk9qybFw",
 			"Movie_name": "Hyper",
 			"Description": "What happens when the lives of two friends take an unexpected turn? A whole lot of confusion follows. Will they be able to get out of the mess? That forms the crux of the story.",
 			"Movieimg": "https://i.ytimg.com/vi/SUnrjQoRKVA/maxresdefault.jpg"
 		},
 		{
-			"id": 85,
+			"id": 91,
 			"Video_Id": "kaZFBTthNZM",
 			"Movie_name": "Kaithi",
 			"Description": "The movie story deals with Bejoy who heads a team of cops that has just confiscated a record amount of cocaine, which they hide in a secret cell under the police commissioner’s office.",
 			"Movieimg": "https://i.ytimg.com/vi/8rQnwpF2Qgs/maxresdefault.jpg"
 		},
 		{
-			"id": 86,
+			"id": 92,
 			"Video_Id": "VeoiEqdkKAk",
 			"Movie_name": "Srinivasa Kalyanam",
 			"Description": "Srinivas is a traditional guy who believes that marriage is the greatest festival. He meets Sri & both eventually fall in love with each other. Sri's father RK believes that marriage is not worth wasting a lot of time.",
 			"Movieimg": "https://i.ytimg.com/vi/VeoiEqdkKAk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCSm2zuP_6X2Eu5lzNxBhISw189pA"
 		},
 		{
-			"id": 87,
+			"id": 93,
 			"Video_Id": "R7aCOI4DuA0",
 			"Movie_name": "A Aa",
 			"Description": "Anasuya (Samantha) is a docile young woman who wants to break free from the clutches of her control-freak mom (Nadiya). While her mom is gone on a business trip, Anasuya sneaks up to the village of her maternal uncle. Vihari (Nithin) is Anasuya’s brother-in-law and he hosts her.",
 			"Movieimg": "https://i.ytimg.com/vi/R7aCOI4DuA0/mqdefault.jpg"
 		},
 		{
-			"id": 88,
+			"id": 94,
 			"Video_Id": "rBVvJFh1NeE",
 			"Movie_name": "Lisaa",
 			"Description": "Lisaa decides to meet her grandparents and get a nod from them for her single mother’s second marriage. As Lisaa is planning to leave to the US, she wants her mother to have a companion and hence, insists her to remarry.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZGQyYTRmNzAtMmRlNy00NDY0LWE1NWUtMTU5Nzg1N2FiN2VjXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg"
 		},
 		{
-			"id": 89,
+			"id": 95,
 			"Video_Id": "krCpn6RrNX8",
 			"Movie_name": "Madam Geeta Rani",
 			"Description": "The film is about a headmaster converting a poorly run school into one of the best in the state.",
 			"Movieimg": "https://passmaga.com/wp-content/uploads/Madam-Geeta-Rani-Raatchasi-2020-New-Released-Hindi-Dubbed-Full.jpg"
 		},
 		{
-			"id": 90,
+			"id": 96,
 			"Video_Id": "bIpOrDxZZVY",
 			"Movie_name": "Nela Ticket",
 			"Description": "Ravi Teja an orphan raised in an orphanage in Bangalore belonging to Ananda Bhupathi. Ananda gets killed by his own son Aditya Bhupathi, who later becomes the Home Minister.",
 			"Movieimg": "https://i.ytimg.com/vi/0x-7tzBdLpU/maxresdefault.jpg"
 		},
 		{
-			"id": 91,
+			"id": 97,
 			"Video_Id": "REdVA3_ORk0",
 			"Movie_name": "The Return of Abhimanyu",
 			"Description": "The movie is a techno thriller with many action scenes. The story also concerns hacking and the leak of information, how in the days of interconnections, the privacy of a person doesn't hold power, as anyone can be hacked and their personal information stolen from them.",
 			"Movieimg": "https://3.bp.blogspot.com/-40wyMidyP0Q/XGD2emEfu1I/AAAAAAAAY-k/7Hj3JG0v7hsMj_irLdeB8c6t3v4U82ZfQCLcBGAs/s1600/The+Return+Of+Abhimanyu+2019.jpg"
 		},
 		{
-			"id": 92,
+			"id": 98,
 			"Video_Id": "js4HJnv4Zu4",
 			"Movie_name": "Magadheera",
 			"Description": "In 1609 AD, Mitravinda, a princess, and Kala Bhairava, the warrior that she loved, die. 400 years later, the warrior is reincarnated as Harsha, a motorcycle stuntman. He brushes hands with a girl and sparks fly as he begins to recall his past life.",
 			"Movieimg": "https://i.ytimg.com/vi/foNrbL5KphI/maxresdefault.jpg"
 		},
 		{
-			"id": 93,
+			"id": 99,
 			"Video_Id": "XaodMMhrFYg",
 			"Movie_name": "Amar Akbhar Anthoni",
 			"Description": "A man suffering from Dissociative Identity Disorder has to take revenge against four businessmen for the murder of his family while his past confronts him in the form of his childhood love.",
 			"Movieimg": "https://1.bp.blogspot.com/-zsQn65G06Sk/XQb1EHG4bTI/AAAAAAAADcY/7EkzBFdUdfESygonDDc3_MTfV013yAfdACLcBGAs/s1600/maxresdefault-7-678x381.jpg"
 		},
 		{
-			"id": 94,
+			"id": 100,
 			"Video_Id": "WdDHbDFbp9Q",
 			"Movie_name": "Main Hoon Bodyguard",
 			"Description": "Bhoominathan aka Bhoomi is introduced to us as a person who gets into many local fights. Worried about his future, his family sends him to Muthuramalingam, a much respected personality in his place Semmanur, to put Bhoomi's life on the right track. But things don't go as planned. ",
 			"Movieimg": "https://i.ytimg.com/vi/1xz8_1KTC3Y/maxresdefault.jpg"
 		},
 		{
-			"id": 95,
+			"id": 101,
 			"Video_Id": "YmPQtzUM5zg",
 			"Movie_name": "Temper 2",
 			"Description": "A CBI officer moonlights as a modern day Robin Hood in the guise of the masked Kanthaswamy, as he helps fight corruption and aid impoverished people.",
 			"Movieimg": "https://i.ytimg.com/vi/PhjkI4A-CIY/maxresdefault.jpg"
 		},
 		{
-			"id": 96,
+			"id": 102,
 			"Video_Id": "YIETOFKiD1o",
 			"Movie_name": "Dilwala The Real Man",
 			"Description": "Kuselan revolves around the tale of a beautiful friendship between a popular actor and a poor barber.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/81cHnNh3+qL._RI_.jpg"
 		},
 		{
-			"id": 97,
+			"id": 103,
 			"Video_Id": "YX_dC0YJ6vI",
 			"Movie_name": "The Fighterman Singham",
 			"Description": "The movie story deals with Sub-Inspector Durai Singam who lives a fairly wealthy lifestyle in Nallore along with his parents and a sister.",
 			"Movieimg": "https://i.ytimg.com/vi/RQqZ5AGzDVo/maxresdefault.jpg"
 		},
 		{
-			"id": 98,
+			"id": 104,
 			"Video_Id": "dNpROOV0PBk",
 			"Movie_name": "Arundhati",
 			"Description": "Arundhati is a descendant of the Gadwal ruling dynasty. It is agreed that she will marry Rahul. A few days before her marriage, she comes to the fort of Gadwal from Hyderabad.",
 			"Movieimg": "https://4.bp.blogspot.com/-aAr6J1x0GJ4/Vn40P7sDsPI/AAAAAAAADNA/Oy_sw5-XvlQ/s400/Arundhati%2B2009%2BHindi%2BDubbed%2BMovie%2BDownload.jpg"
 		},
 		{
-			"id": 99,
+			"id": 105,
 			"Video_Id": "WuVxHShRD4s",
 			"Movie_name": "Betting Raja",
 			"Description": "A carefree boy who makes money out of betting finds himself in trouble when his father falls ill. To raise funds, he takes up the challenge of wooing a woman but a startling fact changes things.",
 			"Movieimg": "https://i.ytimg.com/vi/OLvfTNqEi20/maxresdefault.jpg"
 		},
 		{
-			"id": 100,
+			"id": 106,
 			"Video_Id": "4ZmBu9PtdZw",
 			"Movie_name": "Ghayal Khiladi",
 			"Description": "The movie story deals with youngster Arivu who is from a slum and his wish is to begin a radio channel for himself, he also had some personal plans while creating the channel.",
 			"Movieimg": "https://i.ytimg.com/vi/CPZkqqsfZnM/maxresdefault.jpg"
 		},
 		{
-			"id": 101,
+			"id": 107,
 			"Video_Id": "U5No0zMyOIE",
 			"Movie_name": "Silly Fellows",
 			"Description": "Silly Fellows is a 2018 Telugu comedy film starring Allari Naresh, Sunil, Chitra Shukla, Nandini Rai, and Jaya Prakash Reddy in lead roles. It is directed by Bhimaneni Srinivasa Rao.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/cb81cc918f155216dadf47fb6e3b9663d68bc8a587410768715436c3e22ec757._RI_V_TTW_.jpg"
 		},
 		{
-			"id": 102,
+			"id": 108,
 			"Video_Id": "Axqktd23tkM",
 			"Movie_name": "Express Raja",
 			"Description": "Express Raja is a 2016 Indian Telugu-language romantic comedy thriller film written and directed by Merlapaka Gandhi.",
 			"Movieimg": "https://i.ytimg.com/vi/Axqktd23tkM/maxresdefault.jpg"
 		},
 		{
-			"id": 103,
+			"id": 109,
 			"Video_Id": "SwuIvm9y-M8",
 			"Movie_name": "VIP 2",
 			"Description": "VIP 2 Lalkar (Hindi Dubbed) is the dubbed version of action-comedy movie Velaiilla Pattadhari 2 directed by Soundarya Rajnikanth. The movie was shot in Tamil as well as Telugu at the same time and was later also dubbed in Hindi. ",
 			"Movieimg": "https://chinmaynakhwa.files.wordpress.com/2017/08/51fc64a4-0337-4c5d-b3cd-a99d9e512ce7.jpg"
 		},
 		{
-			"id": 104,
+			"id": 110,
 			"Video_Id": "bi2ZGhdUnFE",
 			"Movie_name": "Jamai Raja",
 			"Description": "jamai raja full movie, jamai raja full movie hindi dubbed, mappillai tamil movie full Dhanush, mappillai tamil movie full dhanush hindi dubbed, dhanush hindi dubbed movies 2018 full movie, dhanush new hindi dubbed movies, hansika motwani movies in hindi dubbed 2018.",
 			"Movieimg": "https://i.ytimg.com/vi/xb8MMXEA5g0/maxresdefault.jpg"
 		},
 		{
-			"id": 105,
+			"id": 111,
 			"Video_Id": "XplWE08fc9U",
 			"Movie_name": "Maaya",
 			"Description": "Maaya is a 2014 Telugu psychological supernatural thriller film directed by the national award-winning Neelakanta and produced by Dr. M. V. K. Reddy, Madhura Sreedhar Reddy.",
 			"Movieimg": "https://i.ytimg.com/vi/XplWE08fc9U/maxresdefault.jpg"
 		},
 		{
-			"id": 106,
+			"id": 112,
 			"Video_Id": "Grkp0RnoBiU",
 			"Movie_name": "Not Out",
 			"Description": "Young Veeru eats, sleeps and dreams cricket and works hard to hone his bowling skills. But will he be able to overcome not just his poverty but also his failures in order to pursue his passion? An inspiring story of beating all odds to follow one's dream.",
 			"Movieimg": "https://i.ytimg.com/vi/UjwkIaYecBA/maxresdefault.jpg"
 		},
 		{
-			"id": 107,
+			"id": 113,
 			"Video_Id": "h64O52tGhZA",
 			"Movie_name": "Intelligent",
 			"Description": "Inttelligent is a 2018 Indian Telugu-language action film directed by V. V. Vinayak, featuring Sai Dharam Tej and Lavanya Tripathi in the lead role.",
 			"Movieimg": "https://i.ytimg.com/vi/h64O52tGhZA/maxresdefault.jpg"
 		},
 		{
-			"id": 108,
+			"id": 114,
 			"Video_Id": "iKTDhLOu1r4",
 			"Movie_name": "L7",
 			"Description": "The movie story deals with Arun and Sandhya both are a newly married couple they move into a house to start their martial life. As expected, the house is haunted and things start falling apart for the couple as Sandhya starts behaving quite weirdly.",
 			"Movieimg": "https://i.ytimg.com/vi/iKTDhLOu1r4/maxresdefault.jpg"
 		},
 		{
-			"id": 109,
+			"id": 115,
 			"Video_Id": "YHd-jQn6Oes",
 			"Movie_name": "Makkhi",
 			"Description": "Sudeep is a high profile industrialist who gets whatever he wants and he has a special eye for beautiful women. To get them, he will not hesitate to do anything.",
 			"Movieimg": "https://www.filmibeat.com/img/popcorn/movie_posters/makkhi-12024.jpg"
 		},
 		{
-			"id": 110,
+			"id": 116,
 			"Video_Id": "4-j7wyf8rQ4",
 			"Movie_name": "Mohini",
 			"Description": "Mohini is a 2018 Indian Tamil-language supernatural horror film written and directed by Ramana Madhesh, starring Trisha and Jackky Bhagnani in the lead roles.",
 			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/e/ec/Mohini_poster.jpg"
 		},
 		{
-			"id": 111,
+			"id": 117,
 			"Video_Id": "hPvJ4VfrR9A",
 			"Movie_name": "Gaddalakonda Ganesh",
 			"Description": "Gaddalakonda Ganesh is a 2019 Indian Telugu-language action comedy film directed by Harish Shankar and produced by Ram Achanta and Gopichand Achanta under the 14 Reels Plus banner.",
 			"Movieimg": "https://i.imgur.com/e8DPgAi.jpg"
 		},
 		{
-			"id": 112,
+			"id": 118,
 			"Video_Id": "pvqC887mdgQ",
 			"Movie_name": "Double Cross",
 			"Description": "Velu, a gym instructor, refuses to help Duraipandi in his fight for social causes. Later, he changes his mind when he meets with an accident and learns that he is going to die soon.",
 			"Movieimg": "https://i.ytimg.com/vi/pvqC887mdgQ/maxresdefault.jpg"
 		},
 		{
-			"id": 113,
+			"id": 119,
 			"Video_Id": "pps_s7xtNZE",
 			"Movie_name": "Shatir Chor",
 			"Description": "Shatir Chor Movie is an Indian Tamil language comedy thriller film written and directed by Sathyasiva, starring by Krishna and Bindu Madhavi and Kaali Venkat in the lead role. This film was released on 1 August 2019 in Tamil language.",
 			"Movieimg": "https://i.ytimg.com/vi/pps_s7xtNZE/maxresdefault.jpg"
 		},
 		{
-			"id": 114,
+			"id": 120,
 			"Video_Id": "rrg7qcbEKl0",
 			"Movie_name": "The Rose Villa",
 			"Description": "Ravi and Sweta meet a lonely elderly couple when their car breaks down in the forest. Invited to their home, strange behaviour sets off alarm bells and Ravi and Sweta attempt to escape.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjU4ZmZhNDAtMDk3Ni00YmM4LWE4NTAtMWEyOTZkMThhZTA1XkEyXkFqcGdeQXVyMTM2NDUxNzM3._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 115,
+			"id": 121,
 			"Video_Id": "C2RrpXkpCD4",
 			"Movie_name": "Vilayati Hero",
 			"Description": "As a child, Paari loses his father in a fight on sharing water with their neighbouring village. Years later, when he returns from Singapore, he finds the problem persisting and attempts to resolve it.",
 			"Movieimg": "https://i.ytimg.com/vi/C2RrpXkpCD4/maxresdefault.jpg"
 		},
 		{
-			"id": 116,
+			"id": 122,
 			"Video_Id": "lFKPZbS4vFs",
 			"Movie_name": "Vana Yuddham",
 			"Description": "The infamous forest brigand Veerappan smuggles sandalwood and ivory, kills elephants, and murders innocent people incessantly. Finally, the police set up a task force to catch him and his gang.",
 			"Movieimg": "https://i.ytimg.com/vi/lFKPZbS4vFs/maxresdefault.jpg?v=6197846d"
 		},
 		{
-			"id": 117,
+			"id": 123,
 			"Video_Id": "dIsDOAsE-eM",
 			"Movie_name": "Siruthai",
 			"Description": "A thief comes across a little girl who says that he's her father. When he learns the truth about his lookalike, who's an honest cop, he decides to turn a new leaf and help get rid of the local baddie.",
 			"Movieimg": "https://i.ytimg.com/vi/dIsDOAsE-eM/maxresdefault.jpg"
 		},
 		{
-			"id": 118,
+			"id": 124,
 			"Video_Id": "JGizSzsSioI",
 			"Movie_name": "Dum",
 			"Description": "Bunny, a pizza delivery boy is blamed by Madhumati, a calm and serious girl, of ruining her education and being responsible for an upcoming unwanted marriage.",
 			"Movieimg": "https://i.ytimg.com/vi/BGzMgxMzUS8/maxresdefault.jpg"
 		},
 		{
-			"id": 119,
+			"id": 125,
 			"Video_Id": "5_cs-vkQ4l0",
 			"Movie_name": "Badrinaath",
 			"Description": "Badri, under the guidance of his martial arts and spiritual guru Bhishma, becomes the protector of the Badrinath temple. Badri meets Alakananda, an agnostic, and attempts to revive her faith in God.",
 			"Movieimg": "https://i.ytimg.com/vi/cQ_BSoZ4RXE/maxresdefault.jpg"
 		},
 		{
-			"id": 120,
+			"id": 126,
 			"Video_Id": "NY2ICfegcB8",
 			"Movie_name": "Dangerous Khiladi 6",
 			"Description": "A small bet by Chinna during his childhood results in his family escaping from a village and eventually he grows to become a streetsmart and intelligent man",
 			"Movieimg": "https://static.digit.in/OTT/images/tr:w-1200/dangerous-khiladi-6-5f37bf23058c2888ecda9488.jpg"
 		},
 		{
-			"id": 121,
+			"id": 127,
 			"Video_Id": "n0ykIJjzQuk",
 			"Movie_name": "Mar Mitenge",
 			"Description": "A man involved in mercenary activities saves an abducted woman from a group of hooligans. Later, he falls in love with her and sets out to avenge the deaths of her family members.",
 			"Movieimg": "https://i.ytimg.com/vi/8iMfWicy48k/maxresdefault.jpg"
 		},
 		{
-			"id": 122,
+			"id": 128,
 			"Video_Id": "vD4bUYlycF4",
 			"Movie_name": "Kaashmora",
 			"Description": "Kaashmora is a 2016 Indian Tamil-language horror masala film written and directed by Gokul. It features Karthi in dual roles for the second time after Siruthai as the protagonist and antagonist respectively",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/71SOdjvk-SL._RI_.jpg"
 		},
 		{
-			"id": 123,
+			"id": 129,
 			"Video_Id": "9Q6gFxqt9SU",
 			"Movie_name": "Don Returns",
 			"Description": "A powerful gangster tries to put his life of crime and violence behind him. However, he finds it difficult to gain a measure of peace due to enemies from his past.",
 			"Movieimg": "https://i.ytimg.com/vi/9Q6gFxqt9SU/sddefault.jpg"
 		},
 		{
-			"id": 124,
+			"id": 130,
 			"Video_Id": "LwlZk_qZybc",
 			"Movie_name": "Har Din Diwali",
 			"Description": "A grandson, Sai, wishes to make the last few weeks for his dying grandfather, Raghu Ramayya, a time to remember. Since most of Raghu's children are too busy to visit him, Sai's gesture comforts him.",
 			"Movieimg": "https://fs1.extraimage.org/2020/11/16/Screenshot_51.jpg"
 		},
 		{
-			"id": 125,
+			"id": 131,
 			"Video_Id": "jKX4nGQm6VY",
 			"Movie_name": "Veerta The Power",
 			"Description": "Neelakanta is a revered person in the village he resides whose daughters Subbalakshmi and Meenakshi are more than anything for him in the world. Subbalakshmi loves a native called Errababu with whom she elopes on the night of her arranged marriage ceremony.",
 			"Movieimg": "https://i.ytimg.com/vi/1XGeq5HFx3M/maxresdefault.jpg"
 		},
 		{
-			"id": 126,
+			"id": 132,
 			"Video_Id": "Po3uEurY96w",
 			"Movie_name": "Sabse Badhkar Hum 2",
 			"Description": "The movie story deals with Relangi Mavayya a gentleman from a small village Relangi and he believes in human values and relationships.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/71qez-nw7jL._RI_.jpg"
 		},
 		{
-			"id": 127,
+			"id": 133,
 			"Video_Id": "T8XlRPCJdzY",
 			"Movie_name": "Comali",
 			"Description": "Ravi awakens from a prolonged coma to learn that he is in his 30s and has missed 16 years of his life. Soon, he struggles to cope with the modern world and its innovations.",
 			"Movieimg": "https://i.ytimg.com/vi/q3BGRVJ28T4/maxresdefault.jpg"
 		},
 		{
-			"id": 128,
+			"id": 134,
 			"Video_Id": "AfhkOEA9uSY",
 			"Movie_name": "Airaa",
 			"Description": "Yamuna, a journalist, is haunted by a vengeful spirit when she visits her grandmother in a remote village. Meanwhile, Amudhan, mourning the loss of his lover, is also investigating similar hauntings.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/81PzekOGcwL._RI_.jpg"
 		},
 		{
-			"id": 129,
+			"id": 135,
 			"Video_Id": "g6fx3Z7mXWY",
 			"Movie_name": "Bajrangi",
 			"Description": "A cruel god-man rules and harasses the people in a village. Jeevan, who comes to the village to learn about his ancestors, ends up bravely fighting against the god-man to save the villagers.",
 			"Movieimg": "https://i.ytimg.com/vi/GrRDv9grWNU/maxresdefault.jpg"
 		},
 		{
-			"id": 130,
+			"id": 136,
 			"Video_Id": "FVCQGFuEHSU",
 			"Movie_name": "Rajmahal",
 			"Description": "Murali along his wife Madhavi come down from Mumbai to his village in order to sell his family's ancestral palace. His relations having a stake in the property also gather to jointly sign and sell it. ",
 			"Movieimg": "https://static.digit.in/OTT/images/tr:w-1200/rajmahal-6071b7b2051492c8b48a4922.jpg"
 		},
 		{
-			"id": 131,
+			"id": 137,
 			"Video_Id": "YCgKLAZUNV4",
 			"Movie_name": "Nayak The Hero 2",
 			"Description": "Kumara and Natesha escape from a mental hospital and come to the city. Soon they are chased by a gangster while their actual truth is revealed.",
 			"Movieimg": "https://i.ytimg.com/vi/YCgKLAZUNV4/maxresdefault.jpg"
 		},
 		{
-			"id": 132,
+			"id": 138,
 			"Video_Id": "GVIkN8bv6FQ",
 			"Movie_name": "Agent Sai",
 			"Description": "Agent Sai Srinivasa runs a detective agency in Nellore, but he rarely has any cases to solve. One day, he is asked to investigate a case but he gets more than he bargained for.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjMzYWJkNmMtZDhmZC00ZmViLTljNGUtZjZkYWRmZmQ3MjM5XkEyXkFqcGdeQXVyMTE1MTYxMzk2._V1_.jpg"
 		},
 		{
-			"id": 133,
+			"id": 139,
 			"Video_Id": "ewJCOSSQQu0",
 			"Movie_name": "Gopala Gopala",
 			"Description": "The film is a remake of the 2012 Hindi film \"Oh My God\" and is about an atheist Gopala Rao who sues god after losing his shop in an earthquake and the consequences face by him when religious organisations revolt against him and Krishna visits him as a human to guide him.",
 			"Movieimg": "https://i.ytimg.com/vi/GRdzaDtaZfs/maxresdefault.jpg"
 		},
 		{
-			"id": 134,
+			"id": 140,
 			"Video_Id": "pKp0hmFRKgE",
 			"Movie_name": "Sabse Badi Hera Pheri 2",
 			"Description": "Narasimha is enraged when his sister, Saraswati, elopes with Basha. The rivalry between them continues for years. When Saraswati's son, Sulaiman, sees his mother's grief, he decides to end the feud.",
 			"Movieimg": "https://i.ytimg.com/vi/_PU-SMgK7Gk/maxresdefault.jpg"
 		},
 		{
-			"id": 135,
+			"id": 141,
 			"Video_Id": "saHth7In6yw",
 			"Movie_name": "Thugs Of Amrica",
 			"Description": "Kedarnath tricks his Guru into taking a group trip to the US to pursue his dream girl, whom he met in India.",
 			"Movieimg": "https://i.ytimg.com/vi/afHBCAM3lHY/maxresdefault.jpg"
 		},
 		{
-			"id": 136,
+			"id": 142,
 			"Video_Id": "M_Mh51IOJac",
 			"Movie_name": "Biskut",
 			"Description": "After the death of his father, Raja begins to work in his father's company. He, however, finds his life changed when he befriends Janaki who narrates stories that come true for him.",
 			"Movieimg": "https://i.ytimg.com/vi/Cpo6ye0fr8c/maxresdefault.jpg"
 		},
 		{
-			"id": 137,
+			"id": 143,
 			"Video_Id": "tmbWSQMh0Os",
 			"Movie_name": "The Return of Sikander",
 			"Description": "The movie is about Chandu who obeys his father's orders, and goes to find out why Venkata Ratnam, the realtor, is taking so much time in making a bridge that will help the villagers.",
 			"Movieimg": "https://m.media-amazon.com/images/I/81-dcJn3ABL._SX466_.jpg"
 		},
 		{
-			"id": 138,
+			"id": 144,
 			"Video_Id": "rh5ar7E3hB4",
 			"Movie_name": "1920: The Evil Returns",
 			"Description": "In 1920, Jaidev Verma is a famous poet who lives the life of a loner as he is unable to meet the love of his life, Smruti. They got to know each other through an exchange of letters and slowly fall in love.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMDZhYTFiYzktZDUyOC00ZDgyLWJlNjYtMzVkMmFjMjdlYjIyXkEyXkFqcGdeQXVyNjI1MzI1NzI@._V1_.jpg"
 		},
 		{
-			"id": 139,
+			"id": 145,
 			"Video_Id": "6tQmXULpwJ0",
 			"Movie_name": "Player Ek Khiladi",
 			"Description": "A mysterious man along with a young computer hacker tries to unveil a major government conspiracy which resulted in several bloody deaths.",
 			"Movieimg": "https://i.ytimg.com/vi/6tQmXULpwJ0/maxresdefault.jpg"
 		},
 		{
-			"id": 140,
+			"id": 146,
 			"Video_Id": "wW3A1Mv7lfw",
 			"Movie_name": "Brand Ka Bolbala",
 			"Description": "Brand Ka Bolbala is a 2018 Indian Telugu language film directed by P. Prabhakar. It stars Sumanth Shailendra and Eesha Rebba",
 			"Movieimg": "https://i.ytimg.com/vi/wW3A1Mv7lfw/mqdefault.jpg"
 		},
 		{
-			"id": 141,
+			"id": 147,
 			"Video_Id": "1lFk1LSsI_c",
 			"Movie_name": "Jaya Janaki Nayaka KHOONKHAR",
 			"Description": "Gagan and Sweety fall in love but are forced to break up because her father disapproves of him. While defending a family from thugs one day, Gagan unknowingly saves Sweety and vows to protect her.",
 			"Movieimg": "https://i.ytimg.com/vi/1lFk1LSsI_c/maxresdefault.jpg"
 		},
 		{
-			"id": 142,
+			"id": 148,
 			"Video_Id": "HnTgSpam6Co",
 			"Movie_name": "Mr. Sukumar",
 			"Description": "Suku sees relationships as a means to an end. So when he sets out to establish his company, he looks to his grandmother's property as a solution to his money woes.",
 			"Movieimg": "https://i.ytimg.com/vi/HnTgSpam6Co/maxresdefault.jpg"
 		},
 		{
-			"id": 143,
+			"id": 149,
 			"Video_Id": "AXtZfXEBvsc",
 			"Movie_name": "Yeh Saali Aashiqui",
 			"Description": "Yeh Saali Aashiqui is an Indian Hindi-language romantic thriller film. The film is directed by Cherag Ruparel and produced by Jayantilal Gada & Amrish Puri Films.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTcyNGNjNGYtYWVjZi00MWEwLThlNjctOWM3NDYxYmM0MWMxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
 		},
 		{
-			"id": 144,
+			"id": 150,
 			"Video_Id": "zaz50SjKz4g",
 			"Movie_name": "Yeh Hai Zindagi",
 			"Description": "Yeh Hai Zindagi is a 1977 Hindi-language film. Produced by B. Nagi Reddy, it is directed by K. S. Sethumadhavan. The film stars Sanjeev Kumar, Seema Deo",
 			"Movieimg": "https://i.ytimg.com/vi/zaz50SjKz4g/maxresdefault.jpg"
 		},
 		{
-			"id": 145,
+			"id": 151,
 			"Video_Id": "xlaStrxzW_U",
 			"Movie_name": "Dayaalu",
 			"Description": "Bittu, a six-year-old, loses his parents in an unfortunate car accident. Thirty years later, he comes across two collegians who look exactly like his late parents' young selves.",
 			"Movieimg": "https://static.digit.in/OTT/v2/images/tr:n-ott_home_crousel/dayaalu-261634.jpg"
 		},
 		{
-			"id": 146,
+			"id": 152,
 			"Video_Id": "7-Cstc7fgPg",
 			"Movie_name": "Master Mind",
 			"Description": "Master Mind is a thriller which revolves around the kidnap of the wife of the protagonist played by Raj Vardhan. Kumar plays an interesting role in the film that helps the protagonist solve the kidnap mystery.",
 			"Movieimg": "https://i.ytimg.com/vi/7-Cstc7fgPg/maxresdefault.jpg"
 		},
 		{
-			"id": 147,
+			"id": 153,
 			"Video_Id": "4m3QtwPrhBk",
 			"Movie_name": "Arya 2",
 			"Description": "Arya 2 is a 2009 Indian Telugu-language romantic action comedy film directed by Sukumar. Starring Allu Arjun, Kajal Aggarwal, and Navdeep, it is a spiritual sequel to Arya (2004).",
 			"Movieimg": "https://i.ytimg.com/vi/KqPpJFFW_sQ/maxresdefault.jpg"
 		},
 		{
-			"id": 148,
+			"id": 154,
 			"Video_Id": "BblLVtPQbY0",
 			"Movie_name": "Dumdaar Khiladi 2",
 			"Description": "Balu grows up without the love of a family due to his parents' untimely death. Later, he decides to establish a firm to help people like himself receive the affection they missed out on.",
 			"Movieimg": "https://i.ytimg.com/vi/BblLVtPQbY0/maxresdefault.jpg"
 		},
 		{
-			"id": 149,
+			"id": 155,
 			"Video_Id": "JIedd4l9i1s",
 			"Movie_name": "Raw Khiladi",
 			"Description": "A rock star, who suffers from a mental disorder due to his bitter past, is convinced that his parents were murdered by three men. Taking the support of a journalist, he sets out to find the evil men.",
 			"Movieimg": "https://i.ytimg.com/vi/JIedd4l9i1s/maxresdefault.jpg"
 		},
 		{
-			"id": 150,
+			"id": 156,
 			"Video_Id": "NpJ6lnbgi_s",
 			"Movie_name": "Check",
 			"Description": "Check is a 2021 Indian Telugu-language prison drama film written and directed by Chandra Sekhar Yeleti. Produced by V. Anand Prasad's Bhavya Creations, the film stars Nithiin.",
 			"Movieimg": "https://i.ytimg.com/vi/NpJ6lnbgi_s/maxresdefault.jpg"
 		},
 		{
-			"id": 151,
+			"id": 157,
 			"Video_Id": "To0HL1rk9NI",
 			"Movie_name": "Voltage 420",
 			"Description": "Krishna and Radha are childhood friends and are truly fond of each other. As Krishna decides to express his love for her, destiny forces him to part ways from his beloved.",
 			"Movieimg": "https://i.ytimg.com/vi/To0HL1rk9NI/maxresdefault.jpg"
 		},
 		{
-			"id": 152,
+			"id": 158,
 			"Video_Id": "qML_Tq6gPcc",
 			"Movie_name": "Khallas",
 			"Description": "Khallas is a Latest Full Hindi Dubbed South Action Comedy Movie starring Ravi Teja, Richa Gangopadhyay, Deeksha Seth, Prakash Raj.",
 			"Movieimg": "https://i.ytimg.com/vi/qML_Tq6gPcc/maxresdefault.jpg"
 		},
 		{
-			"id": 153,
+			"id": 159,
 			"Video_Id": "XL2kqGpozrY",
 			"Movie_name": "Sabse Badi Hera Pheri 3",
 			"Description": "When Naidu confronts his son's rival group to end their squabbles, he encounters their mother Satya, his long lost love, separated by the twist of fate.",
 			"Movieimg": "https://i.ytimg.com/vi/NNP8jlQmGMs/maxresdefault.jpg"
 		},
 		{
-			"id": 154,
+			"id": 160,
 			"Video_Id": "gLySTjP4kCc",
 			"Movie_name": "King",
 			"Description": "King is a 2021 Indian Telugu-language action comedy film directed by Sreenu Vaitla from a story written by Kona Venkat and Gopimohan. The film stars Nagarjuna Akkineni, Aallu arjun, Trisha, and Mamta Mohandas. ",
 			"Movieimg": "https://i.ytimg.com/vi/gLySTjP4kCc/maxresdefault.jpg"
 		},
 		{
-			"id": 155,
+			"id": 161,
 			"Video_Id": "Zzys8nrEX2A",
 			"Movie_name": "khiladi",
 			"Description": "Khiladi is a 2022 Indian Telugu-language action thriller film written and directed by Ramesh Varma who co-produced it with Satyanarayana Koneru under A Studios.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNzk3NGU1YzgtYmYyZi00ZjMyLTg2NjItMTliYTZkZjZiM2U1XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg"
 		},
 		{
-			"id": 156,
+			"id": 162,
 			"Video_Id": "OcQgFHDOxLk",
 			"Movie_name": "Jaguar",
 			"Description": "Krishna, an orphan and a first-year MBBS student, dons a vigilante avatar and seemingly kills people randomly. He also tries to woo his friend's sister, Priya.",
 			"Movieimg": "https://i.ytimg.com/vi/qEARRfZnKSU/maxresdefault.jpg"
 		},
 		{
-			"id": 157,
+			"id": 163,
 			"Video_Id": "Zutjr3jQkUI",
 			"Movie_name": "Santa",
 			"Description": "Santa earns the enmity of Bhavani, a gangster, when he helps his friend elope with Bhavani's sister. Santa falls in love with a girl, who turns out to be Bhavani's younger sister.",
 			"Movieimg": "https://i.ytimg.com/vi/Zutjr3jQkUI/maxresdefault.jpg"
 		},
 		{
-			"id": 158,
+			"id": 164,
 			"Video_Id": "PL7f9itwBwU",
 			"Movie_name": "Hebbuli",
 			"Description": "After Ram's brother dies suddenly, he decides to investigate the reason behind his death. However, he must fight against the corrupt system to protect his family and find the truth.",
 			"Movieimg": "https://i.ytimg.com/vi/PL7f9itwBwU/maxresdefault.jpg"
 		},
 		{
-			"id": 159,
+			"id": 165,
 			"Video_Id": "lVd809GvVGI",
 			"Movie_name": "MLA Ka Power",
 			"Description": "Kalyan, a simple man, falls for Indu, a rich landlord's daughter. In order to prove his love for Indu, Kalyan must become an MLA and only if he succeeds, he gets to marry her.",
 			"Movieimg": "https://i.ytimg.com/vi/lVd809GvVGI/mqdefault.jpg"
 		},
 		{
-			"id": 160,
+			"id": 166,
 			"Video_Id": "Q7dTt9v8_ps",
 			"Movie_name": "Rajmahal 2",
 			"Description": "Murali comes to his ancestral palace along with his fiancee as his father slips into a coma under mysterious circumstances.",
 			"Movieimg": "https://static.digit.in/OTT/v2/images/tr:n-ott_home_crousel/rajmahal-2-19551.jpg"
 		},
 		{
-			"id": 161,
+			"id": 167,
 			"Video_Id": "HbEV2n65qD8",
 			"Movie_name": "Maari 2",
 			"Description": "Maari, a gangster with a heart of gold, tangles with a new nemesis who is determined to bring about his downfall.",
 			"Movieimg": "https://qqcdnpictest.mxplay.com/pic/452b1863d450b2bb76aeb9dff933db82/en/16x9/640x360/test_pic1573551635933.jpg"
 		},
 		{
-			"id": 162,
+			"id": 168,
 			"Video_Id": "djitvHL1Tds",
 			"Movie_name": "Don",
 			"Description": "Don is a 2022 Indian Tamil-language coming-of-age romantic comedy drama film written and directed by Cibi Chakaravarthi, in his directorial debut. Produced by Lyca Productions and Sivakarthikeyan Productions.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjkzMzNjZjktOWY4MC00ZDZiLTg5NTktNzY5YjNlN2ZmN2M5XkEyXkFqcGdeQXVyMTUwMDYwNzQx._V1_.jpg"
 		},
 		{
-			"id": 163,
+			"id": 169,
 			"Video_Id": "QvCs8iM8kd4",
 			"Movie_name": "Raja Huli",
 			"Description": "Raja Huli is a 2013 Indian Kannada-language comedy-drama film directed by Guru Deshpande and written by S. R. Prabhakaran. Produced by K. Manju's home production,The film stars Yash and Meghana Raj in the lead roles.",
 			"Movieimg": "https://i.ytimg.com/vi/QvCs8iM8kd4/maxresdefault.jpg"
 		},
 		{
-			"id": 164,
+			"id": 170,
 			"Video_Id": "eqT972wZ3ME",
 			"Movie_name": "Krack",
 			"Description": "Krack is a 2021 Indian Telugu-language action thriller film directed by Gopichand Malineni, who wrote the script with the dialogues by Sai Madhav Burra. It stars Ravi Teja, Shruti Haasan, Samuthirakani, and Varalaxmi Sarathkumar.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzExZTk0ZjctOGY2Yy00YmVhLWJiNWYtNDcyYjEzMTJhOWU3XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg"
 		},
 		{
-			"id": 165,
+			"id": 171,
 			"Video_Id": "B2yYrLQaC-0",
 			"Movie_name": "Raja Vikramarka",
 			"Description": "An NIA agent, Raja Vikramarka 'Vikram' works under Mahendra. They catch a Nigerian agent who supplied arms to Guru Narayan's gang.",
 			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/raja-vikramarka-et00312371-29-06-2021-06-51-50.jpg"
 		},
 		{
-			"id": 166,
+			"id": 172,
 			"Video_Id": "9ZR3S3GAKIE",
 			"Movie_name": "Jackpot",
 			"Description": "Jackpot is a 2019 Indian Tamil-language fantasy comedy film written and directed by Kalyaan.The film stars Jyothika and Revathi, in lead roles, while Samuthirakani, Mansoor Ali Khan, Yogi Babu and Anandaraj playing supporting roles.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/91X5IdB8seL._RI_.jpg"
 		},
 		{
-			"id": 167,
+			"id": 173,
 			"Video_Id": "I6uPQQ3sXTo",
 			"Movie_name": "Kanchana 2",
 			"Description": "Raghava who always fear to watch horror movies, takes his mom to the toilet as he has Nyctophobia and whenever he feels the extreme shock, he sits on the lap of woman next to him.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/91C4ffUKBpL._RI_.jpg"
 		},
 		{
-			"id": 168,
+			"id": 174,
 			"Video_Id": "BKG51KTwc20",
 			"Movie_name": "Savaari",
 			"Description": "Sawaari is a 2016 Indian Tamil-language road psychological thriller film written and directed by Guhan Senniappan. The film stars Benito Franklin, Sanam Shetty, Karthik Yogi, and Mathivanan Rajendran.",
 			"Movieimg": "https://i.ytimg.com/vi/BKG51KTwc20/maxresdefault.jpg"
 		},
 		{
-			"id": 169,
+			"id": 175,
 			"Video_Id": "0iOYrXkNoeY",
 			"Movie_name": "Vanamagan",
 			"Description": "Vanamagan is a 2017 Indian Tamil-language action adventure film written and directed by A. L. Vijay. The film stars Jayam Ravi and Sayyeshaa, with Prakash Raj, Thambi Ramaiah, and Varun in supporting roles.",
 			"Movieimg": "https://i.ytimg.com/vi/0iOYrXkNoeY/sddefault.jpg"
 		},
 		{
-			"id": 170,
+			"id": 176,
 			"Video_Id": "OTEC_ZQedPg",
 			"Movie_name": "ACP Shiva",
 			"Description": "Shiva Ketta Shiva is 2017 Indian Tamil-language action masala film written & directed by Sai Ramani, starring Raghava Lawrence and Nikki Galrani in the leading roles while Sathyaraj and Ashutosh Rana play supporting roles.",
 			"Movieimg": "https://i.ytimg.com/vi/OTEC_ZQedPg/maxresdefault.jpg"
 		},
 		{
-			"id": 171,
+			"id": 177,
 			"Video_Id": "7uOBVpZA6I0",
 			"Movie_name": "Rudhramadevi",
 			"Description": "Rudramadevi is a 2015 Indian Telugu-language 3D biographical action film based on the life of Rudrama Devi, one of the prominent rulers of the Kakatiya dynasty in the Deccan, and one of the few ruling queens in Indian history.",
 			"Movieimg": "https://dekhnews.com/wp-content/uploads/2015/09/Rudhramadevi-Movie-3-new-Posters.jpg"
 		},
 		{
-			"id": 172,
+			"id": 178,
 			"Video_Id": "4yVh92irML4",
 			"Movie_name": "Dashing Diljala",
 			"Description": "A young man opens his heart to different women during different phases of life and through every experience he learns a little more about love, loss and himself.",
 			"Movieimg": "https://i.ytimg.com/vi/4yVh92irML4/maxresdefault.jpg"
 		},
 		{
-			"id": 173,
+			"id": 179,
 			"Video_Id": "AJWwDLllEdo",
 			"Movie_name": "Bhaigiri 2",
 			"Description": "Deepak decides to use the rivalry between the families of Boologam and Arumugam, two boxers, for his personal gain. Things take a turn when one of the fighters suffers a serious injury.",
 			"Movieimg": "https://i.ytimg.com/vi/--I38HRdh8k/maxresdefault.jpg"
 		},
 		{
-			"id": 174,
+			"id": 180,
 			"Video_Id": "RX4k1BQFS3c",
 			"Movie_name": "Chanakya",
 			"Description": "Arjun, a highly sought-after RAW agent, is known for his skills at catching some of the most hardened criminals. However, he falls in danger when he goes after Ibrahim Qureshi, a terrorist.",
 			"Movieimg": "https://i.ytimg.com/vi/RX4k1BQFS3c/maxresdefault.jpg"
 		},
 		{
-			"id": 175,
+			"id": 181,
 			"Video_Id": "qIx0-MB6iXY",
 			"Movie_name": "Warning 2",
 			"Description": "Warning 2 is a south movie released on 19 Nov, 2021. The movie is directed by Amar Hundal and featured Gippy Grewal, Prince Kanwaljit Singh, Dheeraj Kumar and Mahabir Bhullar as lead characters. Other popular actor who was roped in for Warning is Ashish Duggal.",
 			"Movieimg": "https://i.ytimg.com/vi/qIx0-MB6iXY/maxresdefault.jpg"
 		},
 		{
-			"id": 176,
+			"id": 182,
 			"Video_Id": "X3ZArejDCDU",
 			"Movie_name": "Carry On Balle Balle",
 			"Description": "Jass, an orphan, dreams of settling down in Canada but is not eligible to immigrate. He decides to marry an NRI girl, Meet, to fulfil his dream.",
 			"Movieimg": "https://i.ytimg.com/vi/X3ZArejDCDU/maxresdefault.jpg"
 		},
 		{
-			"id": 177,
+			"id": 183,
 			"Video_Id": "GX28nmwJS78",
 			"Movie_name": "Laddu Babu",
 			"Description": "Laddu Babu is a 2014 Indian Telugu-language Christian comedy film starring Allari Naresh and Bhumika Chawla, directed by Ravi Babu and produced by Tripuraneni Rajendra and E. S. L. Narasimhan. Naresh wore prosthetics to portray his role as an extremely obese man.",
 			"Movieimg": "https://i.ytimg.com/vi/GX28nmwJS78/maxresdefault.jpg"
 		},
 		{
-			"id": 178,
+			"id": 184,
 			"Video_Id": "6iFS664iBXs",
 			"Movie_name": "Vijetha",
 			"Description": "The movie story deals with Ram, a careless youth, grows up oblivious to the sacrifices that his father makes in order to fulfil all his desires. However, an incident changes his life and he transforms into a responsible man.",
 			"Movieimg": "https://i.ytimg.com/vi/6iFS664iBXs/maxresdefault.jpg"
 		},
 		{
-			"id": 179,
+			"id": 185,
 			"Video_Id": "8l4ZjN4MXuQ",
 			"Movie_name": "Gajab Prem Ki Ajab Kahani",
 			"Description": "Anand, a young man who lives with obsessive-compulsive disorder, faces a dilemma after his fixation comes in the way of having a normal relationship.",
 			"Movieimg": "https://i.ytimg.com/vi/luxpTlcpJK0/maxresdefault.jpg"
 		},
 		{
-			"id": 180,
+			"id": 186,
 			"Video_Id": "buhzc159Y7k",
 			"Movie_name": "Paper Boy",
 			"Description": "Ravi is a paper boy who is in a relationship with a rich girl, Dharani. However, the social inequality between them poses a threat to the future they plan on having together.",
 			"Movieimg": "https://i.ytimg.com/vi/buhzc159Y7k/maxresdefault.jpg"
 		},
 		{
-			"id": 181,
+			"id": 187,
 			"Video_Id": "C12WRs6LiQs",
 			"Movie_name": "Mahanati",
 			"Description": "Savitri, the most admired actress from South Indian cinema, goes through various tragic incidents in her personal life. Unable to cope with depression, she eventually becomes an alcoholic.",
 			"Movieimg": "https://i.ytimg.com/vi/C12WRs6LiQs/maxresdefault.jpg"
 		},
 		{
-			"id": 182,
+			"id": 188,
 			"Video_Id": "RtVQ4yldMAs",
 			"Movie_name": "Real Diljala",
 			"Description": "An unfortunate incident separates a state-level athlete from his lover, who then moves to Malaysia. Years later, she returns to India but certain misunderstandings threaten to keep them apart.",
 			"Movieimg": "https://i.ytimg.com/vi/RtVQ4yldMAs/maxresdefault.jpg"
 		},
 		{
-			"id": 183,
+			"id": 189,
 			"Video_Id": "LuYpqQqKW7s",
 			"Movie_name": "U Turn",
 			"Description": "The plot revolves around the death of motorists who break a traffic rule at a particular flyover in Hyderabad and the subsequent pinning down of the culprit by an intern journalist and police inspector duo.",
 			"Movieimg": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71BwkMdQZBL._RI_.jpg"
 		},
 		{
-			"id": 184,
+			"id": 190,
 			"Video_Id": "ulChEsFacOs",
 			"Movie_name": "Dangerous Khiladi 4",
 			"Description": "The movie story deals with Seenu a street-smart guy who shifts to Hyderabad from Anakapally to complete his degree in a college. He falls in love with Sruthi who also attends the same college.",
 			"Movieimg": "https://i.ytimg.com/vi/ulChEsFacOs/maxresdefault.jpg"
 		},
 		{
-			"id": 185,
+			"id": 191,
 			"Video_Id": "DkyTmQ0jNO8",
 			"Movie_name": "Tejasvini",
 			"Description": "A little girl falls into a deep borewell, and her rescue becomes a huge professional and personal challenge for a collector.",
 			"Movieimg": "https://i.ytimg.com/vi/DkyTmQ0jNO8/maxresdefault.jpg"
 		},
 		{
-			"id": 186,
+			"id": 192,
 			"Video_Id": "QikQB04C4OA",
 			"Movie_name": "Tejasvini 2",
 			"Description": "Police officer Naachiyaar comes across victim Arasi, who is kept hidden by her uncle and his henchmen. She decides to track down the suspect with the help of her partner, Feroz.",
 			"Movieimg": "https://i.ytimg.com/vi/6Sh4BuEsEHA/maxresdefault.jpg"
 		},
 		{
-			"id": 187,
+			"id": 193,
 			"Video_Id": "JAExBnntOKk",
 			"Movie_name": "Tejasvini 3",
 			"Description": "Raju, who belongs to a poor family, falls in love with Dorasani, the daughter of a rich landlord. However, her father stands as a stumbling block to their relationship.",
 			"Movieimg": "https://i.ytimg.com/vi/JAExBnntOKk/maxresdefault.jpg"
 		},
 		{
-			"id": 188,
+			"id": 194,
 			"Video_Id": "m08xwFufTs8",
 			"Movie_name": "Dil Bechara Breakup Ka Maara",
 			"Description": "A man who has gone through a major heartbreak meets another woman and falls in love with her after they spend time together. However, his world collapses when he learns that she is already engaged.",
 			"Movieimg": "https://i.ytimg.com/vi/m08xwFufTs8/maxresdefault.jpg"
 		},
 		{
-			"id": 189,
+			"id": 195,
 			"Video_Id": "XjwguOqcDhQ",
 			"Movie_name": "Dushman No.1",
 			"Description": "Mukunda and Arjun are close friends, with the latter being in love with a powerful bureaucrat's niece. Whenever the bureaucrat endeavours to exterminate Arjun, Mukunda protects him with all his might.",
 			"Movieimg": "https://i.ytimg.com/vi/XjwguOqcDhQ/maxresdefault.jpg"
 		},
 		{
-			"id": 190,
+			"id": 196,
 			"Video_Id": "T7QkdexqFWQ",
 			"Movie_name": "MAFIA : Chapter 1",
 			"Description": "A narcotics officer engages in a cat-and-mouse chase to capture a powerful criminal kingpin not knowing that it could have a connection to the truth in his past.",
 			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/e/ed/Mafia_Chapter_1_poster.jpg"
 		},
 		{
-			"id": 191,
+			"id": 197,
 			"Video_Id": "sFzCikcEjZY",
 			"Movie_name": "Thadam",
 			"Description": "Ezhil & Kavin are twin brothers, one is a civil engineer and other is a swindler who knows all ambiguities of the legal system. One youngster gets murdered for which Ezhil gets arrested based on image found in the victim's mobile.",
 			"Movieimg": "https://abhimoviereviewer.files.wordpress.com/2019/03/p_ho00006581.jpg"
 		},
 		{
-			"id": 192,
+			"id": 198,
 			"Video_Id": "Gtx1pPeKJsA",
 			"Movie_name": "iSmart Shankar",
 			"Description": "The story is about a contract killer Shankar who murders a politician and runs away from police. While he is being chased, another police officer gets killed and his memory is transferred to Shankar.",
 			"Movieimg": "https://i.ytimg.com/vi/Gtx1pPeKJsA/maxresdefault.jpg"
 		},
 		{
-			"id": 193,
+			"id": 199,
 			"Video_Id": "N5qjSA6yGbw",
 			"Movie_name": "Aaj Ka Khiladi",
 			"Description": "Uma(Nani) is a PHD student in Vizag who falls in love with Pallavi (Nivetha Thomas) & also Pallavi accepts his love. Both decide to get married only after Uma settles down in his career.Pallavi’s dad (Murali Sharma) suddenly fixes Pallavi’s marriage with Arun(Aadi).",
 			"Movieimg": "https://i.ytimg.com/vi/N5qjSA6yGbw/maxresdefault.jpg"
 		},
 		{
-			"id": 194,
+			"id": 200,
 			"Video_Id": "zAVmwt_U4c0",
 			"Movie_name": "Dumdaar Khiladi",
 			"Description": "Anu and Sanju develop a great bond after the latter arrives in Hyderabad and moves in with Anu and her father. However, they realise their love for each other when Anu is set to marry another man.",
 			"Movieimg": "https://i.ytimg.com/vi/zAVmwt_U4c0/maxresdefault.jpg"
 		},
 		{
-			"id": 195,
+			"id": 201,
 			"Video_Id": "vENDopI5Zk0",
 			"Movie_name": "Rebel Khiladi",
 			"Description": "Charitha, a doctor, endangers her life when she saves a child from being kidnapped for her liver. Later, Raj, who is in love with Charitha, protects her when goons try to kill her.",
 			"Movieimg": "https://i.ytimg.com/vi/vENDopI5Zk0/maxresdefault.jpg"
 		},
 		{
-			"id": 196,
+			"id": 202,
 			"Video_Id": "0u1H9Z__bW4",
 			"Movie_name": "Savyasachi",
 			"Description": "Vikram Aditya (naga chaithanya) is an ad filmmaker. His left hand is controlled by his twin. Yes, he is born with the Vanishing hand syndrome. Once, he was invited to visit Himachal with a bus full of people and many are strangers to him.",
 			"Movieimg": "https://i.ytimg.com/vi/0u1H9Z__bW4/maxresdefault.jpg"
 		},
 		{
-			"id": 197,
+			"id": 203,
 			"Video_Id": "VP7dUZdfo-I",
 			"Movie_name": "Aakhari Baazi",
 			"Description": "Inspector Ranjith Kumar looks into the theft of a Rolls Royce car that is worth a fortune. While investigating, he suspects a mechanic, a villager and a youngster from a middle-class family.",
 			"Movieimg": "https://i.ytimg.com/vi/VP7dUZdfo-I/maxresdefault.jpg"
 		},
 		{
-			"id": 198,
+			"id": 204,
 			"Video_Id": "5o_sGQFrKDo",
 			"Movie_name": "Voter",
 			"Description": "Gautam, a working professional in U.S comes to India to  cast his  vote. The young dynamic man falls in love with pretty lady Bhavana. But, winning the heart of the lady love doesn't come easily  for Gautham.",
 			"Movieimg": "https://i.ytimg.com/vi/5o_sGQFrKDo/maxresdefault.jpg"
 		},
 		{
-			"id": 199,
+			"id": 205,
 			"Video_Id": "a7AUwt5Ne_o",
 			"Movie_name": "Mission GoldFish",
 			"Description": "Arjun Pandit (Aadi) is a military officer who is responsible for capturing of dreaded terrorist Ghazi Baba (Abburi Ravi). One of his followers Farooq (Manoj Nandam) plans to get him out.",
 			"Movieimg": "https://i.ytimg.com/vi/a7AUwt5Ne_o/maxresdefault.jpg"
 		},
 		{
-			"id": 200,
+			"id": 206,
 			"Video_Id": "tGgLvA31RQw",
 			"Movie_name": "Kasam Uparwale Ki",
 			"Description": "Ram decides to kidnap his ex-girlfriend, Sita, after she refuses to marry him due to his humble financial background. Sakthi kidnaps Sita and instructs Ram to find her after she manages to escape.",
 			"Movieimg": "https://i.ytimg.com/vi/tGgLvA31RQw/maxresdefault.jpg"
 		},
 		{
-			"id": 201,
+			"id": 207,
 			"Video_Id": "HNTG4MkHH_Y",
 			"Movie_name": "Rowdy Raja",
 			"Description": "A young man suffers from kleptomania, which causes a lot of problems in his love life as his lover's father despises thieves.",
 			"Movieimg": "https://i.ytimg.com/vi/HNTG4MkHH_Y/maxresdefault.jpg"
 		},
 		{
-			"id": 202,
+			"id": 208,
 			"Video_Id": "wA-QW1HP6sQ",
 			"Movie_name": "MLA No1",
 			"Description": "An NRI Uma Shankar heads his village with intent to do good to his people. He appoints a reputed person from his village to contest in elections.",
 			"Movieimg": "https://i.ytimg.com/vi/wA-QW1HP6sQ/maxresdefault.jpg"
 		},
 		{
-			"id": 203,
+			"id": 209,
 			"Video_Id": "ZVtMBxFtuqg",
 			"Movie_name": "Godse",
 			"Description": "A reunion with friends changes the way Godse perceives the system. He begins to unravel the system’s hidden agenda that robs off the careers and lives of students. What follows is a fight between Godse and the government for justice.",
 			"Movieimg": "https://i.ytimg.com/vi/ZVtMBxFtuqg/maxresdefault.jpg"
 		},
 		{
-			"id": 204,
+			"id": 210,
 			"Video_Id": "OweJ0eXZCsE",
 			"Movie_name": "F2",
 			"Description": "Venky gets married and after a period of his initial Happy Married life , he gets irritated with his wife Haarika’s (Tamannah) behaviour.",
 			"Movieimg": "https://i.ytimg.com/vi/OweJ0eXZCsE/maxresdefault.jpg"
 		},
 		{
-			"id": 205,
+			"id": 211,
 			"Video_Id": "sUlelAYZGRE",
 			"Movie_name": "Golimaar 2",
 			"Description": "The police are on a lookout for a burglar who robs wealthy businessmen at night. When they nab Satya, a real estate agent, he tells them about his criminal brother Shiva, who resembles him.",
 			"Movieimg": "https://i.ytimg.com/vi/sUlelAYZGRE/maxresdefault.jpg"
 		},
 		{
-			"id": 206,
+			"id": 212,
 			"Video_Id": "4AMMoj8sMZg",
 			"Movie_name": "Rebel Raja",
 			"Description": "Raj Tarun is a happy go software engineer sharing a very close bond with his mom. She even suggests him to love a girl. With this, as time passes, he falls in love with Chitra Shukla. After this, some twists arise and how Raj Tarun manages to solve all the problems forms the rest of the story.",
 			"Movieimg": "https://i.ytimg.com/vi/4AMMoj8sMZg/maxresdefault.jpg"
 		},
 		{
-			"id": 207,
+			"id": 213,
 			"Video_Id": "FhlsfkfZO38",
 			"Movie_name": "Gautamiputra Satakarni",
 			"Description": "Satakarni, the emperor of the Satavahana kingdom, dreams of uniting all the kingdoms in India and bringing them under one flag. However, he faces many challenges in his quest and must overcome them.",
 			"Movieimg": "https://i.ytimg.com/vi/FhlsfkfZO38/maxresdefault.jpg"
 		},
 		{
-			"id": 208,
+			"id": 214,
 			"Video_Id": "ZjvIn1fRZ74",
 			"Movie_name": "Garudaveda",
 			"Description": "A hacker tries to sell sensitive data related to a scam and an NIA officer accidentally gets involved, saving him from getting killed. Niranjan, a young and ambitious tech-smart guy who holds highly classified government information, tries to evade the government officials who are in desperate need of it.",
 			"Movieimg": "https://i.ytimg.com/vi/ZjvIn1fRZ74/maxresdefault.jpg"
 		},
 		{
-			"id": 209,
+			"id": 215,
 			"Video_Id": "jUrkjGO6nMA",
 			"Movie_name": "Captain Vijay",
 			"Description": "The movie story deals with Jagdish, an army captain, is back in Mumbai for a holiday to be with his parents and two sisters. They want him to get married and finds a bride Nisha for him.",
 			"Movieimg": "https://i.ytimg.com/vi/jUrkjGO6nMA/maxresdefault.jpg"
 		},
 		{
-			"id": 210,
+			"id": 216,
 			"Video_Id": "hAaSVISWDcU",
 			"Movie_name": "Ramarjuna",
 			"Description": "Ram is an insurance agent living in a slum area. He doesn't want any harm to come to the people he cares about. The movie revolves around what happens when the slum and the residents' lives are at risk.",
@@ -6121,6 +6163,22 @@
 	"Trailers":[
 		{
 			"id": 1,
+			"Video_Id": "scNmYjoR-qM",
+			"Movie_name": "Adipurush",
+			"Movie_img":"https://i.ytimg.com/vi/scNmYjoR-qM/maxresdefault.jpg",
+			"Description": "",
+			"Language": "Hindi"
+		},
+		{
+			"id": 2,
+			"Video_Id": "1VhA9aITCGg",
+			"Movie_name": "Pushpa 2",
+			"Movie_img":"https://i.ytimg.com/vi/1VhA9aITCGg/maxresdefault.jpg",
+			"Description": "",
+			"Language": "Hindi"
+		},
+		{
+			"id": 3,
 			"Video_Id": "-V9tu8rqWIg",
 			"Movie_name": "IB71 | Official Trailer | Sankalp Reddy | Vidyut Jammwal | Anupam Kher",
 			"Movie_img":"https://i.ytimg.com/vi/-V9tu8rqWIg/maxresdefault.jpg",
@@ -6128,7 +6186,23 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 2,
+			"id": 4,
+			"Video_Id": "XJrRrMCEmp8",
+			"Movie_name": "Doctor G | Official Trailer | Ayushmann Khurrana, Rakul Preet Singh, Shefali Shah",
+			"Movie_img":"https://i.ytimg.com/vi/XJrRrMCEmp8/maxresdefault.jpg",
+			"Description": "",
+			"Language": "Hindi"
+		},
+		{
+			"id": 5,
+			"Video_Id": "J6DZITPRrU8",
+			"Movie_name": "Cuttputlli | Official Trailer | Akshay Kumar, Rakulpreet Singh",
+			"Movie_img":"https://i.ytimg.com/vi/J6DZITPRrU8/maxresdefault.jpg",
+			"Description": "",
+			"Language": "Hindi"
+		},
+		{
+			"id": 6,
 			"Video_Id": "FY5VHRkrZVc",
 			"Movie_name": "Ved | Official Hindi Trailer",
 			"Movie_img":"https://i.ytimg.com/vi/FY5VHRkrZVc/maxresdefault.jpg",
@@ -6136,7 +6210,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 3,
+			"id": 7,
 			"Video_Id": "wnIzGtDNGaM",
 			"Movie_name": "COAT | Official Trailer | Kumar Abhishek | Vivaan Shah | Sanjay Mishra | Naseeruddin Shah",
 			"Movie_img":"https://i.ytimg.com/vi/wnIzGtDNGaM/maxresdefault.jpg",
@@ -6144,7 +6218,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 4,
+			"id": 8,
 			"Video_Id": "08_d4byzPcg",
 			"Movie_name": "Maidaan Teaser | Ajay Devgn | Amit Sharma | Boney Kapoor | A.R. Rahman",
 			"Movie_img":"https://i.ytimg.com/vi/08_d4byzPcg/maxresdefault.jpg",
@@ -6152,7 +6226,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 5,
+			"id": 9,
 			"Video_Id": "0drCO1XmlNU",
 			"Movie_name": "Afwaah Official Trailer | Nawazuddin | Bhumi | Sumeet | Sudhir M | Anubhav S",
 			"Movie_img":"https://i.ytimg.com/vi/0drCO1XmlNU/maxresdefault.jpg",
@@ -6160,7 +6234,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 6,
+			"id": 10,
 			"Video_Id": "eKewvg1AgRU",
 			"Movie_name": "Jogira Sara Ra Ra Teaser Trailer | Nawazuddin siddiqui | Neha Sharma",
 			"Movie_img":"https://i.ytimg.com/vi/eKewvg1AgRU/maxresdefault.jpg",
@@ -6168,7 +6242,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 7,
+			"id": 11,
 			"Video_Id": "1X6Gk4GYgy4",
 			"Movie_name": "Welcome Purnima - Official Trailer | Hiten Kumaar | Hem Sevak | Manasi Rachh",
 			"Movie_img":"https://i.ytimg.com/vi/1X6Gk4GYgy4/maxresdefault.jpg",
@@ -6176,7 +6250,7 @@
 			"Language": "Gujarati"
 		},
 		{
-			"id": 8,
+			"id": 12,
 			"Video_Id": "nPUmI-MV0aQ",
 			"Movie_name": "Anokhee - Official Trailer | Aarjav Trivedi | Bhumika Barot | Naksh Raaj",
 			"Movie_img":"https://i.ytimg.com/vi/nPUmI-MV0aQ/maxresdefault.jpg",
@@ -6184,7 +6258,7 @@
 			"Language": "Gujarati"
 		},
 		{
-			"id": 9,
+			"id": 13,
 			"Video_Id": "XSNIbRD8IMQ",
 			"Movie_name": "21 Divas Official Trailer | Aarjav T,Maulik N, Pooja J, Kush B",
 			"Movie_img":"https://i.ytimg.com/vi/XSNIbRD8IMQ/maxresdefault.jpg",
@@ -6192,7 +6266,7 @@
 			"Language": "Gujarati"
 		},
 		{
-			"id": 10,
+			"id": 14,
 			"Video_Id": "bA00GJQbS1s",
 			"Movie_name": "Gaslight",
 			"Movie_img":"https://i.ytimg.com/vi/bA00GJQbS1s/maxresdefault.jpg",
@@ -6200,7 +6274,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 11,
+			"id": 15,
 			"Video_Id": "m5wVhQYriJE",
 			"Movie_name": "Operation Mayfair (Trailer) Jimmy Shergill, Hritiqa Chheber, Vedieka Dutt | Sudipto Sarkar",
 			"Movie_img":"https://i.ytimg.com/vi/m5wVhQYriJE/maxresdefault.jpg",
@@ -6208,7 +6282,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 12,
+			"id": 16,
 			"Video_Id": "0B4fbzWGub4",
 			"Movie_name": "Chor Nikal Ke Bhaga | Yami Gautam, Sunny Kaushal, Sharad Kelkar",
 			"Movie_img":"https://i.ytimg.com/vi/0B4fbzWGub4/maxresdefault.jpg",
@@ -6216,7 +6290,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 13,
+			"id": 17,
 			"Video_Id": "CioDVCtgyN0",
 			"Movie_name": "Mrs. Chatterjee Vs Norway | Official Trailer I Rani Mukerji",
 			"Movie_img":"https://i.ytimg.com/vi/CioDVCtgyN0/maxresdefault.jpg",
@@ -6224,7 +6298,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 14,
+			"id": 18,
 			"Video_Id": "K-EMszLvRIQ",
 			"Movie_name": "Bholaa Official Trailer | Ajay Devgn | Tabu",
 			"Movie_img":"https://i.ytimg.com/vi/K-EMszLvRIQ/maxresdefault.jpg",
@@ -6232,7 +6306,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 15,
+			"id": 19,
 			"Video_Id": "-gnytBclJEU",
 			"Movie_name": "PS2 | Subaskaran | Madras Talkies",
 			"Movie_img":"https://i.ytimg.com/vi/-gnytBclJEU/maxresdefault.jpg",
@@ -6240,7 +6314,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 16,
+			"id": 20,
 			"Video_Id": "E7APBBJG34E",
 			"Movie_name": "Gumraah (Official Trailer) Aditya Roy Kapur, Mrunal Thakur | Vardhan Ketkar",
 			"Movie_img":"https://i.ytimg.com/vi/E7APBBJG34E/maxresdefault.jpg",
@@ -6248,7 +6322,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 17,
+			"id": 21,
 			"Video_Id": "dtdNFLECvAk",
 			"Movie_name": "KABZAA | Official Hindi Trailer | Upendra | Sudeepa |Shivarajkumar |Shriya | R.Chandru |Ravi Basrur",
 			"Movie_img":"https://i.ytimg.com/vi/dtdNFLECvAk/maxresdefault.jpg",
@@ -6256,7 +6330,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 18,
+			"id": 22,
 			"Video_Id": "lGAKZ6L9IVo",
 			"Movie_name": "Bheed | Official Trailer | Rajkummar Rao, Bhumi Pednekar, Anubhav Sinha",
 			"Movie_img":"https://images.news18.com/ibnlive/uploads/2023/03/bheed-movie-review-16795444283x2.jpg",
@@ -6264,7 +6338,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 19,
+			"id": 23,
 			"Video_Id": "RCMxX6lWJcY",
 			"Movie_name": "Zwigato Official Trailer | Kapil Sharma, Shahana Goswami | Nandita Das",
 			"Movie_img":"https://i.ytimg.com/vi/RCMxX6lWJcY/maxresdefault.jpg",
@@ -6272,7 +6346,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 20,
+			"id": 24,
 			"Video_Id": "xBb_VZqs8fs",
 			"Movie_name": "Kisi Ka Bhai Kisi Ki Jaan - Official Trailer | Salman Khan, Venkatesh, Pooja Hegde",
 			"Movie_img":"https://i.ytimg.com/vi/xBb_VZqs8fs/maxresdefault.jpg",
@@ -6280,7 +6354,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 21,
+			"id": 25,
 			"Video_Id": "Cx_Dtwn4ayw",
 			"Movie_name": "Tu Jhoothi Main Makkaar(Official Trailer) Ranbir,Shraddha |Luv Ranjan | Bhushan K",
 			"Movie_img":"https://i.ytimg.com/vi/Cx_Dtwn4ayw/maxresdefault.jpg",
@@ -6288,7 +6362,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 22,
+			"id": 26,
 			"Video_Id": "DuWOpHkG49s",
 			"Movie_name": "Vash - Official Trailer | Janki Bodiwala | Hitu Kanodia | Hiten Kumaar | Nillam Paanchal",
 			"Movie_img":"https://i.ytimg.com/vi/DuWOpHkG49s/maxresdefault.jpg",
@@ -6296,7 +6370,7 @@
 			"Language": "Gujarati"
 		},
 		{
-			"id": 23,
+			"id": 27,
 			"Video_Id": "lS1KScfdr70",
 			"Movie_name": "SELFIEE Official Trailer | Akshay Kumar, Emraan, Nushratt, Diana | Raj Mehta",
 			"Movie_img":"https://i.ytimg.com/vi/lS1KScfdr70/maxresdefault.jpg",
@@ -6304,7 +6378,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 24,
+			"id": 28,
 			"Video_Id": "DUAouyG91io",
 			"Movie_name": "Kanjoos Makhichoos | Official Trailer | Kunal K | Shweta T",
 			"Movie_img":"https://i.ytimg.com/vi/DUAouyG91io/maxresdefault.jpg",
@@ -6312,7 +6386,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 25,
+			"id": 29,
 			"Video_Id": "vbSGPIS2_ao",
 			"Movie_name": "Shehzada Official Trailer | Kartik Aaryan, Kriti Sanon | Rohit Dhawan",
 			"Movie_img":"https://i.ytimg.com/vi/vbSGPIS2_ao/maxresdefault.jpg",
@@ -6320,7 +6394,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 26,
+			"id": 30,
 			"Video_Id": "vqu4z34wENw",
 			"Movie_name": "Pathaan | Official Trailer | Shah Rukh Khan | Deepika Padukone | John Abraham | Siddharth Anand",
 			"Movie_img":"https://i.ytimg.com/vi/vqu4z34wENw/maxresdefault.jpg",
@@ -6328,7 +6402,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 27,
+			"id": 31,
 			"Video_Id": "Gw77Nx4eBMc",
 			"Movie_name": "Mission Majnu | Sidharth Malhotra, Rashmika Mandanna | Official Trailer",
 			"Movie_img":"https://i.ytimg.com/vi/Gw77Nx4eBMc/maxresdefault.jpg",
@@ -6336,7 +6410,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 28,
+			"id": 32,
 			"Video_Id": "Feu56Usia-A",
 			"Movie_name": "Varisu | Official Trailer | Thalapathy Vijay, Rashmika Mandanna, Vamshi Paidipally | S.Thaman",
 			"Movie_img":"https://i.ytimg.com/vi/Feu56Usia-A/maxresdefault.jpg",
@@ -6344,7 +6418,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 29,
+			"id": 33,
 			"Video_Id": "JCPcdvRfbn8",
 			"Movie_name": "Aghori | Official Trailer | Allu Arjun | Nayanthara, Vijay Sethupathi,Sanjay Dutt",
 			"Movie_img":"https://i.ytimg.com/vi/JCPcdvRfbn8/maxresdefault.jpg",
@@ -6352,7 +6426,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 30,
+			"id": 34,
 			"Video_Id": "SB7JK0kTy9Q",
 			"Movie_name": "Gandhi Godse - Ek Yudh - Official Trailer | Rajkumar Santoshi",
 			"Movie_img":"https://i.ytimg.com/vi/zfRsBEm2yrQ/maxresdefault.jpg",
@@ -6360,7 +6434,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 31,
+			"id": 35,
 			"Video_Id": "q5HmO12S7iA",
 			"Movie_name": "Chhatriwali | Official Trailer | A ZEE5 Original Film | Rakul Preet Singh, Sumeet Vyas",
 			"Movie_img":"https://i.ytimg.com/vi/q5HmO12S7iA/maxresdefault.jpg",
@@ -6368,7 +6442,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 32,
+			"id": 36,
 			"Video_Id": "d9wH4pcLbXQ",
 			"Movie_name": "Cirkus | Official Trailer",
 			"Movie_img":"https://i.ytimg.com/vi/d9wH4pcLbXQ/maxresdefault.jpg",
@@ -6376,7 +6450,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 33,
+			"id": 37,
 			"Video_Id": "mfl--nI-Bhs",
 			"Movie_name": "Bhediya | Official Trailer",
 			"Movie_img":"https://i.ytimg.com/vi/mfl--nI-Bhs/maxresdefault.jpg",
@@ -6384,7 +6458,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 34,
+			"id": 38,
 			"Video_Id": "5fTVslrPsL0",
 			"Movie_name": "Phone Bhoot | Official Trailer",
 			"Movie_img":"https://i.ytimg.com/vi/5fTVslrPsL0/maxresdefault.jpg",
@@ -6392,7 +6466,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 35,
+			"id": 39,
 			"Video_Id": "nS5xqazKipA",
 			"Movie_name": "Uunchai | Official Trailer",
 			"Movie_img":"https://i.ytimg.com/vi/nS5xqazKipA/maxresdefault.jpg",
@@ -6400,7 +6474,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 36,
+			"id": 40,
 			"Video_Id": "f_vbAtFSEc0",
 			"Movie_name": "RRR | Official Trailer",
 			"Movie_img":"https://i.ytimg.com/vi/f_vbAtFSEc0/maxresdefault.jpg",
@@ -6408,7 +6482,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 37,
+			"id": 41,
 			"Video_Id": "UHYUeZ8JszQ",
 			"Movie_name": "Shamshera Official Trailer | Ranbir Kapoor | Sanjay Dutt | Vaani Kapoor | Karan Malhotra",
 			"Movie_img":"https://i.ytimg.com/vi/UHYUeZ8JszQ/maxresdefault.jpg",
@@ -6416,7 +6490,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 38,
+			"id": 42,
 			"Video_Id": "BUjXzrgntcY",
 			"Movie_name": "Brahmastra  | Official Trailer",
 			"Movie_img":"https://i.ytimg.com/vi/BUjXzrgntcY/maxresdefault.jpg",
@@ -6424,7 +6498,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 39,
+			"id": 43,
 			"Video_Id": "hpwnlr-ZHB0",
 			"Movie_name": "Vikram Vedha Official Trailer | Hrithik Roshan, Saif Ali Khan, Pushkar & Gayatri",
 			"Movie_img":"https://i.ytimg.com/vi/hpwnlr-ZHB0/maxresdefault.jpg",
@@ -6432,7 +6506,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 40,
+			"id": 44,
 			"Video_Id": "aQF4zbOKoEY",
 			"Movie_name": "Raksha Bandhan | Official Trailer | Akshay K | Bhumi P | Aanand L Rai ",
 			"Movie_img":"https://i.ytimg.com/vi/aQF4zbOKoEY/maxresdefault.jpg",
@@ -6440,7 +6514,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 41,
+			"id": 45,
 			"Video_Id": "f1MqkWPsAGo",
 			"Movie_name": "Ramsetu | Official Concept Trailer | Akshay Kumar | ChandraPrakash Dwivedi",
 			"Movie_img":"https://i.ytimg.com/vi/f1MqkWPsAGo/maxresdefault.jpg",
@@ -6448,7 +6522,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 42,
+			"id": 46,
 			"Video_Id": "Faz9PrY6xF8",
 			"Movie_name": "Heropanti 2 | Official Trailer | Tiger S Tara S Nawazuddin |",
 			"Movie_img":"https://i.ytimg.com/vi/Faz9PrY6xF8/maxresdefault.jpg",
@@ -6456,7 +6530,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 43,
+			"id": 47,
 			"Video_Id": "Ma3Y-qekYos",
 			"Movie_name": "Attack | Official Trailer| John A, Jacqueline F, Rakul Preet S",
 			"Movie_img":"https://i.ytimg.com/vi/Ma3Y-qekYos/maxresdefault.jpg",
@@ -6464,7 +6538,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 44,
+			"id": 48,
 			"Video_Id": "tV6aF2WOsVU",
 			"Movie_name": "Toolsidas Junior | Official Trailer | Varun B, Sanjay Dutt, Rajiv K | Mridul, Swanand K, Ashutosh G",
 			"Movie_img":"https://i.ytimg.com/vi/tV6aF2WOsVU/maxresdefault.jpg",
@@ -6472,7 +6546,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 45,
+			"id": 49,
 			"Video_Id": "HpMsvH7DpPc",
 			"Movie_name": "Badhaai Do | Official Trailer | Rajkummar R, Bhumi P | Harshavardhan Kulkarni",
 			"Movie_img":"https://i.ytimg.com/vi/hjxoPh4DM_A/maxresdefault.jpg",
@@ -6480,7 +6554,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 46,
+			"id": 50,
 			"Video_Id": "H5soV2aU-Jw",
 			"Movie_name": "Prithviraj | Official Trailer | Akshay Kumar, Sanjay Dutt, Sonu Sood, Manushi ",
 			"Movie_img":"https://static.toiimg.com/photo/msid-87711948/87711948.jpg",
@@ -6488,7 +6562,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 47,
+			"id": 51,
 			"Video_Id": "QHdkC6Kn0Io",
 			"Movie_name": "83 | Official Trailer  | Ranveer Singh | Kabir Khan",
 			"Movie_img":"https://i.ytimg.com/vi/TaiRPQEqbuo/maxresdefault.jpg",
@@ -6496,7 +6570,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 48,
+			"id": 52,
 			"Video_Id": "e6VZiwlzhSw",
 			"Movie_name": "Satyameva Jayate 2 | Official Trailer |John Abraham, Divya Khosla Kumar | Milap Zaveri",
 			"Movie_img":"https://i.ytimg.com/vi/e6VZiwlzhSw/maxresdefault.jpg",
@@ -6504,7 +6578,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 49,
+			"id": 53,
 			"Video_Id": "iqydRuNr2yY",
 			"Movie_name": "Jhund | Official Trailer | Amitabh Bachchan | Nagraj Popatrao Manjule",
 			"Movie_img":"https://www.bollywoodbubble.com/wp-content/uploads/2022/02/Jhund-Trailer-1280x720.jpg",
@@ -6512,7 +6586,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 50,
+			"id": 54,
 			"Video_Id": "UZVUrZIXnSU",
 			"Movie_name": "Bunty Aur Babli 2 | Official Trailer | Saif Ali Khan, Rani Mukerji, Siddhant C, Sharvari",
 			"Movie_img":"https://i.ytimg.com/vi/tVqLmnjEDKY/maxresdefault.jpg",
@@ -6520,7 +6594,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 51,
+			"id": 55,
 			"Video_Id": "RiANSSgCuJk",
 			"Movie_name": "Kabir Singh – Official Trailer | Shahid Kapoor, Kiara Advani | Sandeep Reddy Vanga",
 			"Movie_img":"https://i.ytimg.com/vi/RiANSSgCuJk/maxresdefault.jpg",
@@ -6528,7 +6602,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 52,
+			"id": 56,
 			"Video_Id": "tiIF4GqinEU",
 			"Movie_name": "Chandigarh Kare Aashiqui | Official Trailer | Ayushmann K, Vaani K | Abhishek K ",
 			"Movie_img":"https://i.ytimg.com/vi/tiIF4GqinEU/maxresdefault.jpg",
@@ -6536,7 +6610,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 53,
+			"id": 57,
 			"Video_Id": "XFKz1DACGdE",
 			"Movie_name": "ANTIM: The Final Truth | Official Trailer | Salman Khan, Aayush Sharma",
 			"Movie_img":"https://i.ytimg.com/vi/XFKz1DACGdE/maxresdefault.jpg",
@@ -6544,7 +6618,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 54,
+			"id": 58,
 			"Video_Id": "YngLZzBuzHA",
 			"Movie_name": "Bhuj: The Pride Of India | Official Trailer",
 			"Movie_img":"https://i.ytimg.com/vi/HqYgM5K7n6w/maxresdefault.jpg",
@@ -6552,7 +6626,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 55,
+			"id": 59,
 			"Video_Id": "1Ozf8qqYI-w",
 			"Movie_name": "Mimi | Official Trailer |Kriti Sanon, Pankaj Tripathi | Dinesh Vijan | Laxman Utekar",
 			"Movie_img":"https://i.ytimg.com/vi/1Ozf8qqYI-w/maxresdefault.jpg",
@@ -6560,7 +6634,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 56,
+			"id": 60,
 			"Video_Id": "-JLewvWBkCw",
 			"Movie_name": "Luka Chuppi | Official Trailer | Kartik Aaryan, Kriti Sanon, Dinesh Vijan, Laxman Utekar",
 			"Movie_img":"https://i.ytimg.com/vi/-JLewvWBkCw/maxresdefault.jpg",
@@ -6568,7 +6642,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 57,
+			"id": 61,
 			"Video_Id": "2Ym7LJv6L_c",
 			"Movie_name": "Street Dancer 3D | Official Trailer | Varun D, Shraddha K,Prabhudeva, Nora F | Remo D",
 			"Movie_img":"https://i.ytimg.com/vi/2Ym7LJv6L_c/maxresdefault.jpg",
@@ -6576,7 +6650,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 58,
+			"id": 62,
 			"Video_Id": "cffAGIYTEHU",
 			"Movie_name": "Tanhaji: The Unsung Warrior | Official Trailer",
 			"Movie_img":"https://i.ytimg.com/vi/cffAGIYTEHU/maxresdefault.jpg",
@@ -6584,7 +6658,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 59,
+			"id": 63,
 			"Video_Id": "zpXnmy-6w1g",
 			"Movie_name": "Panipat | Official Trailer | Sanjay Dutt, Arjun Kapoor, Kriti Sanon",
 			"Movie_img":"https://i.ytimg.com/vi/zpXnmy-6w1g/maxresdefault.jpg",
@@ -6592,7 +6666,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 60,
+			"id": 64,
 			"Video_Id": "tsxemFX0a7k",
 			"Movie_name": "Chhichhore | Official Trailer |Nitesh Tiwari | Sushant | Shraddha",
 			"Movie_img":"https://i.ytimg.com/vi/t56jPOpGFts/maxresdefault.jpg",
@@ -6600,7 +6674,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 61,
+			"id": 65,
 			"Video_Id": "x3oMm5JGXZM",
 			"Movie_name": "Atrangi Re | Official Trailer | Akshay Kumar, Sara Ali Khan, Dhanush, Aanand L Rai",
 			"Movie_img":"https://i.ytimg.com/vi/wlLrCUVZ9Ko/maxresdefault.jpg",
@@ -6608,7 +6682,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 62,
+			"id": 66,
 			"Video_Id": "q10nfS9V090",
 			"Movie_name": "Mission Mangal | Official Trailer | Akshay | Vidya | Sonakshi | Taapsee",
 			"Movie_img":"https://i.ytimg.com/vi/q10nfS9V090/maxresdefault.jpg",
@@ -6616,7 +6690,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 63,
+			"id": 67,
 			"Video_Id": "veJ6ejMjzgE",
 			"Movie_name": "Bala- Official Trailer | Ayushmann Khurrana, Bhumi, Yami | Dinesh Vijan",
 			"Movie_img":"https://static.toiimg.com/photo/msid-71517979/71517979.jpg",
@@ -6624,7 +6698,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 64,
+			"id": 68,
 			"Video_Id": "u5r77-OQwa8",
 			"Movie_name": "Sooryavanshi | Official Trailer |Akshay, Ajay, Ranveer, Katrina | Rohit Shetty",
 			"Movie_img":"https://i.ytimg.com/vi/6O68h9XYtfU/maxresdefault.jpg",
@@ -6632,7 +6706,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 65,
+			"id": 69,
 			"Video_Id": "jQzDujMzfoU",
 			"Movie_name": "Baaghi 3 | Official Trailer | Tiger Shroff |Shraddha|Riteish",
 			"Movie_img":"https://i.ytimg.com/vi/qGT0ID_U73Q/maxresdefault.jpg",
@@ -6640,7 +6714,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 66,
+			"id": 70,
 			"Video_Id": "_lkFyfcrvkU",
 			"Movie_name": "Jawaani Jaaneman – Official Trailer | Saif Ali Khan, Tabu, Alaya F",
 			"Movie_img":"https://i.ytimg.com/vi/_lkFyfcrvkU/maxresdefault.jpg",
@@ -6648,7 +6722,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 67,
+			"id": 71,
 			"Video_Id": "5B9o6LXOiBA",
 			"Movie_name": "DARBAR (Hindi) - Official Trailer | Rajinikanth | A.R. Murugadoss",
 			"Movie_img":"https://i.ytimg.com/vi/5B9o6LXOiBA/maxresdefault.jpg",
@@ -6656,7 +6730,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 68,
+			"id": 72,
 			"Video_Id": "sft5baUuzQs",
 			"Movie_name": "Malang Trailer | Aditya Roy Kapur, Disha Patani, Anil Kapoor, Kunal Kemmu",
 			"Movie_img":"https://i.ytimg.com/vi/sft5baUuzQs/maxresdefault.jpg",
@@ -6664,7 +6738,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 69,
+			"id": 73,
 			"Video_Id": "dKeRIOA28Jk",
 			"Movie_name": "Mardaani 2 | Official Trailer | Rani Mukerji | Vishal Jethwa | Gopi Puthran",
 			"Movie_img":"https://static.toiimg.com/photo/msid-72051958/72051958.jpg",
@@ -6672,7 +6746,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 70,
+			"id": 74,
 			"Video_Id": "L7a1JSeqaXk",
 			"Movie_name": "Pati Patni Aur Woh | Kartik Aaryan, Bhumi Pednekar, Ananya Panday",
 			"Movie_img":"https://i.ytimg.com/vi/L7a1JSeqaXk/maxresdefault.jpg",
@@ -6680,7 +6754,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 71,
+			"id": 75,
 			"Video_Id": "3-7jehmURuM",
 			"Movie_name": "Pagalpanti Trailer - Anil, John, Ileana, Arshad, Urvashi, Pulkit, Kriti",
 			"Movie_img":"https://i.ytimg.com/vi/3-7jehmURuM/maxresdefault.jpg",
@@ -6688,7 +6762,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 72,
+			"id": 76,
 			"Video_Id": "-AJ7cLi1Jfk",
 			"Movie_name": "Dabangg 3: Official Trailer | Salman Khan | Sonakshi Sinha | Prabhu Deva",
 			"Movie_img":"https://i.ytimg.com/vi/-AJ7cLi1Jfk/maxresdefault.jpg",
@@ -6696,7 +6770,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 73,
+			"id": 77,
 			"Video_Id": "gcHH34cEl3Y",
 			"Movie_name": "Housefull 4 |Official Trailer|Akshay|Riteish|Bobby|Kriti S|Pooja|Kriti K|Sajid N",
 			"Movie_img":"https://i.ytimg.com/vi/X7sPSKToDqw/maxresdefault.jpg",
@@ -6704,7 +6778,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 74,
+			"id": 78,
 			"Video_Id": "tQ0mzXRk-oM",
 			"Movie_name": "WAR | Official Trailer | Hrithik Roshan, Tiger Shroff, Vaani Kapoor",
 			"Movie_img":"https://i.ytimg.com/vi/tQ0mzXRk-oM/maxresdefault.jpg",
@@ -6712,7 +6786,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 75,
+			"id": 79,
 			"Video_Id": "QpvEWVVnICE",
 			"Movie_name": "Super 30 | Official Trailer | Hrithik Roshan | Vikas Bahl",
 			"Movie_img":"https://i.ytimg.com/vi/dFCbYdTdhy4/maxresdefault.jpg",
@@ -6720,7 +6794,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 76,
+			"id": 80,
 			"Video_Id": "Ea_GKoe81GY",
 			"Movie_name": "BHARAT | Official Trailer | Salman Khan | Katrina Kaif",
 			"Movie_img":"https://i.ytimg.com/vi/Ea_GKoe81GY/maxresdefault.jpg",
@@ -6728,7 +6802,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 77,
+			"id": 81,
 			"Video_Id": "8ZjR2G2Qm8I",
 			"Movie_name": "PM Narendra Modi |Official Trailer | Vivek Oberoi,Omung Kumar ",
 			"Movie_img":"https://i.ytimg.com/vi/8ZjR2G2Qm8I/maxresdefault.jpg",
@@ -6736,7 +6810,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 78,
+			"id": 82,
 			"Video_Id": "JFP24D15_XM",
 			"Movie_name": "Kesari | Official Trailer | Akshay Kumar | Parineeti Chopra",
 			"Movie_img":"https://i.ytimg.com/vi/JFP24D15_XM/maxresdefault.jpg",
@@ -6744,15 +6818,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 79,
-			"Video_Id": "fo9EhcwQXcM",
-			"Movie_name": "Total Dhamaal | Official Trailer | Ajay | Anil | Madhuri | Indra Kumar",
-			"Movie_img":"https://i.ytimg.com/vi/fo9EhcwQXcM/maxresdefault.jpg",
-			"Description": "",
-			"Language": "Hindi"
-		},
-		{
-			"id": 80,
+			"id": 83,
 			"Video_Id": "JfbxcD6biOk",
 			"Movie_name": "Gully Boy | Official Trailer | Ranveer Singh | Alia Bhatt",
 			"Movie_img":"https://i.ytimg.com/vi/JfbxcD6biOk/maxresdefault.jpg",
@@ -6760,7 +6826,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 81,
+			"id": 84,
 			"Video_Id": "VVY3do673Zc",
 			"Movie_name": "URI | Official Trailer | Vicky Kaushal, Yami Gautam, Paresh Rawal",
 			"Movie_img":"https://i.ytimg.com/vi/VVY3do673Zc/maxresdefault.jpg",
@@ -6768,7 +6834,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 82,
+			"id": 85,
 			"Video_Id": "PtFY3WHztZc",
 			"Movie_name": "Simmba | Official Trailer | Ranveer Singh, Sara Ali Khan, Sonu Sood | Rohit Shetty",
 			"Movie_img":"https://i.ytimg.com/vi/PtFY3WHztZc/maxresdefault.jpg",
@@ -6776,7 +6842,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 83,
+			"id": 86,
 			"Video_Id": "mSlgu8AQAd4",
 			"Movie_name": "Badla | Official Trailer | Amitabh Bachchan | Taapsee Pannu",
 			"Movie_img":"https://i.ytimg.com/vi/mSlgu8AQAd4/maxresdefault.jpg",
@@ -6784,7 +6850,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 84,
+			"id": 87,
 			"Video_Id": "HKOJY0cU63E",
 			"Movie_name": "Article 15 - Trailer | Ayushmann Khurrana | Anubhav Sinha",
 			"Movie_img":"https://i.ytimg.com/vi/HKOJY0cU63E/maxresdefault.jpg",
@@ -6792,7 +6858,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 85,
+			"id": 88,
 			"Video_Id": "SXAqEbLJYPY",
 			"Movie_name": "Jabariya Jodi – Official Trailer | Sidharth Malhotra, Parineeti Chopra",
 			"Movie_img":"https://i.ytimg.com/vi/vO3-oEMi8VM/maxresdefault.jpg",
@@ -6800,7 +6866,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 86,
+			"id": 89,
 			"Video_Id": "Lb8mQCpZHco",
 			"Movie_name": "Runway 34 | Official Trailer | Amitabh Bachchan, Ajay Devgn, Rakul Preet",
 			"Movie_img":"https://i.ytimg.com/vi/0zJ7rfxUv3I/maxresdefault.jpg",
@@ -6808,7 +6874,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 87,
+			"id": 90,
 			"Video_Id": "JKa05nyUmuQ",
 			"Movie_name": "KGF Chapter 2 Trailer|Hindi|Yash|Sanjay Dutt|Raveena Tandon|Srinidhi|Prashanth Neel|Vijay Kiragandur",
 			"Movie_img":"https://i.ytimg.com/vi/JKa05nyUmuQ/maxresdefault.jpg",
@@ -6816,7 +6882,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 88,
+			"id": 91,
 			"Video_Id": "0q7bKjLa0Nc",
 			"Movie_name": "Raw (Beast) - Official Hindi Trailer | Thalapathy Vijay | Sun Pictures | Nelson | Anirudh",
 			"Movie_img":"https://i.ytimg.com/vi/YFJUiIU7OGc/maxresdefault.jpg",
@@ -6824,7 +6890,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 89,
+			"id": 92,
 			"Video_Id": "vb5xCMbMfZ0",
 			"Movie_name": "AIRLIFT THEATRICAL TRAILER | Akshay Kumar, Nimrat Kaur",
 			"Movie_img":"https://i.ytimg.com/vi/PdtFaeEC2fE/maxresdefault.jpg",
@@ -6832,7 +6898,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 90,
+			"id": 93,
 			"Video_Id": "Yf2CzzkWYms",
 			"Movie_name": "Genius Official Trailer | Utkarsh Sharma, Ishita, Nawazuddin | Anil Sharma",
 			"Movie_img":"https://i.ytimg.com/vi/Yf2CzzkWYms/maxresdefault.jpg",
@@ -6840,7 +6906,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 91,
+			"id": 94,
 			"Video_Id": "L7a1JSeqaXk",
 			"Movie_name": "Official Trailer: Pati Patni Aur Woh | Kartik Aaryan, Bhumi Pednekar, Ananya Panday",
 			"Movie_img":"https://i.ytimg.com/vi/L7a1JSeqaXk/maxresdefault.jpg",
@@ -6848,7 +6914,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 92,
+			"id": 95,
 			"Video_Id": "eA6PFnSHo-E",
 			"Movie_name": "Made In China Official Trailer | Rajkummar Rao, Boman, Mouni | Dinesh Vijan",
 			"Movie_img":"https://i.ytimg.com/vi/oj4de7k4050/maxresdefault.jpg",
@@ -6856,7 +6922,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 93,
+			"id": 96,
 			"Video_Id": "EJUD2PptXrk",
 			"Movie_name": "De De Pyaar De - Official Trailer | Ajay Devgn, Tabu, Rakul Preet Singh | Akiv Ali",
 			"Movie_img":"https://i.ytimg.com/vi/EJUD2PptXrk/maxresdefault.jpg",
@@ -6864,7 +6930,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 94,
+			"id": 97,
 			"Video_Id": "dG3K6jB3iW8",
 			"Movie_name": "Official Trailer: Batla House | John Abraham,Mrunal Thakur, Nikkhil Advani",
 			"Movie_img":"https://i.ytimg.com/vi/dG3K6jB3iW8/maxresdefault.jpg",
@@ -6872,7 +6938,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 95,
+			"id": 98,
 			"Video_Id": "-j7mGq3s3eA",
 			"Movie_name": "Bhoot Police - Trailer | Saif Ali Khan | Arjun Kapoor | Jacqueline Fernandez | Yami Gautam",
 			"Movie_img":"https://i.ytimg.com/vi/oBpG-qSd9lM/maxresdefault.jpg",
@@ -6880,7 +6946,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 96,
+			"id": 99,
 			"Video_Id": "PyDPycvug6A",
 			"Movie_name": "SHAMSHERA | Trailer | Ranbir Kapoor | Sanjay Dutt | Vaani Kapoor | Anmol Malik Films",
 			"Movie_img":"https://i.ytimg.com/vi/PyDPycvug6A/maxresdefault.jpg",
@@ -6888,7 +6954,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 97,
+			"id": 100,
 			"Video_Id": "q6a7YHDK-ik",
 			"Movie_name": "The Accidental Prime Minister | Official Trailer",
 			"Movie_img":"https://i.ytimg.com/vi/q6a7YHDK-ik/maxresdefault.jpg",
@@ -6896,7 +6962,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 98,
+			"id": 101,
 			"Video_Id": "pKcamCgBvMo",
 			"Movie_name": "Ek Ladki Ko Dekha Toh Aisa Laga | Official Trailer | Anil | Sonam | Rajkummar | Juhi",
 			"Movie_img":"https://i.ytimg.com/vi/pKcamCgBvMo/maxresdefault.jpg",
@@ -6904,7 +6970,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 99,
+			"id": 102,
 			"Video_Id": "2B6vjua8aK4",
 			"Movie_name": "Cheat India Trailer | Emraan Hashmi | Soumik Sen",
 			"Movie_img":"https://i.ytimg.com/vi/2B6vjua8aK4/maxresdefault.jpg",
@@ -6912,7 +6978,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 100,
+			"id": 103,
 			"Video_Id": "Qqpl_sAcQF8",
 			"Movie_name": "Thackeray | Official Trailer | Nawazuddin Siddiqui, Amrita Rao",
 			"Movie_img":"https://i.ytimg.com/vi/Qqpl_sAcQF8/maxresdefault.jpg",
@@ -6920,7 +6986,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 101,
+			"id": 104,
 			"Video_Id": "HSHjC8VdzCM",
 			"Movie_name": "RAW - Romeo Akbar Walter | Official Trailer | John Abraham | Jackie Shroff | Mouni Roy",
 			"Movie_img":"https://static-koimoi.akamaized.net/wp-content/new-galleries/2019/04/romeo-akbar-walter-movie-review-1.jpg",
@@ -6928,7 +6994,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 102,
+			"id": 105,
 			"Video_Id": "nD82ZhhZF_8",
 			"Movie_name": "Dybbuk - Official Trailer | Emraan Hashmi, Nikita Dutta, Manav Kaul",
 			"Movie_img":"https://i.ytimg.com/vi/nD82ZhhZF_8/maxresdefault.jpg",
@@ -6936,7 +7002,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 103,
+			"id": 106,
 			"Video_Id": "nf39Jpi3ZQ4",
 			"Movie_name": "Dream Girl: Official Trailer | Ayushmann Khurrana, Nushrat Bharucha",
 			"Movie_img":"https://i.ytimg.com/vi/nf39Jpi3ZQ4/maxresdefault.jpg",
@@ -6944,7 +7010,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 104,
+			"id": 107,
 			"Video_Id": "m-JIofHHU6s",
 			"Movie_name": "Commando 3 | Official Trailer | Vidyut, Adah, Angira, Gulshan|Vipul Amrutlal Shah",
 			"Movie_img":"https://i.ytimg.com/vi/m-JIofHHU6s/maxresdefault.jpg",
@@ -6952,10 +7018,18 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 105,
+			"id": 108,
 			"Video_Id": "n5MVzhwupBY",
 			"Movie_name": "Radhe | Trailer | Salman Khan | Disha Patani | Randeep Hooda | Jackie Shroff | Prabhudeva",
 			"Movie_img":"https://i.ytimg.com/vi/n5MVzhwupBY/maxresdefault.jpg",
+			"Description": "",
+			"Language": "Hindi"
+		},
+		{
+			"id": 109,
+			"Video_Id": "fo9EhcwQXcM",
+			"Movie_name": "Total Dhamaal | Official Trailer | Ajay | Anil | Madhuri | Indra Kumar",
+			"Movie_img":"https://i.ytimg.com/vi/fo9EhcwQXcM/maxresdefault.jpg",
 			"Description": "",
 			"Language": "Hindi"
 		}
@@ -12708,26 +12782,46 @@
 	"TrailersSlider":[
 		{
 			"id": 1,
-			"Video_Id": "1VhA9aITCGg",
+			"Video_Id": "scNmYjoR-qM",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Pushpa 2",
-			"Movieimg": "https://topmovierankings.com/wp-content/uploads/2023/03/pushpa-2-1.jpg",
+			"Movie_name": "Adipurush Official Trailer | Prabhas | Saif Ali Khan | Kriti Sanon | Om Raut | Bhushan Kumar",
+			"Movieimg": "https://i.ytimg.com/vi/scNmYjoR-qM/maxresdefault.jpg",
             "Description": "",
             "Language": "Hindi"
 		},
 		{
 			"id": 2,
-			"Video_Id": "hY_e3BhFYBw",
+			"Video_Id": "3Jk3vquJDGs",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Doctor G | Official Trailer | Ayushmann Khurrana, Rakul Preet Singh, Shefali Shah ",
-			"Movieimg": "https://i.ytimg.com/vi/hY_e3BhFYBw/maxresdefault.jpg",
+			"Movie_name": "The Kerala Story Official Trailer | Vipul Amrutlal Shah | Sudipto Sen | Adah Sharma | Aashin A Shah",
+			"Movieimg": "https://i.ytimg.com/vi/3Jk3vquJDGs/maxresdefault.jpg",
             "Description": "",
             "Language": "Hindi"
 		},
 		{
 			"id": 3,
+			"Video_Id": "MWH7lfZdP-8",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Sirf Ek Bandaa Kaafi Hai | Official Trailer | Manoj B",
+			"Movieimg": "https://i.ytimg.com/vi/MWH7lfZdP-8/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Hindi"
+		},
+		{
+			"id": 4,
+			"Video_Id": "5KaLhGFL51U",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Dahaad - Official Trailer | Sonakshi Sinha, Vijay Varma, Gulshan Devaiah, Sohum Shah",
+			"Movieimg": "https://i.ytimg.com/vi/5KaLhGFL51U/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Hindi"
+		},
+		{
+			"id": 5,
 			"Video_Id": "ZVo8CdWIWnk",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -12737,7 +12831,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 4,
+			"id": 6,
 			"Video_Id": "cQmQy-Wu72g",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -12747,7 +12841,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 5,
+			"id": 7,
 			"Video_Id": "VgGgYOzNWno",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -12757,7 +12851,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 6,
+			"id": 8,
 			"Video_Id": "gJj90WOWQvg",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -12767,27 +12861,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 7,
-			"Video_Id": "H42M6qfsjTk",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Doctor G | Official Trailer | Ayushmann K, Rakul P, Shefali S| Anubhuti Kashyap",
-			"Movieimg": "https://i.ytimg.com/vi/H42M6qfsjTk/maxresdefault.jpg",
-            "Description": "",
-            "Language": "Hindi"
-		},
-		{
-			"id": 8,
-			"Video_Id": "J6DZITPRrU8",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Cuttputlli | Official Trailer | Akshay Kumar, Rakulpreet Singh",
-			"Movieimg": "https://i.ytimg.com/vi/J6DZITPRrU8/maxresdefault.jpg",
-            "Description": "",
-            "Language": "Hindi"
-		},
-		{
-            "id": 8,
+            "id": 9,
 			"Video_Id": "Fz59A68eH4E",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13123,6 +13197,16 @@
 	"MovieSlider":[
 		{
 			"id": 1,
+			"Video_Id": "scNmYjoR-qM",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Adipurush",
+			"Movieimg": "https://i.ytimg.com/vi/scNmYjoR-qM/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Hindi"
+		},
+		{
+			"id": 2,
 			"Video_Id": "1VhA9aITCGg",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13132,7 +13216,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 2,
+			"id": 3,
 			"Video_Id": "vbSGPIS2_ao",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13142,7 +13226,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 3,
+			"id": 4,
 			"Video_Id": "vqu4z34wENw",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13152,7 +13236,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 4,
+			"id": 5,
 			"Video_Id": "Gw77Nx4eBMc",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13162,7 +13246,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 5,
+			"id": 6,
 			"Video_Id": "Feu56Usia-A",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13172,7 +13256,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 6,
+			"id": 7,
 			"Video_Id": "JCPcdvRfbn8",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13182,7 +13266,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 7,
+			"id": 8,
 			"Video_Id": "SB7JK0kTy9Q",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13192,7 +13276,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 8,
+			"id": 9,
 			"Video_Id": "q5HmO12S7iA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13202,7 +13286,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 9,
+			"id": 10,
 			"Video_Id": "d9wH4pcLbXQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13212,7 +13296,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 10,
+			"id": 11,
 			"Video_Id": "jF5rJAXUY4A",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13222,7 +13306,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 11,
+			"id": 12,
 			"Video_Id": "0wiSMPJ64uA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13232,7 +13316,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 12,
+			"id": 13,
 			"Video_Id": "x-sgnhYJGOA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13242,7 +13326,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 13,
+			"id": 14,
 			"Video_Id": "BUjXzrgntcY",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13252,7 +13336,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 14,
+			"id": 15,
 			"Video_Id": "Xrbx8-Pq8RE",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13262,7 +13346,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 15,
+			"id": 16,
 			"Video_Id": "aQF4zbOKoEY",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13272,7 +13356,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 16,
+			"id": 17,
 			"Video_Id": "mVZmf8dqLL8",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13282,7 +13366,7 @@
             "Language": "Hindi"
 		},
 		{
-            "id": 17,
+            "id": 18,
 			"Video_Id": "IkfdlsNR4wI",
 			"qurekaimg":"",
 			"qurekaimg2":"",
