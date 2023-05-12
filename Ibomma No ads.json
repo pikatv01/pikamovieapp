@@ -13217,36 +13217,16 @@
 		},
 		{
 			"id": 3,
-			"Video_Id": "vbSGPIS2_ao",
+			"Video_Id": "3Jk3vquJDGs",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Shehzada",
-			"Movieimg":"https://i.ytimg.com/vi/vbSGPIS2_ao/maxresdefault.jpg",
-			"Description": "Shehzada is an upcoming Indian Hindi-language action drama film directed by Rohit Dhawan and produced by T-Series Films, Haarika & Hassine Creations, Geetha Arts, Brat Films and Kartik Aaryan.",
-			"Language": "Hindi"
+			"Movie_name": "The Kerala Story Official Trailer | Vipul Amrutlal Shah | Sudipto Sen | Adah Sharma | Aashin A Shah",
+			"Movieimg": "https://i.ytimg.com/vi/3Jk3vquJDGs/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Hindi"
 		},
 		{
 			"id": 4,
-			"Video_Id": "vqu4z34wENw",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Pathaan",
-			"Movieimg":"https://i.ytimg.com/vi/vqu4z34wENw/maxresdefault.jpg",
-			"Description": "Pathaan is an upcoming Indian Hindi-language spy action-thriller film written and directed by Siddharth Anand and produced by Aditya Chopra. The film stars Shah Rukh Khan, Deepika Padukone and John Abraham. It is the fourth installment in the YRF Spy Universe, and is Khan's first lead role since Zero.",
-			"Language": "Hindi"
-		},
-		{
-			"id": 5,
-			"Video_Id": "Gw77Nx4eBMc",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Mission Majnu",
-			"Movieimg":"https://i.ytimg.com/vi/Gw77Nx4eBMc/maxresdefault.jpg",
-			"Description": "",
-			"Language": "Hindi"
-		},
-		{
-			"id": 6,
 			"Video_Id": "Feu56Usia-A",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13256,7 +13236,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 7,
+			"id": 5,
 			"Video_Id": "JCPcdvRfbn8",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13266,7 +13246,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 8,
+			"id": 6,
 			"Video_Id": "SB7JK0kTy9Q",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13276,7 +13256,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 9,
+			"id": 7,
 			"Video_Id": "q5HmO12S7iA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13286,7 +13266,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 10,
+			"id": 8,
 			"Video_Id": "d9wH4pcLbXQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13296,17 +13276,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 11,
-			"Video_Id": "jF5rJAXUY4A",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Adipurush",
-			"Movieimg":"https://i.ytimg.com/vi/VOafL4XZ8s8/maxresdefault.jpg",
-            "Description": "Adipurush is an upcoming Indian Hindu mythological film based on the epic Ramayana. The film is directed by Om Raut and produced by T-Series Films and Retrophiles. Shot simultaneously in Hindi and Telugu languages, the film stars Prabhas as Raghava, Kriti Sanon as Janaki, and Saif Ali Khan as Lankesh.",
-            "Language": "Hindi"
-		},
-		{
-			"id": 12,
+			"id": 9,
 			"Video_Id": "0wiSMPJ64uA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13316,7 +13286,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 13,
+			"id": 10,
 			"Video_Id": "x-sgnhYJGOA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13326,7 +13296,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 14,
+			"id": 11,
 			"Video_Id": "BUjXzrgntcY",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13336,7 +13306,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 15,
+			"id": 12,
 			"Video_Id": "Xrbx8-Pq8RE",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13346,7 +13316,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 16,
+			"id": 13,
 			"Video_Id": "aQF4zbOKoEY",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13356,7 +13326,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 17,
+			"id": 14,
 			"Video_Id": "mVZmf8dqLL8",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13364,16 +13334,6 @@
 			"Movieimg":"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/02/16/958005-rajkummarrao-varunsharma-janhvikapoor-roohi-newposter.jpg",
             "Description": "Roohi is a 2021 Indian Hindi-language comedy horror film directed by Hardik Mehta and produced by Dinesh Vijan under the banner Maddock Films.",
             "Language": "Hindi"
-		},
-		{
-            "id": 18,
-			"Video_Id": "IkfdlsNR4wI",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Jug Jugg Jeeyo",
-			"Movieimg":"https://akm-img-a-in.tosshub.com/businesstoday/images/story/202206/screenshot_2022-06-24_at_11-sixteen_nine.png",
-			"Description": "Jugjugg Jeeyo is a 2022 Indian Hindi-language family comedy-drama film directed by Raj Mehta, written by Rishhabh Sharrma, Neeraj Udhwani and Sumit Batheja from a story by Anurag Singh.",
-			"Language": "Hindi"
 		}
 	],
 	"SouthMovieSlider":[
