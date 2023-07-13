@@ -13515,16 +13515,6 @@
 		},
 		{
 			"id": 4,
-			"Video_Id": "",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "",
-			"Movieimg":"https://i.ytimg.com/vi/j_F3xCitEZk/maxresdefault.jpg",
-            "Description": "",
-            "Language": "Gujarati"
-		},
-		{
-			"id": 5,
 			"Video_Id": "IC_fylse9xA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13534,7 +13524,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 6,
+			"id": 5,
 			"Video_Id": "j_F3xCitEZk",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13544,7 +13534,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 7,
+			"id": 6,
 			"Video_Id": "1X6Gk4GYgy4",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13554,7 +13544,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 8,
+			"id": 7,
 			"Video_Id": "nPUmI-MV0aQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13564,7 +13554,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 9,
+			"id": 8,
 			"Video_Id": "XSNIbRD8IMQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13574,7 +13564,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 10,
+			"id": 9,
 			"Video_Id": "1nOOvovCwXw",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13584,7 +13574,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 11,
+			"id": 10,
 			"Video_Id": "EKdhfBIIrhU",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13594,7 +13584,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 12,
+			"id": 11,
 			"Video_Id": "6VfQEHBJc0o",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13604,7 +13594,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 13,
+			"id": 12,
 			"Video_Id": "ox7cTWmkxCA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
