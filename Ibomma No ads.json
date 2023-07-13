@@ -13309,46 +13309,56 @@
 	"MovieSlider":[
 		{
 			"id": 1,
-			"Video_Id": "scNmYjoR-qM",
+			"Video_Id": "xZ1FXdIGf9Q",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Adipurush",
-			"Movieimg": "https://i.ytimg.com/vi/scNmYjoR-qM/maxresdefault.jpg",
+			"Movie_name": "OMG 2 - Official Teaser | Akshay Kumar, Pankaj Tripathi, Yami Gautam | Amit Rai",
+			"Movieimg": "https://i.ytimg.com/vi/xZ1FXdIGf9Q/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaxNIXSCKRKSSvlQffepyisPb1ZA",
             "Description": "",
             "Language": "Hindi"
 		},
 		{
 			"id": 2,
-			"Video_Id": "1VhA9aITCGg",
+			"Video_Id": "k8YiqM0Y-78",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Pushpa 2",
-			"Movieimg":"https://topmovierankings.com/wp-content/uploads/2023/03/pushpa-2-1.jpg",
+			"Movie_name": "Jawan |Official Hindi Prevue |Shah Rukh Khan |Atlee |Nayanthara |Vijay Sethupathi |Deepika",
+			"Movieimg": "https://i.ytimg.com/vi/k8YiqM0Y-78/maxresdefault.jpg",
             "Description": "",
             "Language": "Hindi"
 		},
 		{
 			"id": 3,
-			"Video_Id": "3Jk3vquJDGs",
+			"Video_Id": "LHm2RyKo0_M",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "The Kerala Story",
-			"Movieimg": "https://i.ytimg.com/vi/3Jk3vquJDGs/maxresdefault.jpg",
+			"Movie_name": "Rocky Aur Rani Ki Prem Kahani | OFFICIAL TRAILER | Dharmendra, Jaya, Shabana, Ranveer, Alia",
+			"Movieimg": "https://i.ytimg.com/vi/LHm2RyKo0_M/maxresdefault.jpg",
             "Description": "",
             "Language": "Hindi"
 		},
 		{
 			"id": 4,
-			"Video_Id": "Feu56Usia-A",
+			"Video_Id": "NyeG2mLVCS4",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Varisu",
-			"Movieimg":"https://i.ytimg.com/vi/Feu56Usia-A/maxresdefault.jpg",
-			"Description": "",
-			"Language": "Hindi"
+			"Movie_name": "Bawaal - Official Trailer | Varun Dhawan, Janhvi Kapoor",
+			"Movieimg": "https://i.ytimg.com/vi/NyeG2mLVCS4/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Hindi"
 		},
 		{
 			"id": 5,
+			"Video_Id": "8EPJiFfWRfw",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "SatyaPrem Ki Katha|Official Trailer|Kartik|Kiara|Sameer V|Sajid Nadiadwala",
+			"Movieimg": "https://i.ytimg.com/vi/8EPJiFfWRfw/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Hindi"
+		},
+		{
+			"id": 6,
 			"Video_Id": "JCPcdvRfbn8",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13358,37 +13368,7 @@
 			"Language": "Hindi"
 		},
 		{
-			"id": 6,
-			"Video_Id": "SB7JK0kTy9Q",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Gandhi Godse - Ek Yudh",
-			"Movieimg":"https://i.ytimg.com/vi/zfRsBEm2yrQ/maxresdefault.jpg",
-			"Description": "",
-			"Language": "Hindi"
-		},
-		{
 			"id": 7,
-			"Video_Id": "q5HmO12S7iA",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Chhatriwali",
-			"Movieimg":"https://i.ytimg.com/vi/q5HmO12S7iA/maxresdefault.jpg",
-			"Description": "",
-			"Language": "Hindi"
-		},
-		{
-			"id": 8,
-			"Video_Id": "d9wH4pcLbXQ",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Cirkus",
-			"Movieimg":"https://i.ytimg.com/vi/d9wH4pcLbXQ/maxresdefault.jpg",
-			"Description": "",
-			"Language": "Hindi"
-		},
-		{
-			"id": 9,
 			"Video_Id": "0wiSMPJ64uA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -13398,53 +13378,13 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 10,
-			"Video_Id": "x-sgnhYJGOA",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Thank God",
-			"Movieimg":"https://i.ytimg.com/vi/x-sgnhYJGOA/maxresdefault.jpg",
-            "Description": "Thank God is an upcoming Indian Hindi-language fantasy comedy film written and directed by Indra Kumar with production by T-Series and Maruti International. The film features Ajay Devgn, Sidharth Malhotra and Rakul Preet Singh in the lead roles.",
-            "Language": "Hindi"
-		},
-		{
-			"id": 11,
+			"id": 8,
 			"Video_Id": "BUjXzrgntcY",
 			"qurekaimg":"",
 			"qurekaimg2":"",
 			"Movie_name": "Brahmastra",
 			"Movieimg":"https://i.ytimg.com/vi/AgS_6UbQ8JM/maxresdefault.jpg",
             "Description": "A young man on the brink of falling in love gets his world turned upside down when he discovers he has the power to control fire and a connection to a secret society of guardians.",
-            "Language": "Hindi"
-		},
-		{
-			"id": 12,
-			"Video_Id": "Xrbx8-Pq8RE",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Shamshera",
-			"Movieimg":"https://images.cnbctv18.com/wp-content/uploads/2022/07/Shamshera-1019x573.jpg",
-            "Description": "Shamshera is a 2022 Indian Hindi-language period action film produced by Aditya Chopra under Yash Raj Films and directed by Karan Malhotra.The film stars Ranbir Kapoor in his first dual role alongside Sanjay Dutt, Vaani Kapoor, Ronit Roy, and Saurabh Shukla.",
-            "Language": "Hindi"
-		},
-		{
-			"id": 13,
-			"Video_Id": "aQF4zbOKoEY",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Raksha Bandhan",
-			"Movieimg":"https://i.ytimg.com/vi/aQF4zbOKoEY/maxresdefault.jpg",
-            "Description": "Raksha Bandhan is a 2022 Indian Hindi-language family comedy-drama film directed by Aanand L. Rai and written by Himanshu Sharma and Kanika Dhillon.",
-            "Language": "Hindi"
-		},
-		{
-			"id": 14,
-			"Video_Id": "mVZmf8dqLL8",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Roohi",
-			"Movieimg":"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/02/16/958005-rajkummarrao-varunsharma-janhvikapoor-roohi-newposter.jpg",
-            "Description": "Roohi is a 2021 Indian Hindi-language comedy horror film directed by Hardik Mehta and produced by Dinesh Vijan under the banner Maddock Films.",
             "Language": "Hindi"
 		}
 	],
